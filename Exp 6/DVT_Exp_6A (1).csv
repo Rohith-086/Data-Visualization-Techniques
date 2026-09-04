@@ -1,0 +1,1001 @@
+BookingID,BookingDate,CheckInDate,HotelName,Region,City,RoomType,CustomerType,BookingSource,MealPlan,Guests,NightsStayed,BookingLeadDays,RoomRate,DiscountPercent,ExtraServices,TotalBookingValue,PaymentMethod,BookingStatus,CustomerRating,Performance_Score
+HB1001,29-03-2025,24-07-2025,City Central Hotel,SOUTH,Chennai,Executive,Family,Website,Room Only,3,3,117,4072,25,1500,10662,Credit Card,Checked-in,4,0.447944
+HB1002,28-09-2025,29-11-2025,Pearl Garden Hotel,SOUTH,Bengaluru,Deluxe,Leisure,Travel Agent,Room Only,3,1,62,4778,5,2500,7039,Debit Card,Checked-out,3.7,0.380468
+HB1003,02-04-2025,22-07-2025,Blue Bay Resort,EAST,Bhubaneswar,Family,Family,Mobile App,Room Only,3,4,111,7833,0,500,31832,Credit Card,Confirmed,3.8,0.685984
+HB1004,17-12-2025,03-02-2026,Sunrise Palace,SOUTH,Kochi,Standard,Couple,Mobile App,Breakfast,3,2,48,2685,25,1500,8228,Cash,Checked-out,4.8,0.482736
+HB1005,11-12-2025,20-02-2026,Green Valley Inn,EAST,Patna,Family,Family,Website,Room Only,2,2,71,5674,0,0,11348,Credit Card,Checked-out,4.3,0.480176
+HB1006,03-03-2025,30-05-2025,Crown Plaza Residency,CENTRAL,Indore,Family,Couple,Mobile App,Room Only,3,3,88,6507,5,4000,22545,Debit Card,Checked-out,4.7,0.64654
+HB1007,28-06-2025,30-08-2025,City Central Hotel,WEST,Ahmedabad,Standard,Business,Booking Portal,Room Only,2,5,63,2758,10,0,12411,Debit Card,Checked-out,3.2,0.404932
+HB1008,11-10-2025,08-11-2025,Golden Sands Hotel,CENTRAL,Nagpur,Executive,Couple,Travel Agent,Room Only,2,2,28,7906,0,500,16312,Credit Card,Cancelled,4.1,0.523744
+HB1009,14-11-2025,21-12-2025,Mountain View Resort,SOUTH,Hyderabad,Standard,Leisure,Mobile App,Room Only,2,4,37,2400,0,1000,10600,UPI,Checked-out,4,0.4472
+HB1010,08-08-2025,01-10-2025,Royal Orchid Suites,SOUTH,Hyderabad,Executive,Business,Walk-in,Room Only,2,1,54,7378,5,500,7509,Cash,Checked-out,4.2,0.426108
+HB1011,28-08-2025,13-09-2025,Golden Sands Hotel,EAST,Guwahati,Deluxe,Business,Booking Portal,Breakfast,2,5,16,3304,0,1000,22020,Cash,Checked-out,4,0.58424
+HB1012,31-05-2025,01-07-2025,Urban Nest Hotel,SOUTH,Kochi,Standard,Family,Mobile App,Full Board,2,5,31,2922,15,1000,26418,Credit Card,Checked-out,3.8,0.621016
+HB1013,31-10-2025,19-01-2026,Mountain View Resort,SOUTH,Kochi,Family,Solo,Booking Portal,Breakfast,4,5,80,7620,10,0,43290,Debit Card,Confirmed,4.1,0.84748
+HB1014,27-07-2025,26-09-2025,Crown Plaza Residency,NORTH,Jaipur,Executive,Business,Website,Breakfast,3,2,61,4830,0,1500,13860,UPI,Checked-out,4.7,0.54232
+HB1015,18-08-2025,05-12-2025,Grand Horizon Hotel,WEST,Mumbai,Deluxe,Leisure,Booking Portal,Room Only,4,3,109,4450,10,1000,13015,UPI,Cancelled,3.7,0.45218
+HB1016,21-08-2025,27-09-2025,Grand Horizon Hotel,EAST,Patna,Standard,Solo,Mobile App,Room Only,2,6,37,3443,25,2500,17994,Net Banking,Checked-in,3.1,0.463928
+HB1017,26-12-2025,10-02-2026,Grand Horizon Hotel,SOUTH,Hyderabad,Deluxe,Business,Travel Agent,Full Board,3,1,46,5473,0,500,9873,UPI,Cancelled,4.2,0.454476
+HB1018,09-11-2025,15-12-2025,Urban Nest Hotel,WEST,Goa,Standard,Couple,Booking Portal,Half Board,3,4,36,3619,20,0,22381,Net Banking,Checked-in,4.6,0.636572
+HB1019,08-12-2025,26-01-2026,City Central Hotel,NORTH,Chandigarh,Standard,Leisure,Travel Agent,Room Only,4,1,49,2412,0,500,2912,UPI,Checked-out,4.3,0.378944
+HB1020,16-04-2025,16-05-2025,Blue Bay Resort,NORTH,Delhi,Deluxe,Family,Website,Room Only,2,1,30,4760,0,0,4760,Cash,Confirmed,3.3,0.32112
+HB1021,30-03-2025,12-07-2025,Lakeview Grand,SOUTH,Kochi,Standard,Solo,Mobile App,Room Only,3,6,104,2678,10,500,14961,Credit Card,Checked-out,4,0.499532
+HB1022,23-07-2025,08-08-2025,Crown Plaza Residency,NORTH,Jaipur,Deluxe,Business,Website,Breakfast,3,1,16,4078,0,500,5928,Cash,Checked-in,3.7,0.367136
+HB1023,21-11-2025,10-03-2026,Blue Bay Resort,WEST,Mumbai,Standard,Leisure,Travel Agent,Breakfast,1,1,109,2892,0,1000,4342,Net Banking,Cancelled,2.7,0.268104
+HB1024,13-02-2025,14-03-2025,Pearl Garden Hotel,WEST,Mumbai,Deluxe,Solo,Mobile App,Full Board,2,1,29,2849,0,1000,6449,Net Banking,Confirmed,4.7,0.453388
+HB1025,16-03-2025,14-04-2025,Green Valley Inn,SOUTH,Bengaluru,Standard,Couple,Mobile App,Room Only,2,1,29,3995,5,1000,4795,UPI,Checked-out,3.7,0.35354
+HB1026,21-12-2025,05-04-2026,Silver Oak Resort,SOUTH,Kochi,Suite,Family,Website,Breakfast,3,2,105,10412,0,0,23524,UPI,Confirmed,4.5,0.642288
+HB1027,24-05-2025,18-09-2025,Metro Heights,CENTRAL,Nagpur,Deluxe,Solo,Booking Portal,Breakfast,3,1,117,4295,0,2500,8145,Debit Card,Checked-out,5,0.49774
+HB1028,10-10-2025,15-12-2025,Green Valley Inn,CENTRAL,Bhopal,Suite,Couple,Booking Portal,Breakfast,1,1,66,13416,5,1500,14695,Credit Card,Cancelled,4.2,0.51234
+HB1029,12-12-2025,31-12-2025,Blue Bay Resort,CENTRAL,Raipur,Deluxe,Business,Booking Portal,Breakfast,3,1,19,3238,0,0,4588,Debit Card,Confirmed,4.7,0.431056
+HB1030,13-02-2025,30-03-2025,Crown Plaza Residency,EAST,Bhubaneswar,Deluxe,Leisure,Booking Portal,Room Only,1,7,45,5206,5,4000,38620,Cash,Confirmed,4.4,0.81544
+HB1031,16-09-2025,02-10-2025,Crown Plaza Residency,EAST,Patna,Deluxe,Family,Booking Portal,Breakfast,4,4,16,5720,5,0,28936,UPI,Checked-in,4.3,0.691232
+HB1032,20-07-2025,22-08-2025,Royal Orchid Suites,SOUTH,Kochi,Standard,Leisure,Website,Breakfast,3,2,33,2261,0,0,7222,Credit Card,Cancelled,3.2,0.342664
+HB1033,16-10-2025,11-02-2026,City Central Hotel,SOUTH,Chennai,Family,Business,Booking Portal,Breakfast,5,5,118,5102,10,500,34709,Credit Card,Cancelled,3.9,0.728508
+HB1034,24-12-2025,27-12-2025,City Central Hotel,EAST,Guwahati,Standard,Business,Booking Portal,Half Board,4,3,3,4155,0,500,23765,Cash,Confirmed,4.2,0.62118
+HB1035,03-06-2025,07-07-2025,Blue Bay Resort,CENTRAL,Bhopal,Standard,Family,Travel Agent,Breakfast,4,3,34,2323,15,4000,15324,Credit Card,Confirmed,4.2,0.519888
+HB1036,14-08-2025,21-09-2025,City Central Hotel,EAST,Guwahati,Suite,Family,Booking Portal,Full Board,3,3,38,9551,0,1000,41353,UPI,Checked-out,5,0.896236
+HB1037,26-11-2025,13-12-2025,Metro Heights,EAST,Guwahati,Standard,Leisure,Booking Portal,Half Board,2,2,17,3981,0,1000,12562,Debit Card,Checked-in,4.2,0.486744
+HB1038,04-10-2025,09-10-2025,Crown Plaza Residency,NORTH,Lucknow,Family,Leisure,Booking Portal,Room Only,2,2,5,5366,5,500,10695,Credit Card,Cancelled,3.2,0.38434
+HB1039,17-04-2025,19-06-2025,Pearl Garden Hotel,NORTH,Jaipur,Deluxe,Business,Travel Agent,Breakfast,1,2,63,5144,0,1000,12188,UPI,Cancelled,4.2,0.482256
+HB1040,03-01-2025,24-04-2025,Urban Nest Hotel,SOUTH,Kochi,Deluxe,Family,Website,Room Only,4,5,111,3526,5,500,17248,Credit Card,Confirmed,4,0.526976
+HB1041,13-01-2025,07-04-2025,Green Valley Inn,WEST,Goa,Deluxe,Couple,Website,Breakfast,2,3,84,5216,10,1500,18283,Credit Card,Checked-out,4.8,0.603396
+HB1042,16-10-2025,08-12-2025,Sunrise Palace,SOUTH,Chennai,Family,Family,Website,Breakfast,2,1,53,5934,0,0,6834,Debit Card,Confirmed,5,0.482008
+HB1043,08-08-2025,22-10-2025,The Palm Residency,CENTRAL,Nagpur,Deluxe,Leisure,Walk-in,Room Only,4,5,75,3790,10,2500,19555,Debit Card,Checked-out,3.1,0.48266
+HB1044,31-03-2025,14-04-2025,Green Valley Inn,WEST,Pune,Deluxe,Leisure,Travel Agent,Room Only,3,2,14,3687,5,0,7005,Credit Card,Checked-in,4.3,0.42806
+HB1045,30-09-2025,09-10-2025,Green Valley Inn,NORTH,Chandigarh,Family,Leisure,Booking Portal,Room Only,2,3,9,6883,20,1500,18019,UPI,Cancelled,4,0.536228
+HB1046,27-12-2025,07-04-2026,The Palm Residency,CENTRAL,Raipur,Standard,Couple,Travel Agent,Half Board,2,2,101,2522,10,500,8640,Credit Card,Checked-in,3.7,0.39968
+HB1047,23-01-2025,27-03-2025,Royal Orchid Suites,CENTRAL,Bhopal,Suite,Leisure,Mobile App,Breakfast,2,3,63,11448,5,500,35827,Debit Card,Cancelled,3.5,0.709924
+HB1048,19-08-2025,15-09-2025,The Palm Residency,CENTRAL,Nagpur,Deluxe,Business,Booking Portal,Breakfast,2,4,27,3642,0,1500,19668,UPI,Confirmed,4.2,0.572016
+HB1049,04-08-2025,25-09-2025,Lakeview Grand,EAST,Bhubaneswar,Suite,Leisure,Booking Portal,Room Only,4,2,52,7325,0,1000,15650,Net Banking,Checked-out,5,0.5878
+HB1050,30-10-2025,28-01-2026,Golden Sands Hotel,EAST,Guwahati,Deluxe,Business,Walk-in,Breakfast,2,6,90,4383,5,1000,31383,Debit Card,Confirmed,4.6,0.744596
+HB1051,02-04-2025,03-05-2025,Metro Heights,CENTRAL,Raipur,Deluxe,Family,Walk-in,Half Board,2,3,31,5922,20,500,20113,Credit Card,Confirmed,4,0.561356
+HB1052,04-03-2025,28-06-2025,City Central Hotel,EAST,Kolkata,Standard,Leisure,Booking Portal,Room Only,4,3,116,2389,0,1500,8667,Debit Card,Checked-out,4.6,0.472004
+HB1053,26-06-2025,25-07-2025,Golden Sands Hotel,SOUTH,Kochi,Standard,Business,Travel Agent,Breakfast,3,3,29,1822,10,0,8969,Net Banking,Cancelled,3.6,0.395628
+HB1054,30-07-2025,30-09-2025,Silver Oak Resort,NORTH,Delhi,Deluxe,Family,Website,Half Board,2,2,62,2899,5,1000,10108,Credit Card,Confirmed,3.4,0.393296
+HB1055,21-09-2025,20-10-2025,Royal Orchid Suites,WEST,Ahmedabad,Deluxe,Leisure,Mobile App,Breakfast,4,1,29,4346,5,1500,7429,Credit Card,Cancelled,4.4,0.441148
+HB1056,02-04-2025,22-07-2025,Golden Sands Hotel,SOUTH,Hyderabad,Deluxe,Family,Mobile App,Breakfast,4,4,111,5470,10,1500,28392,Net Banking,Cancelled,2.6,0.548704
+HB1057,26-03-2025,14-04-2025,Lakeview Grand,CENTRAL,Indore,Deluxe,Leisure,Website,Breakfast,4,1,19,5401,20,1000,7121,UPI,Checked-in,3.7,0.381452
+HB1058,08-12-2025,26-03-2026,Lakeview Grand,NORTH,Lucknow,Deluxe,Couple,Mobile App,Half Board,4,1,108,4116,20,1500,8393,Credit Card,Checked-out,4.6,0.468716
+HB1059,04-01-2025,30-01-2025,Crown Plaza Residency,NORTH,Jaipur,Deluxe,Family,Website,Room Only,2,3,26,3535,0,2500,13105,Net Banking,Confirmed,3.1,0.40526
+HB1060,14-05-2025,13-08-2025,Sunrise Palace,EAST,Kolkata,Suite,Business,Website,Room Only,3,3,91,10158,0,2500,32974,Net Banking,Checked-out,4.6,0.763688
+HB1061,09-10-2025,07-11-2025,Mountain View Resort,SOUTH,Bengaluru,Standard,Business,Booking Portal,Room Only,2,2,29,2871,0,1000,6742,UPI,Checked-out,4.3,0.424904
+HB1062,31-12-2025,17-04-2026,Green Valley Inn,WEST,Mumbai,Standard,Leisure,Travel Agent,Room Only,4,2,107,2110,10,500,4298,Debit Card,Checked-out,4.1,0.379576
+HB1063,02-10-2025,11-01-2026,The Palm Residency,SOUTH,Hyderabad,Suite,Couple,Booking Portal,Room Only,4,1,101,7253,25,500,5940,UPI,Confirmed,4.8,0.45528
+HB1064,23-05-2025,21-07-2025,Grand Horizon Hotel,WEST,Mumbai,Executive,Family,Booking Portal,Room Only,5,7,59,4138,10,2500,28569,Debit Card,Confirmed,4.3,0.686828
+HB1065,03-08-2025,04-11-2025,Urban Nest Hotel,EAST,Bhubaneswar,Standard,Family,Mobile App,Full Board,4,3,93,3604,15,0,24790,Cash,Checked-out,3.8,0.60148
+HB1066,15-12-2025,11-03-2026,Golden Sands Hotel,NORTH,Delhi,Deluxe,Family,Website,Breakfast,3,2,86,5192,10,0,12046,UPI,Confirmed,3.8,0.448552
+HB1067,29-01-2025,01-04-2025,Golden Sands Hotel,CENTRAL,Indore,Suite,Leisure,Walk-in,Half Board,1,1,62,10657,0,500,12057,Cash,Confirmed,4.4,0.496684
+HB1068,12-07-2025,03-09-2025,The Palm Residency,WEST,Mumbai,Deluxe,Leisure,Booking Portal,Half Board,2,7,53,3838,10,0,36779,UPI,Cancelled,2.6,0.649348
+HB1069,02-06-2025,12-08-2025,Metro Heights,WEST,Ahmedabad,Deluxe,Couple,Walk-in,Breakfast,2,7,71,5345,10,1000,40974,UPI,Checked-out,3.6,0.779688
+HB1070,09-04-2025,29-04-2025,Green Valley Inn,SOUTH,Chennai,Suite,Leisure,Website,Full Board,2,7,20,10429,10,0,83903,Net Banking,Checked-out,4,1.326836
+HB1071,19-11-2025,19-02-2026,Pearl Garden Hotel,SOUTH,Kochi,Deluxe,Family,Travel Agent,Room Only,1,3,92,5101,0,0,15303,Net Banking,Cancelled,3.3,0.447636
+HB1072,11-10-2025,19-12-2025,Silver Oak Resort,SOUTH,Bengaluru,Executive,Business,Travel Agent,Full Board,1,7,69,8176,20,1000,55886,Credit Card,Checked-out,4.8,1.054632
+HB1073,31-10-2025,11-12-2025,Pearl Garden Hotel,EAST,Kolkata,Executive,Leisure,Booking Portal,Room Only,2,2,41,7771,10,0,13988,Credit Card,Cancelled,4,0.487856
+HB1074,18-03-2025,19-06-2025,Green Valley Inn,CENTRAL,Indore,Suite,Business,Walk-in,Room Only,2,2,93,6963,0,1000,14926,UPI,Confirmed,4.6,0.547112
+HB1075,15-11-2025,13-12-2025,Silver Oak Resort,SOUTH,Kochi,Suite,Business,Mobile App,Room Only,5,3,28,8741,10,0,23601,Debit Card,Checked-in,4.1,0.611212
+HB1076,13-06-2025,20-09-2025,Sunrise Palace,EAST,Kolkata,Executive,Business,Booking Portal,Full Board,2,3,99,4230,15,500,19086,Cash,Checked-out,4.3,0.573032
+HB1077,28-09-2025,25-01-2026,Green Valley Inn,SOUTH,Hyderabad,Standard,Leisure,Walk-in,Room Only,2,5,119,3228,15,0,13719,Net Banking,Confirmed,3,0.404628
+HB1078,27-07-2025,23-08-2025,City Central Hotel,SOUTH,Bengaluru,Executive,Business,Booking Portal,Half Board,2,7,27,7040,15,1500,55988,UPI,Checked-out,3.9,0.983856
+HB1079,02-06-2025,04-09-2025,Pearl Garden Hotel,WEST,Ahmedabad,Standard,Business,Walk-in,Breakfast,2,1,94,2965,5,0,3717,UPI,Checked-out,4.1,0.372604
+HB1080,05-04-2025,13-05-2025,Silver Oak Resort,SOUTH,Kochi,Deluxe,Leisure,Website,Room Only,3,2,38,6177,0,500,12854,Debit Card,Confirmed,3.6,0.442248
+HB1081,30-08-2025,05-12-2025,Mountain View Resort,SOUTH,Chennai,Standard,Leisure,Travel Agent,Half Board,1,3,97,2532,0,500,10796,UPI,Confirmed,5,0.529552
+HB1082,19-09-2025,01-12-2025,Green Valley Inn,WEST,Pune,Standard,Business,Booking Portal,Half Board,3,1,73,3679,10,1500,7511,Credit Card,Checked-in,4.4,0.442132
+HB1083,24-10-2025,23-12-2025,Golden Sands Hotel,WEST,Ahmedabad,Family,Leisure,Booking Portal,Breakfast,1,4,60,5212,0,2500,25148,UPI,Checked-in,4.3,0.645776
+HB1084,11-05-2025,08-06-2025,Metro Heights,WEST,Ahmedabad,Deluxe,Family,Website,Full Board,3,2,28,2995,0,0,13790,Cash,Checked-out,3.7,0.46148
+HB1085,01-06-2025,21-07-2025,Green Valley Inn,CENTRAL,Nagpur,Executive,Leisure,Mobile App,Breakfast,3,5,50,5535,10,500,32158,Cash,Cancelled,3.9,0.697896
+HB1086,21-12-2025,16-01-2026,Green Valley Inn,SOUTH,Hyderabad,Family,Business,Travel Agent,Breakfast,4,4,26,5219,0,4000,32076,UPI,Confirmed,4.5,0.744912
+HB1087,10-05-2025,21-08-2025,Crown Plaza Residency,CENTRAL,Bhopal,Standard,Couple,Mobile App,Breakfast,2,1,103,3448,0,1000,5348,Debit Card,Checked-in,3.7,0.360176
+HB1088,16-12-2025,31-03-2026,City Central Hotel,CENTRAL,Nagpur,Standard,Business,Website,Breakfast,2,3,105,2849,10,0,10392,Debit Card,Confirmed,4.2,0.460704
+HB1089,26-07-2025,01-08-2025,City Central Hotel,NORTH,Delhi,Executive,Leisure,Booking Portal,Half Board,2,2,6,4944,0,500,13988,UPI,Cancelled,4.4,0.519856
+HB1090,05-08-2025,24-09-2025,The Palm Residency,SOUTH,Chennai,Standard,Business,Walk-in,Full Board,3,7,50,2232,5,0,42143,Credit Card,Checked-out,4,0.825716
+HB1091,21-09-2025,20-10-2025,Pearl Garden Hotel,NORTH,Jaipur,Standard,Solo,Booking Portal,Room Only,4,3,29,2497,15,2500,8867,Credit Card,Checked-out,5,0.506404
+HB1092,22-05-2025,14-07-2025,Grand Horizon Hotel,CENTRAL,Raipur,Standard,Solo,Booking Portal,Breakfast,3,3,53,2393,0,1000,12229,Credit Card,Checked-in,4,0.466748
+HB1093,12-05-2025,22-08-2025,Pearl Garden Hotel,CENTRAL,Bhopal,Suite,Family,Booking Portal,Half Board,4,3,102,11328,0,2500,47284,Debit Card,Checked-in,4.8,0.951408
+HB1094,12-08-2025,03-12-2025,Metro Heights,SOUTH,Chennai,Executive,Family,Mobile App,Breakfast,1,3,113,6562,10,1500,20567,UPI,Checked-out,3.5,0.526804
+HB1095,20-10-2025,07-01-2026,Royal Orchid Suites,EAST,Patna,Deluxe,Business,Mobile App,Breakfast,3,3,79,4865,15,1000,17456,Debit Card,Cancelled,3.6,0.497472
+HB1096,21-02-2025,11-06-2025,Blue Bay Resort,CENTRAL,Nagpur,Family,Leisure,Website,Breakfast,4,2,110,6657,0,1000,17914,Credit Card,Checked-out,4.2,0.550968
+HB1097,12-03-2025,14-05-2025,Green Valley Inn,SOUTH,Kochi,Standard,Business,Booking Portal,Room Only,3,1,63,2778,5,1500,4139,UPI,Checked-out,4.1,0.377668
+HB1098,01-05-2025,12-06-2025,Sunrise Palace,CENTRAL,Nagpur,Suite,Couple,Website,Room Only,2,6,42,7803,15,0,39795,UPI,Checked-out,4,0.79754
+HB1099,18-04-2025,25-07-2025,Crown Plaza Residency,SOUTH,Bengaluru,Standard,Family,Mobile App,Breakfast,3,3,98,2103,0,0,10359,Credit Card,Checked-in,3.3,0.388308
+HB1100,05-05-2025,13-06-2025,Mountain View Resort,WEST,Mumbai,Standard,Leisure,Travel Agent,Breakfast,1,4,39,2380,15,1000,10892,Debit Card,Checked-in,4.4,0.482704
+HB1101,11-03-2025,21-04-2025,Mountain View Resort,CENTRAL,Bhopal,Standard,Family,Travel Agent,Breakfast,2,3,41,3805,0,1000,15115,Debit Card,Checked-in,4.9,0.57338
+HB1102,13-10-2025,06-02-2026,The Palm Residency,SOUTH,Bengaluru,Standard,Business,Mobile App,Breakfast,3,1,116,3428,0,1000,5778,Cash,Checked-in,4.5,0.429336
+HB1103,24-05-2025,23-06-2025,Mountain View Resort,EAST,Bhubaneswar,Deluxe,Couple,Mobile App,Breakfast,2,2,30,3212,25,2500,9118,UPI,Checked-out,4,0.429416
+HB1104,22-05-2025,27-06-2025,Silver Oak Resort,WEST,Pune,Executive,Business,Booking Portal,Half Board,2,2,36,5260,0,2500,16620,UPI,Checked-out,4.9,0.59144
+HB1105,08-12-2025,06-02-2026,Mountain View Resort,SOUTH,Kochi,Deluxe,Family,Travel Agent,Full Board,2,5,60,5313,0,1500,41065,Debit Card,Checked-in,4.3,0.83678
+HB1106,13-09-2025,23-09-2025,City Central Hotel,SOUTH,Chennai,Deluxe,Business,Booking Portal,Breakfast,2,5,10,5127,20,500,25508,Cash,Checked-out,4.3,0.650096
+HB1107,25-01-2025,14-04-2025,Blue Bay Resort,WEST,Mumbai,Deluxe,Leisure,Website,Breakfast,3,7,79,6146,0,500,52972,Credit Card,Checked-out,4.2,0.971664
+HB1108,10-05-2025,21-05-2025,Royal Orchid Suites,SOUTH,Bengaluru,Executive,Business,Website,Half Board,3,4,11,5727,0,0,33708,Debit Card,Checked-out,3.8,0.708496
+HB1109,09-08-2025,30-09-2025,Metro Heights,SOUTH,Hyderabad,Executive,Family,Website,Room Only,4,3,52,6535,15,500,17164,Credit Card,Checked-out,4.5,0.565968
+HB1110,18-08-2025,05-11-2025,Lakeview Grand,EAST,Guwahati,Deluxe,Solo,Website,Room Only,3,3,79,3888,0,1500,13164,Debit Card,Checked-out,2.8,0.381968
+HB1111,13-09-2025,07-11-2025,Pearl Garden Hotel,NORTH,Delhi,Standard,Leisure,Website,Breakfast,2,1,55,3593,10,1500,5634,Debit Card,Checked-out,3.8,0.371608
+HB1112,07-04-2025,17-04-2025,Crown Plaza Residency,CENTRAL,Bhopal,Standard,Family,Walk-in,Half Board,2,6,10,3801,5,500,32966,Credit Card,Checked-out,4.6,0.763592
+HB1113,08-01-2025,26-03-2025,Metro Heights,SOUTH,Chennai,Deluxe,Couple,Website,Full Board,4,1,77,4579,15,0,9092,Debit Card,Confirmed,2.7,0.325104
+HB1114,18-09-2025,21-12-2025,Golden Sands Hotel,EAST,Patna,Family,Solo,Booking Portal,Breakfast,1,5,94,6609,5,2500,36143,Debit Card,Checked-out,4.1,0.761716
+HB1115,05-08-2025,02-12-2025,Royal Orchid Suites,SOUTH,Chennai,Executive,Business,Website,Room Only,5,1,119,7533,25,1000,6650,Credit Card,Checked-out,4.7,0.4558
+HB1116,04-05-2025,01-08-2025,Green Valley Inn,WEST,Ahmedabad,Deluxe,Solo,Website,Breakfast,2,1,89,5306,10,500,6175,Debit Card,Confirmed,4.3,0.4181
+HB1117,29-05-2025,06-06-2025,Mountain View Resort,CENTRAL,Indore,Suite,Couple,Walk-in,Room Only,3,4,8,7493,0,0,29972,UPI,Checked-out,4.4,0.711664
+HB1118,13-02-2025,01-05-2025,Pearl Garden Hotel,WEST,Pune,Executive,Business,Walk-in,Breakfast,4,2,77,7740,0,0,19080,Credit Card,Confirmed,3.3,0.49296
+HB1119,14-04-2025,22-07-2025,Lakeview Grand,EAST,Kolkata,Standard,Leisure,Website,Room Only,4,2,99,2147,10,1500,5365,UPI,Checked-out,3.7,0.36038
+HB1120,20-01-2025,05-04-2025,Blue Bay Resort,WEST,Goa,Standard,Couple,Website,Half Board,4,4,75,2991,0,500,26864,Credit Card,Checked-out,3.4,0.594368
+HB1121,17-09-2025,16-11-2025,The Palm Residency,WEST,Pune,Standard,Family,Website,Room Only,1,4,60,3209,10,0,11552,Credit Card,Checked-out,5,0.538624
+HB1122,01-06-2025,18-09-2025,Mountain View Resort,WEST,Pune,Suite,Leisure,Booking Portal,Breakfast,5,4,109,7654,15,500,35524,Credit Card,Checked-in,5,0.826288
+HB1123,09-11-2025,07-03-2026,Urban Nest Hotel,NORTH,Delhi,Standard,Leisure,Website,Half Board,2,3,118,2882,15,0,12749,UPI,Checked-out,3.8,0.456988
+HB1124,11-09-2025,07-01-2026,Lakeview Grand,EAST,Patna,Standard,Leisure,Mobile App,Room Only,3,2,118,2308,20,0,3693,Credit Card,Checked-out,4.6,0.412316
+HB1125,06-05-2025,17-08-2025,Lakeview Grand,CENTRAL,Bhopal,Deluxe,Leisure,Walk-in,Half Board,4,6,103,4907,0,0,51042,UPI,Checked-in,3.8,0.916504
+HB1126,08-08-2025,22-08-2025,Blue Bay Resort,CENTRAL,Bhopal,Standard,Leisure,Website,Room Only,2,2,14,3091,5,1500,7373,Credit Card,Confirmed,3.5,0.368476
+HB1127,07-01-2025,18-03-2025,Golden Sands Hotel,EAST,Patna,Standard,Solo,Website,Breakfast,1,5,70,2928,25,1000,14230,Debit Card,Cancelled,3.7,0.46676
+HB1128,11-12-2025,06-03-2026,Lakeview Grand,SOUTH,Chennai,Family,Leisure,Booking Portal,Room Only,2,3,85,4956,0,0,14868,UPI,Checked-in,3.7,0.474416
+HB1129,27-03-2025,15-05-2025,Grand Horizon Hotel,CENTRAL,Nagpur,Deluxe,Business,Booking Portal,Half Board,1,3,49,4630,0,2500,19090,Credit Card,Checked-out,3.8,0.53308
+HB1130,11-07-2025,03-11-2025,Urban Nest Hotel,SOUTH,Chennai,Deluxe,Business,Travel Agent,Half Board,2,4,115,3788,0,1500,23852,Debit Card,Checked-out,5,0.686224
+HB1131,26-01-2025,19-05-2025,City Central Hotel,SOUTH,Chennai,Suite,Couple,Website,Breakfast,1,1,113,11151,5,500,11543,Cash,Confirmed,4.8,0.522516
+HB1132,13-06-2025,22-09-2025,Lakeview Grand,SOUTH,Hyderabad,Family,Business,Travel Agent,Room Only,4,3,101,6084,20,500,15102,UPI,Confirmed,4.3,0.525224
+HB1133,08-08-2025,09-08-2025,Royal Orchid Suites,WEST,Goa,Deluxe,Couple,Walk-in,Room Only,2,1,1,4778,15,0,4061,Cash,Checked-out,4.2,0.384732
+HB1134,11-08-2025,09-10-2025,City Central Hotel,SOUTH,Chennai,Deluxe,Business,Booking Portal,Breakfast,1,1,59,4981,10,2500,7433,Cash,Confirmed,3.7,0.385196
+HB1135,30-12-2025,17-04-2026,Metro Heights,WEST,Mumbai,Suite,Couple,Travel Agent,Half Board,2,2,108,13493,5,0,29237,Debit Card,Confirmed,4.4,0.702844
+HB1136,30-09-2025,08-12-2025,Crown Plaza Residency,SOUTH,Bengaluru,Executive,Business,Travel Agent,Breakfast,4,4,69,5164,10,0,25790,UPI,Checked-in,4,0.62948
+HB1137,08-03-2025,12-03-2025,Urban Nest Hotel,NORTH,Chandigarh,Standard,Family,Walk-in,Room Only,2,5,4,2413,0,1500,13565,Credit Card,Checked-out,4.2,0.49878
+HB1138,01-04-2025,08-07-2025,The Palm Residency,SOUTH,Chennai,Standard,Couple,Booking Portal,Half Board,2,3,98,3270,5,500,15220,Credit Card,Cancelled,3.9,0.49464
+HB1139,24-03-2025,12-07-2025,Grand Horizon Hotel,NORTH,Lucknow,Standard,Couple,Walk-in,Room Only,4,6,110,3168,0,4000,23008,Net Banking,Checked-out,4.5,0.636096
+HB1140,16-11-2025,19-12-2025,Blue Bay Resort,SOUTH,Hyderabad,Standard,Family,Travel Agent,Room Only,2,3,33,3125,0,1500,10875,Credit Card,Confirmed,3.7,0.4265
+HB1141,03-03-2025,24-06-2025,Royal Orchid Suites,CENTRAL,Raipur,Executive,Family,Booking Portal,Room Only,2,2,113,4937,15,1000,9393,Credit Card,Checked-out,3.8,0.416716
+HB1142,08-01-2025,22-02-2025,Pearl Garden Hotel,EAST,Kolkata,Deluxe,Business,Booking Portal,Room Only,1,4,45,5259,5,0,19984,Cash,Checked-in,3.6,0.527808
+HB1143,14-12-2025,11-01-2026,Silver Oak Resort,NORTH,Jaipur,Family,Leisure,Booking Portal,Breakfast,4,2,28,8383,0,0,20366,UPI,Checked-out,4.5,0.604392
+HB1144,19-04-2025,10-08-2025,Metro Heights,NORTH,Delhi,Executive,Solo,Website,Breakfast,2,3,113,5566,5,1000,19563,Debit Card,Checked-out,4.1,0.562756
+HB1145,11-07-2025,11-09-2025,Mountain View Resort,CENTRAL,Bhopal,Suite,Couple,Mobile App,Breakfast,1,2,62,8028,15,0,14548,Debit Card,Checked-out,4.8,0.558576
+HB1146,17-06-2025,03-10-2025,Pearl Garden Hotel,EAST,Guwahati,Executive,Business,Mobile App,Full Board,4,4,108,6993,10,0,45975,Credit Card,Checked-out,4.3,0.8957
+HB1147,06-12-2025,26-02-2026,Silver Oak Resort,CENTRAL,Bhopal,Suite,Business,Booking Portal,Half Board,3,2,82,10902,10,0,25024,Credit Card,Checked-out,4.8,0.684288
+HB1148,23-09-2025,07-10-2025,City Central Hotel,SOUTH,Hyderabad,Executive,Leisure,Booking Portal,Breakfast,4,3,14,7525,10,0,25718,Net Banking,Cancelled,4.1,0.636616
+HB1149,28-10-2025,15-01-2026,Mountain View Resort,NORTH,Lucknow,Standard,Business,Mobile App,Room Only,2,1,79,2750,0,1000,3750,Debit Card,Checked-out,4.3,0.389
+HB1150,14-07-2025,11-08-2025,Pearl Garden Hotel,SOUTH,Hyderabad,Standard,Leisure,Booking Portal,Breakfast,4,3,28,1968,20,0,10123,UPI,Checked-in,4.5,0.481476
+HB1151,17-11-2025,21-01-2026,Grand Horizon Hotel,NORTH,Lucknow,Deluxe,Leisure,Website,Breakfast,2,6,65,4197,5,0,29323,Credit Card,Checked-in,4.2,0.687876
+HB1152,23-04-2025,10-08-2025,Lakeview Grand,NORTH,Lucknow,Deluxe,Couple,Travel Agent,Breakfast,2,7,109,5439,5,0,42469,Credit Card,Confirmed,4.7,0.885628
+HB1153,02-05-2025,08-06-2025,Golden Sands Hotel,SOUTH,Hyderabad,Standard,Business,Booking Portal,Breakfast,2,6,37,3310,10,1500,24774,Debit Card,Cancelled,2.9,0.529288
+HB1154,11-02-2025,20-05-2025,Lakeview Grand,SOUTH,Kochi,Standard,Family,Travel Agent,Half Board,2,2,98,2123,0,4000,11846,Net Banking,Checked-out,3.2,0.398152
+HB1155,30-09-2025,07-01-2026,City Central Hotel,SOUTH,Kochi,Standard,Leisure,Travel Agent,Breakfast,3,5,99,2768,10,0,19206,Debit Card,Checked-in,4,0.550472
+HB1156,29-05-2025,24-09-2025,City Central Hotel,EAST,Guwahati,Family,Solo,Booking Portal,Breakfast,2,4,118,7677,0,2500,36808,Net Banking,Cancelled,3.4,0.713696
+HB1157,12-04-2025,26-06-2025,Green Valley Inn,NORTH,Chandigarh,Family,Leisure,Booking Portal,Breakfast,4,2,75,6046,5,500,15587,Debit Card,Checked-out,4.7,0.563044
+HB1158,13-08-2025,17-11-2025,Urban Nest Hotel,WEST,Goa,Family,Business,Website,Half Board,2,2,96,5834,25,0,12351,Debit Card,Checked-out,3.8,0.452212
+HB1159,23-07-2025,27-09-2025,Pearl Garden Hotel,WEST,Pune,Standard,Couple,Travel Agent,Breakfast,4,2,66,2699,15,4000,12188,UPI,Checked-in,4.7,0.522256
+HB1160,10-07-2025,22-10-2025,Silver Oak Resort,NORTH,Delhi,Family,Couple,Booking Portal,Full Board,3,2,104,6675,0,0,21150,UPI,Checked-out,3.2,0.5098
+HB1161,25-05-2025,21-09-2025,Pearl Garden Hotel,WEST,Mumbai,Executive,Business,Website,Half Board,2,5,119,5674,0,1000,38370,UPI,Checked-out,4.5,0.82044
+HB1162,21-08-2025,20-09-2025,Mountain View Resort,SOUTH,Hyderabad,Standard,Leisure,Website,Breakfast,3,7,30,2408,10,0,24620,Net Banking,Cancelled,3.6,0.58344
+HB1163,22-02-2025,18-03-2025,Green Valley Inn,EAST,Bhubaneswar,Executive,Family,Website,Breakfast,3,2,24,4420,20,1000,10772,Credit Card,Checked-out,4.6,0.497264
+HB1164,28-07-2025,23-10-2025,City Central Hotel,SOUTH,Chennai,Standard,Business,Booking Portal,Half Board,2,3,87,2945,0,2500,16735,UPI,Checked-out,4.4,0.55282
+HB1165,17-07-2025,06-11-2025,Golden Sands Hotel,NORTH,Delhi,Suite,Family,Walk-in,Full Board,3,6,112,7555,10,2500,66697,Debit Card,Checked-out,3.8,1.104364
+HB1166,20-07-2025,10-08-2025,Pearl Garden Hotel,SOUTH,Hyderabad,Standard,Leisure,Website,Breakfast,3,3,21,3499,0,500,15047,Cash,Checked-in,4.2,0.516564
+HB1167,13-01-2025,05-04-2025,City Central Hotel,CENTRAL,Nagpur,Standard,Family,Booking Portal,Room Only,2,3,82,3399,15,1500,10167,Net Banking,Checked-out,4.4,0.474004
+HB1168,28-01-2025,12-05-2025,Silver Oak Resort,NORTH,Delhi,Family,Business,Booking Portal,Full Board,3,3,104,5125,10,1500,27038,Credit Card,Checked-out,4.4,0.676456
+HB1169,18-05-2025,22-06-2025,Lakeview Grand,EAST,Guwahati,Executive,Business,Walk-in,Half Board,2,3,35,5858,10,0,21217,UPI,Checked-out,4.3,0.598604
+HB1170,30-06-2025,11-08-2025,Urban Nest Hotel,WEST,Goa,Suite,Couple,Travel Agent,Full Board,4,4,42,7161,0,0,49444,Credit Card,Checked-in,4.6,0.961328
+HB1171,15-05-2025,23-08-2025,Urban Nest Hotel,WEST,Pune,Deluxe,Leisure,Website,Room Only,1,5,100,5226,15,1500,23710,UPI,Checked-out,3.1,0.53252
+HB1172,31-03-2025,13-07-2025,Pearl Garden Hotel,NORTH,Delhi,Standard,Leisure,Booking Portal,Breakfast,4,6,104,3485,5,4000,34664,Credit Card,Confirmed,3.5,0.695968
+HB1173,24-09-2025,10-12-2025,Green Valley Inn,SOUTH,Hyderabad,Standard,Business,Travel Agent,Half Board,3,5,77,2915,0,0,28075,UPI,Cancelled,3.6,0.6249
+HB1174,23-02-2025,28-03-2025,Mountain View Resort,CENTRAL,Bhopal,Standard,Business,Website,Breakfast,3,6,33,2211,5,1000,21703,Debit Card,Confirmed,3,0.500436
+HB1175,03-04-2025,11-04-2025,Mountain View Resort,SOUTH,Bengaluru,Deluxe,Leisure,Mobile App,Room Only,1,2,8,6328,15,2500,13258,Credit Card,Checked-in,3.1,0.407096
+HB1176,28-02-2025,06-06-2025,Urban Nest Hotel,SOUTH,Hyderabad,Standard,Family,Walk-in,Room Only,2,4,98,3420,25,500,10760,UPI,Cancelled,4,0.44912
+HB1177,03-04-2025,28-06-2025,City Central Hotel,WEST,Goa,Standard,Leisure,Booking Portal,Full Board,4,3,86,3134,5,1000,25532,UPI,Checked-out,4,0.626384
+HB1178,05-09-2025,02-01-2026,Lakeview Grand,WEST,Pune,Standard,Leisure,Booking Portal,Room Only,5,6,119,1876,15,500,10068,Net Banking,Checked-in,3.3,0.384816
+HB1179,30-06-2025,29-09-2025,The Palm Residency,WEST,Ahmedabad,Family,Family,Mobile App,Half Board,4,2,91,8109,20,4000,24174,Credit Card,Confirmed,4.3,0.634088
+HB1180,08-11-2025,29-12-2025,Grand Horizon Hotel,SOUTH,Chennai,Standard,Family,Website,Breakfast,2,2,51,3481,5,2500,10914,UPI,Checked-out,4.4,0.482968
+HB1181,27-05-2025,16-09-2025,Blue Bay Resort,SOUTH,Bengaluru,Suite,Couple,Travel Agent,Room Only,2,5,112,6891,0,2500,36955,Credit Card,Checked-out,4.9,0.83546
+HB1182,30-06-2025,28-10-2025,Blue Bay Resort,WEST,Mumbai,Executive,Couple,Booking Portal,Room Only,5,2,120,6227,5,1000,12831,Net Banking,Confirmed,4,0.473972
+HB1183,08-12-2025,24-01-2026,Green Valley Inn,SOUTH,Chennai,Standard,Business,Website,Breakfast,2,2,47,3044,10,500,7779,Net Banking,Checked-out,4.5,0.453348
+HB1184,16-01-2025,16-05-2025,Golden Sands Hotel,WEST,Goa,Standard,Business,Mobile App,Full Board,3,4,120,2313,5,1500,25889,Debit Card,Confirmed,4.1,0.638668
+HB1185,21-04-2025,16-05-2025,Crown Plaza Residency,SOUTH,Bengaluru,Standard,Family,Travel Agent,Breakfast,3,1,25,3726,0,4000,9076,Cash,Checked-out,3.8,0.412912
+HB1186,18-06-2025,19-09-2025,Grand Horizon Hotel,NORTH,Jaipur,Standard,Business,Booking Portal,Breakfast,2,1,93,2931,0,0,3831,Credit Card,Checked-out,3.8,0.349972
+HB1187,05-12-2025,17-01-2026,Urban Nest Hotel,WEST,Mumbai,Deluxe,Leisure,Travel Agent,Breakfast,1,5,43,4700,25,500,20375,Debit Card,Checked-in,4.5,0.6045
+HB1188,16-11-2025,17-01-2026,Silver Oak Resort,EAST,Kolkata,Standard,Leisure,Booking Portal,Half Board,2,3,62,2024,15,0,10561,Credit Card,Checked-in,4.3,0.470732
+HB1189,29-09-2025,26-01-2026,Sunrise Palace,SOUTH,Kochi,Executive,Couple,Website,Breakfast,1,6,119,6359,0,500,41354,UPI,Checked-in,3.7,0.792248
+HB1190,19-01-2025,15-04-2025,Lakeview Grand,WEST,Mumbai,Executive,Leisure,Website,Half Board,1,2,86,6577,10,1000,14639,Debit Card,Checked-out,3.5,0.455668
+HB1191,06-08-2025,07-10-2025,Sunrise Palace,NORTH,Chandigarh,Executive,Solo,Mobile App,Full Board,2,3,62,7934,5,1500,31912,Net Banking,Checked-out,3.2,0.638944
+HB1192,22-01-2025,17-02-2025,The Palm Residency,SOUTH,Hyderabad,Standard,Leisure,Website,Room Only,1,3,26,1928,25,0,4338,UPI,Confirmed,3.5,0.332056
+HB1193,23-09-2025,05-12-2025,The Palm Residency,EAST,Patna,Executive,Leisure,Website,Full Board,3,4,73,5626,10,2500,38354,Credit Card,Cancelled,3.9,0.772248
+HB1194,13-06-2025,04-09-2025,Mountain View Resort,EAST,Bhubaneswar,Executive,Leisure,Website,Breakfast,2,6,83,6939,0,1000,48034,Credit Card,Cancelled,4.2,0.912408
+HB1195,28-09-2025,02-10-2025,Golden Sands Hotel,NORTH,Jaipur,Deluxe,Business,Booking Portal,Full Board,3,3,4,3298,10,1000,21605,Debit Card,Checked-in,3.7,0.55526
+HB1196,17-10-2025,26-11-2025,City Central Hotel,NORTH,Chandigarh,Executive,Business,Website,Room Only,2,2,40,5559,10,500,10506,Credit Card,Checked-in,4.4,0.478072
+HB1197,01-04-2025,20-07-2025,The Palm Residency,CENTRAL,Nagpur,Deluxe,Leisure,Booking Portal,Breakfast,4,2,110,3954,0,1500,13008,UPI,Checked-in,3.8,0.460096
+HB1198,18-01-2025,26-04-2025,Metro Heights,CENTRAL,Nagpur,Suite,Leisure,Travel Agent,Room Only,4,3,98,10678,10,500,29331,UPI,Checked-out,5,0.751972
+HB1199,07-12-2025,29-03-2026,City Central Hotel,NORTH,Lucknow,Standard,Family,Website,Breakfast,4,3,112,3402,10,1000,15585,Cash,Checked-out,4.7,0.56302
+HB1200,10-12-2025,04-01-2026,Metro Heights,NORTH,Lucknow,Deluxe,Family,Website,Half Board,2,5,25,4985,15,1000,31186,Credit Card,Checked-in,3.9,0.686232
+HB1201,28-04-2025,03-05-2025,Grand Horizon Hotel,SOUTH,Kochi,Deluxe,Solo,Website,Half Board,4,4,5,6141,5,1000,38736,Debit Card,Confirmed,3.5,0.744832
+HB1202,04-04-2025,26-04-2025,Urban Nest Hotel,WEST,Ahmedabad,Deluxe,Couple,Booking Portal,Breakfast,2,3,22,4688,20,0,13951,UPI,Checked-out,4.3,0.511412
+HB1203,28-04-2025,13-05-2025,Crown Plaza Residency,EAST,Bhubaneswar,Standard,Leisure,Website,Room Only,3,4,15,3939,15,2500,15893,Credit Card,Checked-out,4.8,0.574716
+HB1204,02-09-2025,05-11-2025,The Palm Residency,SOUTH,Bengaluru,Deluxe,Family,Website,Full Board,2,6,64,6277,0,1500,54762,UPI,Checked-out,3.7,0.953144
+HB1205,29-01-2025,26-05-2025,Lakeview Grand,WEST,Ahmedabad,Suite,Family,Booking Portal,Breakfast,3,2,117,13576,10,1500,28637,Debit Card,Checked-out,4.1,0.671644
+HB1206,19-05-2025,11-07-2025,Crown Plaza Residency,NORTH,Jaipur,Deluxe,Leisure,Booking Portal,Breakfast,3,2,53,2842,0,0,8384,Debit Card,Confirmed,4.2,0.436608
+HB1207,29-11-2025,13-01-2026,Crown Plaza Residency,EAST,Guwahati,Executive,Couple,Travel Agent,Full Board,2,7,45,7299,0,500,69793,Debit Card,Confirmed,4.6,1.205516
+HB1208,03-03-2025,21-04-2025,Golden Sands Hotel,WEST,Goa,Deluxe,Business,Mobile App,Full Board,3,2,49,3274,0,1000,15348,Debit Card,Checked-out,4.8,0.568176
+HB1209,13-02-2025,14-03-2025,Pearl Garden Hotel,EAST,Patna,Deluxe,Family,Booking Portal,Room Only,3,2,29,3737,5,0,7100,Credit Card,Checked-in,3.3,0.3492
+HB1210,16-01-2025,24-01-2025,Lakeview Grand,WEST,Pune,Deluxe,Couple,Mobile App,Breakfast,2,3,8,4419,15,2500,16468,UPI,Checked-out,5,0.597616
+HB1211,03-03-2025,10-04-2025,Grand Horizon Hotel,WEST,Goa,Executive,Business,Mobile App,Breakfast,3,3,38,7248,5,1500,26207,Cash,Checked-out,4.7,0.690484
+HB1212,23-12-2025,17-03-2026,Urban Nest Hotel,WEST,Pune,Suite,Couple,Mobile App,Full Board,2,2,84,6671,0,0,18542,UPI,Cancelled,3.3,0.486504
+HB1213,20-08-2025,18-09-2025,Metro Heights,SOUTH,Chennai,Standard,Family,Mobile App,Full Board,3,3,29,1960,10,1500,18492,Net Banking,Checked-out,4.3,0.565904
+HB1214,31-10-2025,25-02-2026,The Palm Residency,NORTH,Chandigarh,Deluxe,Leisure,Mobile App,Full Board,1,2,117,4864,10,1500,12855,Net Banking,Confirmed,4.6,0.52226
+HB1215,02-03-2025,31-03-2025,Green Valley Inn,WEST,Ahmedabad,Deluxe,Family,Booking Portal,Breakfast,2,4,29,4710,5,0,21498,UPI,Checked-out,4.2,0.593976
+HB1216,22-07-2025,23-08-2025,Lakeview Grand,SOUTH,Hyderabad,Family,Family,Booking Portal,Half Board,3,3,32,7210,5,2500,31148,UPI,Confirmed,2.8,0.597776
+HB1217,17-09-2025,21-11-2025,Golden Sands Hotel,EAST,Kolkata,Executive,Family,Website,Room Only,3,1,65,6620,15,0,5627,UPI,Confirmed,4.5,0.427524
+HB1218,18-11-2025,25-12-2025,Silver Oak Resort,WEST,Goa,Suite,Solo,Travel Agent,Breakfast,3,5,37,8305,0,1000,49275,Debit Card,Checked-out,5,0.9913
+HB1219,14-02-2025,14-04-2025,Mountain View Resort,NORTH,Jaipur,Family,Family,Website,Breakfast,2,5,59,8249,15,4000,43558,UPI,Confirmed,4.1,0.850696
+HB1220,30-09-2025,03-12-2025,City Central Hotel,CENTRAL,Raipur,Suite,Business,Mobile App,Room Only,2,5,64,11517,5,0,54706,Cash,Checked-out,4.7,1.032472
+HB1221,13-03-2025,22-04-2025,Green Valley Inn,NORTH,Lucknow,Standard,Leisure,Travel Agent,Full Board,2,1,40,2531,0,0,5131,Credit Card,Checked-out,3.2,0.317572
+HB1222,05-10-2025,07-10-2025,Lakeview Grand,SOUTH,Kochi,Standard,Couple,Booking Portal,Room Only,3,5,2,3080,5,1500,16130,Cash,Checked-in,3.3,0.45756
+HB1223,16-04-2025,08-06-2025,Metro Heights,SOUTH,Kochi,Deluxe,Business,Mobile App,Breakfast,2,2,53,4758,10,1000,11364,Net Banking,Checked-out,3.8,0.440368
+HB1224,27-07-2025,08-10-2025,Pearl Garden Hotel,EAST,Guwahati,Family,Couple,Mobile App,Room Only,3,3,73,8813,15,500,22973,Debit Card,Checked-in,4.4,0.627676
+HB1225,07-07-2025,05-10-2025,Mountain View Resort,EAST,Kolkata,Family,Couple,Booking Portal,Breakfast,2,5,90,10363,10,0,51134,UPI,Confirmed,3.9,0.925608
+HB1226,14-11-2025,10-01-2026,Pearl Garden Hotel,CENTRAL,Nagpur,Deluxe,Solo,Travel Agent,Breakfast,2,4,57,5335,20,0,20672,UPI,Checked-out,4.1,0.576064
+HB1227,13-01-2025,27-02-2025,Mountain View Resort,EAST,Kolkata,Family,Business,Website,Breakfast,4,5,45,7009,15,0,38788,UPI,Checked-out,3.6,0.753456
+HB1228,17-08-2025,08-12-2025,Golden Sands Hotel,EAST,Bhubaneswar,Standard,Leisure,Website,Room Only,3,4,113,3421,5,1000,14000,Net Banking,Cancelled,3.6,0.456
+HB1229,26-04-2025,11-05-2025,Mountain View Resort,SOUTH,Bengaluru,Deluxe,Family,Booking Portal,Room Only,3,6,15,4402,0,1000,27412,UPI,Checked-out,3.8,0.632944
+HB1230,04-06-2025,05-08-2025,Crown Plaza Residency,NORTH,Jaipur,Deluxe,Leisure,Booking Portal,Full Board,3,4,62,3340,0,1000,29960,Credit Card,Checked-out,4.2,0.69552
+HB1231,11-07-2025,03-11-2025,Pearl Garden Hotel,SOUTH,Bengaluru,Suite,Couple,Walk-in,Breakfast,4,3,115,8716,0,4000,35548,Debit Card,Checked-out,4.2,0.762576
+HB1232,06-08-2025,24-09-2025,Silver Oak Resort,WEST,Ahmedabad,Deluxe,Couple,Walk-in,Full Board,5,2,49,2828,10,1000,19090,UPI,Checked-out,4.1,0.55708
+HB1233,23-10-2025,28-01-2026,Metro Heights,CENTRAL,Indore,Deluxe,Business,Mobile App,Room Only,2,6,97,3806,20,0,18269,Debit Card,Confirmed,4.2,0.555228
+HB1234,09-10-2025,29-10-2025,Pearl Garden Hotel,NORTH,Jaipur,Deluxe,Leisure,Website,Breakfast,3,4,20,6361,15,0,27027,UPI,Confirmed,3.4,0.596324
+HB1235,28-03-2025,15-05-2025,Metro Heights,SOUTH,Chennai,Deluxe,Leisure,Booking Portal,Full Board,2,4,48,3603,0,500,25312,Net Banking,Checked-out,4.2,0.639744
+HB1236,11-03-2025,02-07-2025,Pearl Garden Hotel,EAST,Bhubaneswar,Deluxe,Leisure,Travel Agent,Breakfast,2,1,113,2841,10,0,3457,Credit Card,Cancelled,3.4,0.313484
+HB1237,11-07-2025,16-07-2025,The Palm Residency,EAST,Patna,Deluxe,Family,Walk-in,Room Only,1,1,5,3776,0,1000,4776,Credit Card,Checked-in,4.1,0.385312
+HB1238,08-08-2025,10-11-2025,Mountain View Resort,WEST,Ahmedabad,Suite,Business,Booking Portal,Half Board,5,2,94,9932,0,0,28864,UPI,Checked-out,4.4,0.698368
+HB1239,28-07-2025,19-08-2025,Lakeview Grand,EAST,Patna,Executive,Leisure,Travel Agent,Breakfast,2,3,22,5269,15,0,16136,Net Banking,Checked-in,4.2,0.529632
+HB1240,29-08-2025,29-09-2025,The Palm Residency,EAST,Bhubaneswar,Standard,Leisure,Booking Portal,Half Board,5,2,31,2002,20,1000,13203,Debit Card,Checked-out,3.5,0.438436
+HB1241,14-01-2025,02-04-2025,Green Valley Inn,NORTH,Delhi,Deluxe,Business,Booking Portal,Full Board,2,1,78,3651,20,1000,6521,UPI,Confirmed,4.4,0.430252
+HB1242,15-10-2025,20-11-2025,Metro Heights,SOUTH,Kochi,Suite,Family,Mobile App,Room Only,3,2,36,10768,5,0,20459,Credit Card,Confirmed,3.1,0.493508
+HB1243,07-10-2025,22-10-2025,Blue Bay Resort,WEST,Pune,Deluxe,Business,Booking Portal,Breakfast,5,4,15,4166,20,2500,24831,Credit Card,Checked-out,3.3,0.561972
+HB1244,16-12-2025,22-12-2025,Royal Orchid Suites,WEST,Pune,Executive,Leisure,Booking Portal,Half Board,2,6,6,5268,5,500,41328,Credit Card,Checked-in,5,0.895936
+HB1245,26-10-2025,12-11-2025,Lakeview Grand,EAST,Kolkata,Family,Business,Booking Portal,Breakfast,2,4,17,5937,15,1500,25286,Net Banking,Checked-out,3.8,0.607432
+HB1246,08-09-2025,22-12-2025,Golden Sands Hotel,WEST,Mumbai,Suite,Solo,Website,Breakfast,1,2,105,12903,5,2500,27916,Debit Card,Checked-out,3.7,0.630992
+HB1247,25-01-2025,13-04-2025,City Central Hotel,NORTH,Lucknow,Executive,Couple,Website,Breakfast,2,1,78,4683,15,2500,7381,Credit Card,Checked-in,3.8,0.392572
+HB1248,06-07-2025,04-10-2025,Green Valley Inn,SOUTH,Chennai,Family,Business,Mobile App,Room Only,4,6,90,6328,10,500,34671,Net Banking,Checked-out,3.5,0.696052
+HB1249,04-03-2025,16-06-2025,Golden Sands Hotel,NORTH,Jaipur,Deluxe,Family,Booking Portal,Room Only,2,1,104,3241,0,0,3241,UPI,Checked-in,3.2,0.294892
+HB1250,02-10-2025,18-12-2025,Green Valley Inn,SOUTH,Bengaluru,Executive,Couple,Booking Portal,Half Board,4,3,77,7199,0,0,32397,Debit Card,Checked-in,4.7,0.764764
+HB1251,14-11-2025,12-03-2026,Royal Orchid Suites,SOUTH,Kochi,Standard,Business,Mobile App,Breakfast,4,2,118,3323,0,0,10246,Credit Card,Checked-out,4.4,0.474952
+HB1252,20-11-2025,21-02-2026,Blue Bay Resort,WEST,Mumbai,Standard,Business,Booking Portal,Breakfast,1,7,93,2556,5,0,20147,Credit Card,Confirmed,3.4,0.513764
+HB1253,18-05-2025,20-05-2025,Crown Plaza Residency,SOUTH,Hyderabad,Deluxe,Family,Walk-in,Half Board,3,3,2,4895,0,500,23285,Debit Card,Checked-in,4.3,0.62342
+HB1254,16-04-2025,10-05-2025,Grand Horizon Hotel,SOUTH,Chennai,Deluxe,Business,Booking Portal,Half Board,1,3,24,3823,25,0,11302,UPI,Confirmed,5,0.535624
+HB1255,06-04-2025,16-04-2025,Royal Orchid Suites,CENTRAL,Indore,Suite,Business,Website,Breakfast,2,4,10,11921,0,0,51284,Credit Card,Confirmed,4.8,0.999408
+HB1256,10-01-2025,16-04-2025,Royal Orchid Suites,NORTH,Delhi,Standard,Family,Mobile App,Room Only,4,4,96,3160,10,1000,12376,Credit Card,Checked-out,4.2,0.484512
+HB1257,20-04-2025,07-07-2025,Mountain View Resort,WEST,Mumbai,Deluxe,Couple,Travel Agent,Room Only,2,5,78,4961,15,0,21084,Credit Card,Cancelled,2.9,0.485008
+HB1258,29-05-2025,10-09-2025,Royal Orchid Suites,WEST,Goa,Executive,Leisure,Booking Portal,Room Only,2,1,104,4149,10,2500,6234,Cash,Checked-out,4.7,0.450808
+HB1259,09-12-2025,23-03-2026,City Central Hotel,NORTH,Jaipur,Standard,Couple,Walk-in,Breakfast,2,2,104,3315,0,0,8430,Credit Card,Checked-out,4.7,0.47716
+HB1260,06-04-2025,20-06-2025,Pearl Garden Hotel,SOUTH,Bengaluru,Family,Business,Mobile App,Breakfast,5,5,75,6119,0,0,41845,Credit Card,Cancelled,3.9,0.81414
+HB1261,22-04-2025,12-06-2025,Green Valley Inn,EAST,Guwahati,Deluxe,Leisure,Travel Agent,Half Board,4,2,51,4600,0,1000,17400,UPI,Checked-in,3.8,0.5128
+HB1262,31-12-2025,27-03-2026,Pearl Garden Hotel,CENTRAL,Nagpur,Suite,Family,Booking Portal,Breakfast,2,2,86,9531,5,0,19909,Debit Card,Checked-in,5,0.638908
+HB1263,24-09-2025,20-10-2025,Blue Bay Resort,SOUTH,Chennai,Executive,Couple,Walk-in,Breakfast,5,2,26,6440,5,1000,17736,Credit Card,Checked-out,3.6,0.500832
+HB1264,20-02-2025,17-06-2025,Golden Sands Hotel,CENTRAL,Nagpur,Family,Solo,Booking Portal,Half Board,4,3,117,8196,25,1500,30741,Debit Card,Checked-in,4.1,0.696892
+HB1265,06-10-2025,28-01-2026,Golden Sands Hotel,CENTRAL,Raipur,Family,Family,Mobile App,Breakfast,5,3,114,6011,0,0,24783,UPI,Checked-out,4.3,0.641396
+HB1266,16-04-2025,02-06-2025,Mountain View Resort,CENTRAL,Raipur,Deluxe,Leisure,Website,Full Board,2,3,47,3872,5,500,19335,Debit Card,Checked-out,3.5,0.51202
+HB1267,10-06-2025,11-06-2025,Crown Plaza Residency,NORTH,Delhi,Standard,Leisure,Travel Agent,Room Only,3,1,1,1865,10,1000,2678,Net Banking,Checked-in,3.9,0.344136
+HB1268,26-05-2025,23-06-2025,Pearl Garden Hotel,NORTH,Lucknow,Standard,Leisure,Travel Agent,Breakfast,2,2,28,2057,5,1000,6708,UPI,Confirmed,3.8,0.384496
+HB1269,19-10-2025,06-11-2025,Urban Nest Hotel,CENTRAL,Indore,Deluxe,Business,Mobile App,Half Board,2,2,18,5163,25,0,11344,Net Banking,Checked-in,4.7,0.512128
+HB1270,16-12-2025,12-01-2026,City Central Hotel,EAST,Bhubaneswar,Family,Business,Booking Portal,Room Only,4,2,27,4552,0,1000,10104,UPI,Checked-in,4.2,0.457248
+HB1271,05-07-2025,07-08-2025,Lakeview Grand,WEST,Ahmedabad,Standard,Business,Website,Breakfast,2,5,33,2550,0,0,17250,UPI,Checked-out,4,0.527
+HB1272,22-09-2025,19-11-2025,Urban Nest Hotel,SOUTH,Chennai,Standard,Couple,Website,Breakfast,1,2,58,3400,5,0,7360,Credit Card,Checked-out,4.4,0.44032
+HB1273,21-04-2025,29-05-2025,Golden Sands Hotel,NORTH,Delhi,Standard,Business,Website,Breakfast,3,3,38,2985,0,500,13505,Credit Card,Confirmed,4.1,0.49006
+HB1274,05-10-2025,29-10-2025,Crown Plaza Residency,EAST,Patna,Deluxe,Solo,Website,Room Only,2,3,24,4312,5,500,12789,Credit Card,Cancelled,3.3,0.417468
+HB1275,25-01-2025,12-02-2025,Green Valley Inn,CENTRAL,Raipur,Executive,Family,Website,Room Only,1,6,18,5001,10,0,27005,UPI,Confirmed,4.9,0.71606
+HB1276,06-01-2025,27-03-2025,Blue Bay Resort,SOUTH,Kochi,Deluxe,Business,Walk-in,Room Only,2,7,80,4124,0,0,28868,Cash,Checked-out,3.6,0.634416
+HB1277,22-07-2025,10-08-2025,Urban Nest Hotel,SOUTH,Bengaluru,Standard,Leisure,Booking Portal,Breakfast,2,7,19,3286,15,0,25852,UPI,Checked-in,4.2,0.646224
+HB1278,29-06-2025,17-08-2025,The Palm Residency,NORTH,Jaipur,Deluxe,Couple,Mobile App,Breakfast,4,6,49,4561,5,1000,37798,Net Banking,Checked-out,4,0.773576
+HB1279,26-03-2025,21-04-2025,Metro Heights,EAST,Bhubaneswar,Executive,Leisure,Website,Room Only,5,6,26,5302,10,500,29131,Cash,Checked-out,4.9,0.741572
+HB1280,17-06-2025,07-08-2025,Lakeview Grand,EAST,Kolkata,Deluxe,Family,Travel Agent,Room Only,4,2,51,4323,0,1000,9646,UPI,Checked-out,3,0.355752
+HB1281,28-01-2025,10-03-2025,Silver Oak Resort,WEST,Pune,Executive,Leisure,Website,Room Only,2,2,41,5454,20,0,8726,Debit Card,Confirmed,3.9,0.416712
+HB1282,04-02-2025,07-04-2025,The Palm Residency,NORTH,Delhi,Standard,Business,Booking Portal,Breakfast,2,3,62,2837,10,0,10360,Credit Card,Checked-out,3.8,0.42832
+HB1283,03-02-2025,03-05-2025,Sunrise Palace,WEST,Mumbai,Family,Family,Website,Room Only,3,3,89,7280,0,0,21840,Credit Card,Confirmed,3.2,0.51808
+HB1284,28-07-2025,13-08-2025,Pearl Garden Hotel,SOUTH,Kochi,Suite,Business,Booking Portal,Breakfast,3,2,16,10389,10,1500,22900,UPI,Cancelled,4.1,0.6028
+HB1285,13-09-2025,22-09-2025,Green Valley Inn,WEST,Goa,Executive,Business,Website,Breakfast,1,1,9,7161,0,0,7611,Debit Card,Checked-out,4.6,0.459332
+HB1286,06-06-2025,23-08-2025,Royal Orchid Suites,NORTH,Chandigarh,Executive,Solo,Travel Agent,Half Board,4,2,78,4530,0,0,16260,Credit Card,Confirmed,4.1,0.52312
+HB1287,16-03-2025,12-07-2025,Pearl Garden Hotel,NORTH,Delhi,Deluxe,Family,Booking Portal,Breakfast,3,2,118,3875,0,500,10950,Credit Card,Cancelled,4,0.4514
+HB1288,01-11-2025,29-01-2026,Urban Nest Hotel,WEST,Goa,Suite,Business,Booking Portal,Breakfast,2,6,89,10968,0,1000,72208,Credit Card,Checked-out,4.5,1.226496
+HB1289,14-05-2025,12-06-2025,Pearl Garden Hotel,EAST,Kolkata,Suite,Couple,Website,Full Board,1,2,29,10181,0,0,22962,Credit Card,Checked-in,4.2,0.611544
+HB1290,23-11-2025,02-12-2025,Silver Oak Resort,NORTH,Jaipur,Standard,Solo,Booking Portal,Room Only,3,7,9,2287,10,1000,15408,UPI,Checked-in,3.9,0.496896
+HB1291,27-06-2025,29-08-2025,Golden Sands Hotel,CENTRAL,Bhopal,Standard,Business,Website,Half Board,3,4,63,2827,5,1500,23043,UPI,Checked-out,3.7,0.572516
+HB1292,25-07-2025,16-11-2025,Pearl Garden Hotel,WEST,Ahmedabad,Family,Business,Mobile App,Room Only,5,1,114,8489,0,0,8489,UPI,Cancelled,3.9,0.413868
+HB1293,20-03-2025,06-07-2025,Silver Oak Resort,SOUTH,Kochi,Deluxe,Business,Website,Breakfast,2,3,108,3252,5,0,11968,Cash,Confirmed,3.6,0.431616
+HB1294,22-01-2025,26-02-2025,Grand Horizon Hotel,SOUTH,Bengaluru,Deluxe,Couple,Travel Agent,Breakfast,4,5,35,4619,0,0,32095,Debit Card,Confirmed,3.9,0.69714
+HB1295,03-11-2025,16-02-2026,Royal Orchid Suites,CENTRAL,Nagpur,Executive,Leisure,Booking Portal,Room Only,2,3,105,7017,0,1000,22051,Credit Card,Checked-out,4.7,0.640612
+HB1296,05-05-2025,26-07-2025,Mountain View Resort,WEST,Ahmedabad,Suite,Family,Website,Half Board,4,1,82,10411,0,1500,15511,Debit Card,Cancelled,3.7,0.482132
+HB1297,23-04-2025,02-08-2025,Urban Nest Hotel,NORTH,Jaipur,Executive,Leisure,Travel Agent,Room Only,4,4,101,7071,15,1000,25041,Debit Card,Confirmed,3.9,0.612492
+HB1298,29-12-2025,27-01-2026,Green Valley Inn,WEST,Pune,Deluxe,Leisure,Booking Portal,Full Board,2,4,29,2819,5,0,21112,Debit Card,Checked-out,4,0.573344
+HB1299,24-03-2025,18-06-2025,Golden Sands Hotel,SOUTH,Kochi,Standard,Leisure,Website,Room Only,2,3,86,2510,5,2500,9654,Credit Card,Cancelled,2.6,0.323848
+HB1300,20-04-2025,15-06-2025,Mountain View Resort,NORTH,Chandigarh,Standard,Leisure,Mobile App,Breakfast,3,1,56,2011,0,2500,5861,Credit Card,Confirmed,4,0.390332
+HB1301,02-03-2025,25-04-2025,Sunrise Palace,WEST,Mumbai,Standard,Solo,Website,Half Board,3,1,54,3844,20,1500,7275,Credit Card,Cancelled,3.4,0.3593
+HB1302,05-05-2025,25-07-2025,Pearl Garden Hotel,SOUTH,Bengaluru,Deluxe,Leisure,Website,Breakfast,4,3,81,4797,10,0,18352,Credit Card,Checked-out,3.5,0.500224
+HB1303,09-10-2025,14-01-2026,Sunrise Palace,NORTH,Jaipur,Deluxe,Business,Website,Full Board,2,1,97,3859,20,0,5687,Cash,Checked-out,4.7,0.444244
+HB1304,01-02-2025,04-03-2025,The Palm Residency,SOUTH,Hyderabad,Standard,Business,Walk-in,Full Board,1,4,31,2369,0,1000,15676,Net Banking,Checked-in,3.7,0.484112
+HB1305,19-06-2025,09-08-2025,Mountain View Resort,NORTH,Jaipur,Suite,Leisure,Website,Room Only,3,3,51,10328,5,1500,30935,Credit Card,Checked-in,5,0.77122
+HB1306,22-07-2025,04-10-2025,Royal Orchid Suites,NORTH,Lucknow,Family,Leisure,Booking Portal,Room Only,2,4,74,5286,5,0,20087,UPI,Checked-out,3.9,0.553044
+HB1307,02-11-2025,22-02-2026,Royal Orchid Suites,SOUTH,Chennai,Deluxe,Business,Booking Portal,Breakfast,3,3,112,3449,5,0,13880,Credit Card,Confirmed,4.2,0.50256
+HB1308,16-02-2025,03-06-2025,Royal Orchid Suites,SOUTH,Chennai,Standard,Couple,Website,Room Only,2,1,107,2649,0,2500,5149,UPI,Confirmed,4.3,0.405788
+HB1309,02-10-2025,19-10-2025,Green Valley Inn,EAST,Bhubaneswar,Standard,Family,Booking Portal,Room Only,2,2,17,2786,15,1500,6236,Net Banking,Cancelled,4,0.394832
+HB1310,19-07-2025,17-08-2025,Silver Oak Resort,SOUTH,Kochi,Suite,Leisure,Website,Breakfast,3,3,29,9142,10,0,28733,UPI,Confirmed,5,0.744796
+HB1311,02-01-2025,16-01-2025,Green Valley Inn,EAST,Kolkata,Standard,Leisure,Website,Breakfast,2,4,14,3436,5,1000,17657,Debit Card,Checked-out,4.1,0.539884
+HB1312,10-05-2025,02-08-2025,Royal Orchid Suites,SOUTH,Kochi,Standard,Leisure,Mobile App,Breakfast,5,5,84,2637,10,2500,25616,Credit Card,Checked-out,5,0.707392
+HB1313,03-09-2025,06-12-2025,Pearl Garden Hotel,SOUTH,Kochi,Deluxe,Leisure,Website,Room Only,2,2,94,5017,0,2500,12534,Net Banking,Confirmed,4.8,0.534408
+HB1314,03-06-2025,24-06-2025,Green Valley Inn,SOUTH,Hyderabad,Executive,Couple,Website,Room Only,4,4,21,6465,20,1500,22188,Debit Card,Checked-in,3.6,0.554256
+HB1315,11-08-2025,04-12-2025,Metro Heights,SOUTH,Bengaluru,Standard,Business,Travel Agent,Half Board,1,3,115,2499,10,2500,11947,Credit Card,Checked-out,3.5,0.423364
+HB1316,16-08-2025,26-08-2025,City Central Hotel,SOUTH,Hyderabad,Standard,Business,Mobile App,Room Only,2,5,10,3117,5,500,15306,Credit Card,Cancelled,4.1,0.511672
+HB1317,21-10-2025,16-02-2026,Lakeview Grand,WEST,Pune,Standard,Business,Booking Portal,Breakfast,2,5,118,3249,0,0,20745,Debit Card,Checked-out,3.9,0.56094
+HB1318,08-08-2025,04-10-2025,Silver Oak Resort,WEST,Mumbai,Standard,Leisure,Mobile App,Breakfast,4,3,57,2196,15,500,11500,UPI,Cancelled,3.5,0.418
+HB1319,16-10-2025,09-01-2026,Royal Orchid Suites,EAST,Guwahati,Deluxe,Leisure,Mobile App,Half Board,2,2,85,3862,10,2500,13052,UPI,Checked-in,3.3,0.420624
+HB1320,10-06-2025,27-07-2025,Metro Heights,WEST,Pune,Standard,Leisure,Walk-in,Half Board,3,2,47,3242,10,0,11236,UPI,Checked-in,4.7,0.510832
+HB1321,01-07-2025,14-07-2025,Grand Horizon Hotel,SOUTH,Kochi,Standard,Leisure,Website,Room Only,2,2,13,2676,0,1500,6852,UPI,Cancelled,3.9,0.394224
+HB1322,11-09-2025,10-11-2025,Royal Orchid Suites,CENTRAL,Raipur,Standard,Leisure,Booking Portal,Breakfast,2,4,60,2953,10,0,14231,Credit Card,Checked-in,4.9,0.562772
+HB1323,17-07-2025,20-09-2025,City Central Hotel,WEST,Goa,Executive,Leisure,Mobile App,Breakfast,3,2,65,7305,25,500,14158,Credit Card,Checked-in,4.9,0.561896
+HB1324,31-03-2025,10-07-2025,Mountain View Resort,SOUTH,Hyderabad,Suite,Leisure,Travel Agent,Room Only,1,2,101,9280,5,1000,18632,Credit Card,Checked-out,4.1,0.551584
+HB1325,20-11-2025,12-01-2026,Mountain View Resort,NORTH,Jaipur,Standard,Leisure,Travel Agent,Half Board,3,2,53,3101,20,0,10362,Credit Card,Checked-out,3.9,0.436344
+HB1326,08-04-2025,14-05-2025,Green Valley Inn,SOUTH,Hyderabad,Deluxe,Solo,Booking Portal,Half Board,3,3,36,6106,5,1000,26502,Cash,Checked-in,4,0.638024
+HB1327,20-12-2025,05-04-2026,Crown Plaza Residency,EAST,Kolkata,Standard,Business,Mobile App,Full Board,3,2,106,2483,15,1000,13021,Credit Card,Checked-out,4.3,0.500252
+HB1328,26-10-2025,01-02-2026,Silver Oak Resort,SOUTH,Chennai,Standard,Couple,Travel Agent,Half Board,2,5,98,2412,5,1000,21457,Debit Card,Checked-out,3.1,0.505484
+HB1329,04-05-2025,22-06-2025,Metro Heights,CENTRAL,Indore,Deluxe,Couple,Booking Portal,Half Board,1,1,49,4763,20,0,4710,Cash,Confirmed,3.5,0.33652
+HB1330,19-01-2025,08-05-2025,Pearl Garden Hotel,EAST,Kolkata,Executive,Family,Website,Breakfast,1,2,109,4798,15,0,9057,UPI,Checked-out,3.3,0.372684
+HB1331,12-07-2025,12-10-2025,Lakeview Grand,SOUTH,Hyderabad,Deluxe,Leisure,Mobile App,Half Board,3,7,92,5189,0,0,55223,UPI,Confirmed,4.4,1.014676
+HB1332,19-10-2025,04-02-2026,Blue Bay Resort,EAST,Guwahati,Deluxe,Business,Travel Agent,Breakfast,4,2,108,5214,0,1000,15028,UPI,Cancelled,3.7,0.476336
+HB1333,17-07-2025,12-09-2025,Blue Bay Resort,CENTRAL,Nagpur,Deluxe,Leisure,Walk-in,Room Only,2,2,57,5497,0,1000,11994,UPI,Confirmed,3.9,0.455928
+HB1334,28-03-2025,09-06-2025,Blue Bay Resort,EAST,Guwahati,Deluxe,Business,Mobile App,Full Board,4,1,73,5361,0,0,10561,Cash,Cancelled,3.1,0.374732
+HB1335,03-09-2025,13-11-2025,Golden Sands Hotel,EAST,Kolkata,Standard,Leisure,Booking Portal,Half Board,2,3,71,2601,15,500,12533,Cash,Checked-out,4.1,0.478396
+HB1336,28-07-2025,29-07-2025,Green Valley Inn,WEST,Pune,Family,Family,Mobile App,Half Board,2,2,1,7627,5,1500,19591,Credit Card,Checked-out,3.2,0.491092
+HB1337,13-04-2025,08-07-2025,Blue Bay Resort,SOUTH,Kochi,Standard,Business,Travel Agent,Room Only,5,3,86,2771,15,0,7066,Credit Card,Checked-out,4.1,0.412792
+HB1338,12-09-2025,02-11-2025,Blue Bay Resort,WEST,Ahmedabad,Standard,Leisure,Mobile App,Half Board,2,6,51,2940,25,500,24530,Credit Card,Checked-in,4.6,0.66236
+HB1339,01-01-2025,08-01-2025,City Central Hotel,EAST,Bhubaneswar,Standard,Couple,Website,Room Only,3,2,7,2345,0,0,4690,Debit Card,Cancelled,3,0.29628
+HB1340,29-04-2025,02-06-2025,Grand Horizon Hotel,EAST,Bhubaneswar,Standard,Family,Booking Portal,Breakfast,3,1,34,3057,0,1500,5907,Credit Card,Confirmed,2.8,0.294884
+HB1341,25-05-2025,01-06-2025,The Palm Residency,WEST,Pune,Family,Family,Website,Room Only,4,2,7,4858,10,0,8744,Debit Card,Checked-out,3.4,0.376928
+HB1342,25-02-2025,13-06-2025,Golden Sands Hotel,CENTRAL,Raipur,Deluxe,Leisure,Mobile App,Half Board,1,3,108,4816,0,1000,18148,Debit Card,Confirmed,4,0.537776
+HB1343,22-01-2025,13-05-2025,Crown Plaza Residency,SOUTH,Chennai,Family,Couple,Website,Room Only,4,1,111,9680,20,2500,10244,Net Banking,Confirmed,4.1,0.450928
+HB1344,06-08-2025,17-08-2025,Grand Horizon Hotel,EAST,Bhubaneswar,Deluxe,Leisure,Travel Agent,Room Only,2,4,11,4277,10,500,15897,Credit Card,Confirmed,3.5,0.470764
+HB1345,18-07-2025,26-08-2025,Royal Orchid Suites,SOUTH,Chennai,Family,Business,Booking Portal,Room Only,4,6,39,7330,0,1500,45480,Debit Card,Checked-out,3.8,0.84976
+HB1346,15-06-2025,11-10-2025,Silver Oak Resort,WEST,Mumbai,Deluxe,Family,Mobile App,Breakfast,2,1,118,4161,0,1000,6061,Credit Card,Checked-out,4.2,0.408732
+HB1347,02-04-2025,25-05-2025,Sunrise Palace,NORTH,Jaipur,Standard,Couple,Travel Agent,Breakfast,4,1,53,3220,10,0,4698,Credit Card,Checked-out,4.6,0.424376
+HB1348,08-02-2025,12-02-2025,Green Valley Inn,CENTRAL,Raipur,Deluxe,Family,Walk-in,Half Board,4,3,4,4428,10,4000,26756,Credit Card,Confirmed,3.8,0.625072
+HB1349,09-04-2025,14-05-2025,City Central Hotel,SOUTH,Hyderabad,Deluxe,Business,Website,Breakfast,5,3,35,5987,0,500,25211,Net Banking,Checked-out,3.8,0.606532
+HB1350,18-02-2025,09-06-2025,Royal Orchid Suites,NORTH,Jaipur,Deluxe,Solo,Booking Portal,Breakfast,2,7,111,4090,5,1000,34498,UPI,Checked-out,5,0.813976
+HB1351,16-02-2025,22-05-2025,Green Valley Inn,WEST,Goa,Deluxe,Business,Booking Portal,Room Only,5,7,95,5059,10,500,32372,UPI,Checked-out,3.6,0.676464
+HB1352,29-10-2025,29-11-2025,Lakeview Grand,WEST,Pune,Standard,Family,Website,Half Board,3,3,31,3311,15,1000,17543,UPI,Cancelled,2.6,0.418516
+HB1353,08-06-2025,22-06-2025,Sunrise Palace,NORTH,Delhi,Family,Leisure,Website,Breakfast,3,7,14,5636,25,4000,43039,Credit Card,Checked-out,4.4,0.868468
+HB1354,14-03-2025,09-07-2025,Lakeview Grand,WEST,Mumbai,Family,Family,Mobile App,Breakfast,1,3,117,6551,0,0,21003,Debit Card,Checked-out,3.7,0.548036
+HB1355,24-01-2025,16-05-2025,Royal Orchid Suites,SOUTH,Chennai,Standard,Family,Booking Portal,Breakfast,1,2,112,2677,25,0,4916,Debit Card,Checked-out,3.6,0.346992
+HB1356,16-01-2025,16-03-2025,Green Valley Inn,WEST,Mumbai,Deluxe,Business,Walk-in,Full Board,2,3,59,3223,10,1000,17502,Credit Card,Checked-out,4.4,0.562024
+HB1357,03-08-2025,13-10-2025,Lakeview Grand,SOUTH,Hyderabad,Deluxe,Solo,Mobile App,Room Only,4,2,71,4323,0,1000,9646,Debit Card,Cancelled,4.1,0.443752
+HB1358,10-11-2025,01-02-2026,Metro Heights,WEST,Mumbai,Standard,Leisure,Website,Room Only,2,4,83,2022,10,0,7279,Credit Card,Confirmed,4,0.407348
+HB1359,27-10-2025,07-02-2026,Blue Bay Resort,NORTH,Lucknow,Suite,Leisure,Booking Portal,Breakfast,2,1,103,7447,5,500,8475,UPI,Confirmed,3.2,0.3577
+HB1360,02-01-2025,27-04-2025,Mountain View Resort,NORTH,Lucknow,Deluxe,Family,Website,Room Only,4,2,115,5705,5,0,10840,Net Banking,Confirmed,3.5,0.41008
+HB1361,10-04-2025,28-04-2025,Green Valley Inn,EAST,Bhubaneswar,Deluxe,Solo,Walk-in,Room Only,4,2,18,5386,0,1000,11772,UPI,Confirmed,4.8,0.525264
+HB1362,28-12-2025,20-03-2026,Urban Nest Hotel,NORTH,Lucknow,Standard,Family,Mobile App,Breakfast,2,6,82,1812,15,0,14641,Credit Card,Checked-out,3.2,0.431692
+HB1363,22-08-2025,23-09-2025,Lakeview Grand,WEST,Goa,Standard,Couple,Booking Portal,Full Board,3,4,32,2162,15,0,22951,Debit Card,Checked-in,3.9,0.587412
+HB1364,03-09-2025,14-10-2025,Crown Plaza Residency,SOUTH,Kochi,Executive,Solo,Website,Room Only,3,3,41,7420,0,500,22760,Credit Card,Confirmed,3.8,0.57712
+HB1365,19-11-2025,02-12-2025,Golden Sands Hotel,WEST,Goa,Deluxe,Couple,Travel Agent,Room Only,3,1,13,5728,5,2500,7942,UPI,Checked-out,3.5,0.375304
+HB1366,12-09-2025,12-10-2025,Lakeview Grand,CENTRAL,Indore,Executive,Business,Booking Portal,Room Only,2,3,30,8980,15,500,23399,Debit Card,Checked-out,4.7,0.656788
+HB1367,16-06-2025,15-08-2025,Golden Sands Hotel,NORTH,Chandigarh,Standard,Family,Mobile App,Breakfast,2,4,60,3045,0,1500,17280,Credit Card,Checked-out,3.6,0.49536
+HB1368,23-08-2025,10-09-2025,Grand Horizon Hotel,WEST,Mumbai,Deluxe,Leisure,Booking Portal,Breakfast,3,2,18,3769,25,500,8854,Debit Card,Checked-out,3.6,0.394248
+HB1369,26-11-2025,13-12-2025,Sunrise Palace,EAST,Kolkata,Suite,Leisure,Booking Portal,Breakfast,2,3,17,12882,25,500,32184,Debit Card,Checked-out,3.7,0.682208
+HB1370,26-09-2025,02-01-2026,Crown Plaza Residency,SOUTH,Bengaluru,Executive,Leisure,Booking Portal,Room Only,2,4,98,5810,0,4000,27240,Credit Card,Checked-out,4.3,0.67088
+HB1371,04-04-2025,11-06-2025,The Palm Residency,SOUTH,Chennai,Standard,Solo,Website,Breakfast,3,4,68,2845,20,0,14504,Credit Card,Checked-in,4.8,0.558048
+HB1372,26-11-2025,14-01-2026,Pearl Garden Hotel,WEST,Pune,Standard,Leisure,Mobile App,Room Only,2,7,49,2375,0,1000,17625,Credit Card,Checked-out,3.6,0.4995
+HB1373,21-10-2025,16-01-2026,Green Valley Inn,NORTH,Chandigarh,Suite,Family,Website,Breakfast,2,1,87,11143,0,500,12543,Debit Card,Confirmed,4.4,0.502516
+HB1374,10-03-2025,19-03-2025,Blue Bay Resort,WEST,Pune,Standard,Couple,Website,Breakfast,2,6,9,2765,5,4000,25160,Cash,Checked-in,3.7,0.59792
+HB1375,02-01-2025,15-04-2025,Metro Heights,SOUTH,Hyderabad,Deluxe,Leisure,Website,Half Board,2,3,103,6613,10,1500,24755,Credit Card,Checked-out,4.2,0.63306
+HB1376,09-11-2025,04-03-2026,Crown Plaza Residency,SOUTH,Chennai,Suite,Leisure,Booking Portal,Room Only,4,3,115,9717,0,0,29151,UPI,Confirmed,4,0.669812
+HB1377,16-01-2025,10-05-2025,City Central Hotel,WEST,Goa,Standard,Couple,Booking Portal,Breakfast,2,2,114,2238,20,1500,6881,UPI,Confirmed,3.5,0.362572
+HB1378,27-07-2025,06-09-2025,Pearl Garden Hotel,NORTH,Jaipur,Family,Solo,Booking Portal,Room Only,4,4,41,6040,5,0,22952,Credit Card,Checked-in,3.9,0.587424
+HB1379,06-10-2025,02-12-2025,Royal Orchid Suites,EAST,Bhubaneswar,Deluxe,Couple,Travel Agent,Room Only,2,2,57,4935,15,0,8390,Credit Card,Checked-out,3.8,0.40468
+HB1380,03-02-2025,28-04-2025,Grand Horizon Hotel,EAST,Kolkata,Family,Family,Walk-in,Full Board,5,3,84,8134,15,0,40242,UPI,Checked-out,3.9,0.794904
+HB1381,16-08-2025,06-12-2025,The Palm Residency,SOUTH,Hyderabad,Deluxe,Family,Mobile App,Breakfast,2,2,112,4851,0,1000,12502,Cash,Confirmed,4.8,0.534024
+HB1382,01-07-2025,10-09-2025,Lakeview Grand,SOUTH,Chennai,Standard,Couple,Website,Half Board,3,2,71,2343,20,0,9149,Credit Card,Confirmed,3.8,0.413788
+HB1383,04-12-2025,24-03-2026,Green Valley Inn,EAST,Patna,Standard,Solo,Walk-in,Breakfast,3,2,110,2920,25,0,7080,Cash,Checked-out,4.3,0.42896
+HB1384,30-12-2025,01-01-2026,The Palm Residency,EAST,Guwahati,Standard,Leisure,Mobile App,Half Board,3,3,2,2989,0,1500,18567,UPI,Checked-out,4.3,0.566804
+HB1385,21-07-2025,28-10-2025,Golden Sands Hotel,EAST,Bhubaneswar,Executive,Business,Booking Portal,Room Only,2,7,99,6892,10,500,43920,Credit Card,Checked-out,4.6,0.89504
+HB1386,30-11-2025,10-02-2026,Sunrise Palace,CENTRAL,Raipur,Deluxe,Solo,Website,Half Board,5,2,72,2951,0,0,14902,Net Banking,Checked-out,3.6,0.466824
+HB1387,15-09-2025,30-09-2025,City Central Hotel,NORTH,Chandigarh,Deluxe,Leisure,Travel Agent,Room Only,2,3,15,3114,25,0,7006,Credit Card,Checked-out,3.6,0.372072
+HB1388,03-09-2025,27-09-2025,Silver Oak Resort,NORTH,Jaipur,Executive,Family,Booking Portal,Full Board,4,2,24,4733,0,1000,20866,UPI,Checked-out,4.8,0.634392
+HB1389,07-10-2025,15-10-2025,Green Valley Inn,CENTRAL,Indore,Standard,Solo,Website,Breakfast,2,3,8,2780,15,1500,11289,Debit Card,Confirmed,3.2,0.391468
+HB1390,30-08-2025,10-12-2025,Urban Nest Hotel,NORTH,Jaipur,Executive,Business,Mobile App,Room Only,4,7,102,6255,20,1000,36028,UPI,Confirmed,3.5,0.712336
+HB1391,17-10-2025,31-01-2026,The Palm Residency,SOUTH,Kochi,Executive,Family,Booking Portal,Full Board,3,4,106,5453,0,0,37412,Net Banking,Confirmed,4.3,0.792944
+HB1392,25-07-2025,27-08-2025,Golden Sands Hotel,CENTRAL,Nagpur,Standard,Leisure,Travel Agent,Breakfast,2,5,33,2683,0,500,18415,UPI,Cancelled,3.3,0.48498
+HB1393,15-12-2025,22-03-2026,Golden Sands Hotel,NORTH,Jaipur,Deluxe,Couple,Walk-in,Breakfast,5,5,97,4893,10,1000,34268,UPI,Checked-out,4.8,0.795216
+HB1394,25-10-2025,31-01-2026,Golden Sands Hotel,EAST,Kolkata,Deluxe,Leisure,Website,Room Only,4,2,98,5404,10,4000,13727,UPI,Checked-out,4.1,0.492724
+HB1395,12-06-2025,31-07-2025,Urban Nest Hotel,SOUTH,Bengaluru,Executive,Leisure,Website,Half Board,3,1,49,5764,0,500,8964,Credit Card,Checked-out,5,0.507568
+HB1396,25-04-2025,08-05-2025,Metro Heights,SOUTH,Chennai,Standard,Family,Mobile App,Room Only,2,3,13,2111,25,500,5250,UPI,Checked-out,3.9,0.375
+HB1397,26-12-2025,27-12-2025,Crown Plaza Residency,NORTH,Delhi,Executive,Leisure,Travel Agent,Room Only,2,2,1,5500,10,1000,10900,UPI,Checked-out,3.8,0.4348
+HB1398,24-02-2025,07-06-2025,Silver Oak Resort,SOUTH,Hyderabad,Executive,Family,Website,Breakfast,5,6,103,5892,5,2500,49584,Credit Card,Checked-out,4.2,0.931008
+HB1399,11-08-2025,23-11-2025,Metro Heights,NORTH,Lucknow,Standard,Leisure,Mobile App,Breakfast,4,3,104,3274,20,2500,15758,Debit Card,Checked-in,4.1,0.517096
+HB1400,06-02-2025,05-06-2025,The Palm Residency,EAST,Kolkata,Standard,Leisure,Travel Agent,Breakfast,1,3,119,2503,15,1000,8733,UPI,Cancelled,4.2,0.440796
+HB1401,24-04-2025,14-05-2025,Golden Sands Hotel,SOUTH,Bengaluru,Deluxe,Leisure,Booking Portal,Breakfast,3,7,20,4441,5,0,38983,Net Banking,Checked-out,3.7,0.763796
+HB1402,06-01-2025,24-04-2025,Crown Plaza Residency,NORTH,Chandigarh,Deluxe,Couple,Booking Portal,Half Board,1,3,108,3989,0,2500,17167,UPI,Checked-out,3.7,0.502004
+HB1403,13-05-2025,05-06-2025,Blue Bay Resort,SOUTH,Bengaluru,Executive,Solo,Booking Portal,Breakfast,2,1,23,5853,0,0,6753,UPI,Checked-out,4.3,0.425036
+HB1404,23-04-2025,19-08-2025,Sunrise Palace,EAST,Guwahati,Deluxe,Business,Travel Agent,Half Board,4,2,118,3316,10,500,13669,Cash,Confirmed,3.8,0.468028
+HB1405,07-08-2025,05-10-2025,Metro Heights,SOUTH,Kochi,Family,Solo,Travel Agent,Half Board,5,2,59,8101,5,1500,25892,Net Banking,Checked-out,4.7,0.686704
+HB1406,30-10-2025,05-11-2025,Sunrise Palace,WEST,Goa,Executive,Family,Travel Agent,Breakfast,2,1,6,6967,0,0,7867,Debit Card,Confirmed,4.7,0.470404
+HB1407,22-08-2025,11-11-2025,Grand Horizon Hotel,WEST,Ahmedabad,Deluxe,Leisure,Booking Portal,Breakfast,3,7,81,6645,0,1000,56965,Credit Card,Checked-in,3.1,0.93158
+HB1408,09-07-2025,22-07-2025,Urban Nest Hotel,SOUTH,Chennai,Standard,Couple,Website,Room Only,2,4,13,2713,10,1000,10767,Net Banking,Checked-out,4.3,0.473204
+HB1409,17-08-2025,22-10-2025,Pearl Garden Hotel,CENTRAL,Nagpur,Family,Family,Booking Portal,Room Only,2,2,66,6350,20,2500,12660,Debit Card,Checked-out,4.1,0.47992
+HB1410,12-07-2025,04-11-2025,Grand Horizon Hotel,WEST,Pune,Deluxe,Leisure,Travel Agent,Full Board,4,2,115,5374,5,0,20611,UPI,Checked-in,3.8,0.551332
+HB1411,02-06-2025,04-06-2025,Golden Sands Hotel,NORTH,Chandigarh,Deluxe,Business,Mobile App,Full Board,2,3,2,3762,10,1000,18957,UPI,Checked-in,4.9,0.619484
+HB1412,08-08-2025,16-08-2025,Silver Oak Resort,NORTH,Jaipur,Family,Business,Booking Portal,Full Board,4,3,8,8268,10,0,37924,Credit Card,Checked-out,2.9,0.687088
+HB1413,27-08-2025,20-12-2025,Pearl Garden Hotel,SOUTH,Hyderabad,Standard,Business,Booking Portal,Breakfast,4,5,115,2429,0,2500,23645,Debit Card,Checked-out,5,0.68374
+HB1414,12-02-2025,11-06-2025,Crown Plaza Residency,SOUTH,Hyderabad,Deluxe,Business,Website,Breakfast,4,5,119,3469,0,0,26345,Cash,Checked-out,4.5,0.67614
+HB1415,16-04-2025,20-06-2025,City Central Hotel,NORTH,Delhi,Deluxe,Family,Website,Breakfast,2,5,65,4981,10,1000,27914,Debit Card,Checked-out,3.4,0.606968
+HB1416,07-07-2025,09-07-2025,Crown Plaza Residency,WEST,Pune,Executive,Leisure,Walk-in,Breakfast,4,4,2,5731,20,0,25539,Credit Card,Checked-out,4.1,0.634468
+HB1417,29-03-2025,31-03-2025,Sunrise Palace,CENTRAL,Indore,Executive,Couple,Website,Half Board,2,2,2,4879,0,0,13358,Debit Card,Checked-in,3.4,0.432296
+HB1418,13-10-2025,18-01-2026,Pearl Garden Hotel,SOUTH,Kochi,Family,Couple,Mobile App,Half Board,4,3,97,4667,15,1000,23701,Credit Card,Checked-out,5,0.684412
+HB1419,29-01-2025,07-03-2025,Green Valley Inn,EAST,Bhubaneswar,Standard,Leisure,Booking Portal,Half Board,2,3,37,2306,10,0,11626,Credit Card,Checked-out,3.8,0.443512
+HB1420,07-06-2025,05-10-2025,Green Valley Inn,SOUTH,Kochi,Executive,Family,Mobile App,Half Board,2,4,120,5778,15,2500,29345,Debit Card,Checked-out,5,0.75214
+HB1421,20-07-2025,26-07-2025,Pearl Garden Hotel,WEST,Goa,Standard,Business,Booking Portal,Half Board,2,1,6,2192,0,1500,5492,Net Banking,Confirmed,3.9,0.377904
+HB1422,23-03-2025,08-07-2025,Sunrise Palace,EAST,Bhubaneswar,Deluxe,Business,Walk-in,Half Board,2,6,107,3235,10,2500,30769,Debit Card,Confirmed,4.7,0.745228
+HB1423,11-02-2025,07-05-2025,Grand Horizon Hotel,SOUTH,Bengaluru,Suite,Couple,Booking Portal,Half Board,4,3,85,14339,0,500,54317,UPI,Checked-out,4,0.971804
+HB1424,03-03-2025,04-06-2025,Metro Heights,CENTRAL,Bhopal,Standard,Family,Travel Agent,Room Only,3,3,93,2838,0,0,8514,Cash,Checked-out,3.8,0.406168
+HB1425,10-01-2025,26-04-2025,Sunrise Palace,WEST,Goa,Executive,Couple,Website,Room Only,2,1,106,6940,0,500,7440,Debit Card,Checked-out,3.2,0.34528
+HB1426,19-04-2025,04-08-2025,Grand Horizon Hotel,SOUTH,Kochi,Standard,Family,Website,Room Only,1,1,107,2786,10,500,3007,Cash,Checked-out,4.8,0.420084
+HB1427,20-01-2025,09-03-2025,City Central Hotel,WEST,Mumbai,Family,Couple,Travel Agent,Room Only,2,3,48,5442,20,2500,15561,Credit Card,Checked-out,5,0.586732
+HB1428,02-09-2025,13-11-2025,Sunrise Palace,CENTRAL,Indore,Standard,Couple,Website,Room Only,1,6,72,3294,20,0,15811,UPI,Checked-in,2.8,0.413732
+HB1429,20-07-2025,07-11-2025,Golden Sands Hotel,WEST,Mumbai,Family,Solo,Website,Room Only,2,2,110,7364,0,0,14728,Credit Card,Cancelled,3.8,0.480736
+HB1430,05-10-2025,02-01-2026,Pearl Garden Hotel,NORTH,Chandigarh,Executive,Leisure,Walk-in,Breakfast,1,6,89,5863,0,500,38378,Credit Card,Confirmed,4.3,0.804536
+HB1431,24-10-2025,13-02-2026,Pearl Garden Hotel,EAST,Patna,Deluxe,Business,Travel Agent,Breakfast,2,2,112,4876,0,1500,13052,Net Banking,Checked-in,3.8,0.460624
+HB1432,12-10-2025,30-10-2025,Mountain View Resort,CENTRAL,Nagpur,Standard,Leisure,Website,Breakfast,4,5,18,2812,0,1500,24560,Debit Card,Checked-out,2.9,0.52672
+HB1433,16-08-2025,02-09-2025,The Palm Residency,EAST,Kolkata,Suite,Family,Booking Portal,Half Board,2,4,17,11468,0,0,53072,Debit Card,Cancelled,3.3,0.900864
+HB1434,06-12-2025,12-02-2026,Golden Sands Hotel,WEST,Goa,Deluxe,Business,Booking Portal,Half Board,3,3,68,3832,0,1000,20596,Credit Card,Cancelled,4.6,0.615152
+HB1435,07-03-2025,17-03-2025,Metro Heights,WEST,Ahmedabad,Standard,Business,Mobile App,Room Only,2,4,10,2808,5,0,10670,UPI,Confirmed,4.4,0.48004
+HB1436,05-05-2025,17-05-2025,Golden Sands Hotel,NORTH,Jaipur,Family,Couple,Website,Full Board,3,5,12,6823,5,500,52409,Credit Card,Checked-in,3.8,0.932908
+HB1437,18-07-2025,02-08-2025,City Central Hotel,CENTRAL,Raipur,Suite,Leisure,Booking Portal,Full Board,3,2,15,6834,5,500,21285,Net Banking,Checked-out,4.6,0.62342
+HB1438,09-12-2025,14-12-2025,The Palm Residency,WEST,Mumbai,Standard,Leisure,Walk-in,Half Board,2,2,5,2184,20,0,7094,Net Banking,Checked-in,4.3,0.429128
+HB1439,07-08-2025,03-10-2025,Blue Bay Resort,NORTH,Jaipur,Deluxe,Family,Walk-in,Breakfast,4,2,57,5455,5,500,14464,UPI,Confirmed,3.6,0.461568
+HB1440,03-11-2025,06-01-2026,Crown Plaza Residency,SOUTH,Bengaluru,Standard,Business,Travel Agent,Half Board,3,4,64,3189,25,1500,21867,Credit Card,Checked-out,3.6,0.550404
+HB1441,28-05-2025,10-09-2025,Metro Heights,EAST,Guwahati,Family,Leisure,Website,Breakfast,4,3,105,8168,25,0,23778,Debit Card,Cancelled,4.1,0.613336
+HB1442,28-07-2025,22-08-2025,Mountain View Resort,EAST,Kolkata,Family,Business,Booking Portal,Half Board,4,3,25,5711,5,0,27076,UPI,Checked-out,3.1,0.572912
+HB1443,27-09-2025,29-12-2025,Mountain View Resort,CENTRAL,Indore,Deluxe,Leisure,Mobile App,Room Only,3,1,93,3326,0,0,3326,Debit Card,Checked-in,5,0.439912
+HB1444,03-08-2025,06-10-2025,Pearl Garden Hotel,NORTH,Jaipur,Standard,Family,Booking Portal,Breakfast,2,4,64,3094,0,1000,16976,UPI,Checked-out,3.4,0.475712
+HB1445,15-11-2025,24-02-2026,Golden Sands Hotel,SOUTH,Chennai,Standard,Solo,Booking Portal,Room Only,1,5,101,2202,20,0,8808,Debit Card,Checked-in,4.1,0.433696
+HB1446,29-04-2025,05-07-2025,Urban Nest Hotel,SOUTH,Hyderabad,Standard,Business,Booking Portal,Breakfast,2,2,67,2679,20,1500,7586,UPI,Confirmed,4.3,0.435032
+HB1447,10-08-2025,12-09-2025,Urban Nest Hotel,WEST,Goa,Family,Business,Travel Agent,Half Board,2,1,33,5798,20,0,6438,Debit Card,Checked-out,3.5,0.357256
+HB1448,04-10-2025,07-12-2025,Golden Sands Hotel,EAST,Bhubaneswar,Suite,Family,Booking Portal,Room Only,1,3,64,11672,20,500,28513,Cash,Confirmed,4.5,0.702156
+HB1449,28-09-2025,04-10-2025,Grand Horizon Hotel,SOUTH,Hyderabad,Standard,Leisure,Booking Portal,Breakfast,3,2,6,3443,10,1000,9897,UPI,Checked-out,3.1,0.366764
+HB1450,05-06-2025,23-09-2025,Golden Sands Hotel,SOUTH,Chennai,Family,Leisure,Booking Portal,Room Only,2,4,110,6506,0,500,26524,Debit Card,Checked-out,3.8,0.622288
+HB1451,09-04-2025,06-05-2025,Crown Plaza Residency,WEST,Pune,Family,Family,Mobile App,Breakfast,3,3,27,6313,5,0,22042,UPI,Checked-out,3.5,0.544504
+HB1452,07-09-2025,19-12-2025,Grand Horizon Hotel,EAST,Bhubaneswar,Family,Business,Website,Breakfast,2,3,103,6415,0,1000,22945,Debit Card,Checked-out,3.8,0.57934
+HB1453,08-12-2025,10-03-2026,Urban Nest Hotel,WEST,Goa,Family,Solo,Website,Room Only,4,7,92,4940,20,500,28164,Debit Card,Confirmed,3.7,0.633968
+HB1454,24-01-2025,12-04-2025,Metro Heights,EAST,Guwahati,Deluxe,Family,Booking Portal,Breakfast,2,6,78,4689,0,1000,34534,Debit Card,Cancelled,3.7,0.710408
+HB1455,03-03-2025,23-05-2025,Blue Bay Resort,NORTH,Lucknow,Suite,Solo,Website,Full Board,1,1,81,11915,0,0,13215,Debit Card,Checked-out,4.1,0.48658
+HB1456,01-03-2025,14-03-2025,Green Valley Inn,SOUTH,Chennai,Family,Family,Website,Breakfast,3,4,13,6781,0,0,32524,Net Banking,Checked-out,2.7,0.606288
+HB1457,30-03-2025,03-06-2025,Crown Plaza Residency,SOUTH,Bengaluru,Deluxe,Leisure,Walk-in,Half Board,2,3,65,5441,0,500,22223,UPI,Checked-in,3.5,0.546676
+HB1458,27-06-2025,03-08-2025,Pearl Garden Hotel,SOUTH,Kochi,Family,Business,Walk-in,Half Board,3,7,37,5713,5,0,56891,Debit Card,Cancelled,3.9,0.994692
+HB1459,02-03-2025,17-03-2025,Royal Orchid Suites,NORTH,Jaipur,Deluxe,Solo,Website,Breakfast,2,1,15,3379,10,0,3941,Debit Card,Checked-out,4.2,0.383292
+HB1460,08-06-2025,22-08-2025,Pearl Garden Hotel,CENTRAL,Bhopal,Deluxe,Business,Website,Room Only,2,6,75,4673,5,500,27136,UPI,Checked-in,3.8,0.629632
+HB1461,02-12-2025,25-02-2026,Lakeview Grand,EAST,Bhubaneswar,Executive,Solo,Mobile App,Room Only,4,1,85,7447,20,0,5958,Debit Card,Cancelled,3.8,0.375496
+HB1462,02-01-2025,18-04-2025,Royal Orchid Suites,EAST,Kolkata,Deluxe,Leisure,Travel Agent,Breakfast,1,3,106,4760,0,500,16130,Credit Card,Checked-out,5,0.59356
+HB1463,22-07-2025,22-08-2025,The Palm Residency,EAST,Kolkata,Deluxe,Business,Walk-in,Breakfast,5,1,31,3573,5,1000,6644,UPI,Confirmed,4.1,0.407728
+HB1464,25-09-2025,18-10-2025,The Palm Residency,SOUTH,Hyderabad,Standard,Business,Booking Portal,Breakfast,3,3,23,3222,5,0,13233,UPI,Confirmed,4.7,0.534796
+HB1465,08-03-2025,29-06-2025,Urban Nest Hotel,NORTH,Lucknow,Deluxe,Leisure,Mobile App,Breakfast,3,1,113,3330,10,500,4847,Net Banking,Checked-out,2.8,0.282164
+HB1466,28-02-2025,16-06-2025,Green Valley Inn,NORTH,Chandigarh,Executive,Family,Mobile App,Breakfast,3,5,108,7013,0,0,41815,Credit Card,Cancelled,3.7,0.79778
+HB1467,04-10-2025,13-01-2026,Mountain View Resort,WEST,Mumbai,Executive,Solo,Booking Portal,Half Board,3,1,101,5530,0,1000,9230,UPI,Cancelled,3.2,0.36676
+HB1468,24-02-2025,16-04-2025,Sunrise Palace,SOUTH,Chennai,Deluxe,Solo,Mobile App,Breakfast,2,3,51,5297,20,500,15913,Debit Card,Checked-in,3.7,0.486956
+HB1469,28-03-2025,15-07-2025,Silver Oak Resort,EAST,Bhubaneswar,Standard,Couple,Mobile App,Breakfast,3,2,109,2516,25,1000,7474,Credit Card,Checked-out,3.9,0.401688
+HB1470,12-05-2025,15-06-2025,Metro Heights,SOUTH,Bengaluru,Suite,Business,Website,Half Board,2,7,34,10858,0,1000,89606,Credit Card,Checked-in,3.8,1.379272
+HB1471,23-03-2025,24-05-2025,Grand Horizon Hotel,CENTRAL,Bhopal,Standard,Business,Travel Agent,Full Board,3,2,62,3707,0,1000,16214,UPI,Checked-out,4.4,0.546568
+HB1472,26-03-2025,04-05-2025,Pearl Garden Hotel,SOUTH,Chennai,Deluxe,Leisure,Mobile App,Half Board,4,2,39,5590,20,1500,17644,Credit Card,Checked-out,4.5,0.571728
+HB1473,04-12-2025,30-12-2025,Sunrise Palace,WEST,Mumbai,Deluxe,Business,Walk-in,Breakfast,4,3,26,4661,10,500,18485,Credit Card,Checked-in,4.7,0.59782
+HB1474,15-06-2025,14-08-2025,Urban Nest Hotel,NORTH,Delhi,Executive,Leisure,Booking Portal,Full Board,2,1,60,5898,0,1500,9998,Credit Card,Confirmed,4.4,0.471976
+HB1475,22-09-2025,01-10-2025,Metro Heights,NORTH,Chandigarh,Executive,Solo,Booking Portal,Breakfast,3,1,9,7212,10,500,8341,Debit Card,Confirmed,4.5,0.460092
+HB1476,21-11-2025,15-01-2026,Grand Horizon Hotel,WEST,Pune,Standard,Solo,Website,Room Only,2,3,55,2786,20,0,6686,Cash,Checked-out,3.8,0.384232
+HB1477,07-02-2025,01-03-2025,City Central Hotel,NORTH,Lucknow,Deluxe,Business,Mobile App,Room Only,2,2,22,3665,10,4000,10597,Net Banking,Checked-out,4.1,0.455164
+HB1478,08-02-2025,10-05-2025,Grand Horizon Hotel,NORTH,Chandigarh,Deluxe,Family,Booking Portal,Breakfast,3,3,91,4587,10,0,16435,Net Banking,Checked-in,4.6,0.56522
+HB1479,13-11-2025,07-02-2026,Golden Sands Hotel,WEST,Ahmedabad,Standard,Leisure,Mobile App,Breakfast,3,4,86,2140,0,1000,14960,Credit Card,Confirmed,4.3,0.52352
+HB1480,10-03-2025,18-05-2025,Lakeview Grand,WEST,Goa,Executive,Leisure,Booking Portal,Room Only,2,3,69,5859,10,2500,18319,UPI,Checked-in,4.7,0.595828
+HB1481,06-06-2025,11-06-2025,City Central Hotel,WEST,Mumbai,Family,Leisure,Travel Agent,Breakfast,1,1,5,8250,5,1000,9288,UPI,Checked-out,4.1,0.439456
+HB1482,19-10-2025,01-12-2025,Metro Heights,WEST,Mumbai,Deluxe,Couple,Website,Full Board,3,6,43,4655,0,0,51330,Credit Card,Cancelled,3.6,0.90396
+HB1483,30-07-2025,02-11-2025,Urban Nest Hotel,WEST,Ahmedabad,Deluxe,Business,Website,Breakfast,1,5,95,4159,5,0,22005,UPI,Cancelled,3.9,0.57606
+HB1484,16-03-2025,05-06-2025,Grand Horizon Hotel,EAST,Guwahati,Standard,Couple,Walk-in,Room Only,3,6,81,2697,0,0,16182,Credit Card,Checked-out,4,0.514184
+HB1485,25-02-2025,26-05-2025,Lakeview Grand,NORTH,Jaipur,Family,Business,Booking Portal,Room Only,5,4,90,6845,0,0,27380,UPI,Cancelled,3.7,0.62456
+HB1486,04-12-2025,30-03-2026,Metro Heights,WEST,Ahmedabad,Deluxe,Family,Booking Portal,Full Board,1,1,116,4358,20,2500,7286,UPI,Cancelled,3.2,0.343432
+HB1487,12-10-2025,29-11-2025,Urban Nest Hotel,EAST,Bhubaneswar,Suite,Family,Mobile App,Breakfast,2,6,48,12493,10,500,73362,Net Banking,Cancelled,3.2,1.136344
+HB1488,02-02-2025,06-02-2025,Silver Oak Resort,WEST,Ahmedabad,Standard,Leisure,Booking Portal,Breakfast,5,3,4,2146,0,2500,15688,UPI,Checked-out,4.5,0.548256
+HB1489,14-12-2025,16-03-2026,City Central Hotel,NORTH,Delhi,Standard,Solo,Mobile App,Room Only,2,5,92,1836,0,0,9180,Credit Card,Confirmed,3.2,0.36616
+HB1490,16-06-2025,26-08-2025,Royal Orchid Suites,EAST,Patna,Family,Solo,Travel Agent,Breakfast,2,4,71,7927,20,0,28966,Debit Card,Checked-out,3.8,0.651592
+HB1491,17-08-2025,11-11-2025,Blue Bay Resort,NORTH,Lucknow,Deluxe,Business,Booking Portal,Room Only,2,4,86,5989,5,0,22758,Debit Card,Checked-out,4.2,0.609096
+HB1492,23-10-2025,14-01-2026,Royal Orchid Suites,WEST,Goa,Standard,Business,Mobile App,Breakfast,2,3,83,2498,0,0,10194,UPI,Confirmed,4.6,0.490328
+HB1493,26-05-2025,02-08-2025,Green Valley Inn,NORTH,Lucknow,Standard,Family,Mobile App,Full Board,1,2,68,3227,0,2500,11554,Credit Card,Cancelled,5,0.538648
+HB1494,02-04-2025,10-07-2025,Sunrise Palace,WEST,Goa,Executive,Business,Website,Breakfast,4,1,99,4735,5,0,6298,UPI,Checked-out,5,0.475576
+HB1495,21-01-2025,14-03-2025,Golden Sands Hotel,NORTH,Delhi,Suite,Leisure,Travel Agent,Half Board,2,2,52,10799,15,500,22458,UPI,Confirmed,3.6,0.557496
+HB1496,18-02-2025,25-05-2025,City Central Hotel,WEST,Goa,Suite,Family,Booking Portal,Breakfast,2,4,96,10727,0,500,47008,UPI,Cancelled,3.4,0.836096
+HB1497,22-05-2025,30-08-2025,The Palm Residency,NORTH,Chandigarh,Deluxe,Family,Website,Breakfast,3,4,100,3710,0,0,20240,Credit Card,Checked-out,3,0.48288
+HB1498,21-06-2025,09-10-2025,Green Valley Inn,EAST,Guwahati,Executive,Business,Website,Full Board,3,4,110,5649,0,1000,39196,Cash,Checked-out,4.9,0.862352
+HB1499,24-01-2025,20-05-2025,Royal Orchid Suites,WEST,Goa,Suite,Solo,Website,Half Board,4,7,116,7605,10,1000,74112,UPI,Cancelled,3.9,1.201344
+HB1500,18-03-2025,05-06-2025,Golden Sands Hotel,SOUTH,Hyderabad,Standard,Solo,Mobile App,Breakfast,3,4,79,3081,5,0,17108,Credit Card,Checked-out,3.9,0.517296
+HB1501,24-09-2025,26-09-2025,The Palm Residency,SOUTH,Chennai,Standard,Family,Website,Breakfast,5,3,2,2867,0,0,15351,Net Banking,Checked-out,3.5,0.464212
+HB1502,14-10-2025,10-11-2025,Green Valley Inn,SOUTH,Chennai,Standard,Leisure,Website,Half Board,3,1,27,3653,5,500,6670,Credit Card,Checked-in,4.6,0.44804
+HB1503,27-12-2025,17-02-2026,Green Valley Inn,WEST,Pune,Executive,Business,Website,Breakfast,2,4,52,4037,15,1500,18826,UPI,Confirmed,3.4,0.497912
+HB1504,20-09-2025,07-10-2025,City Central Hotel,WEST,Mumbai,Suite,Couple,Website,Half Board,5,3,17,12185,10,1500,47900,UPI,Checked-in,5,0.9748
+HB1505,02-04-2025,03-04-2025,Golden Sands Hotel,EAST,Patna,Deluxe,Business,Booking Portal,Full Board,2,2,1,5059,15,0,13800,UPI,Checked-out,4.3,0.5096
+HB1506,09-10-2025,14-12-2025,Golden Sands Hotel,NORTH,Jaipur,Standard,Couple,Website,Room Only,4,4,66,2607,10,500,9885,Credit Card,Checked-out,3.9,0.43062
+HB1507,05-04-2025,14-06-2025,Metro Heights,SOUTH,Chennai,Standard,Business,Booking Portal,Breakfast,4,1,70,3267,5,1000,5904,Cash,Cancelled,4.2,0.406848
+HB1508,13-03-2025,28-06-2025,Metro Heights,NORTH,Delhi,Deluxe,Family,Booking Portal,Full Board,3,4,107,3336,5,1500,29777,Debit Card,Checked-out,4,0.677324
+HB1509,06-11-2025,01-12-2025,Sunrise Palace,EAST,Patna,Family,Family,Mobile App,Room Only,5,4,25,9000,0,0,36000,UPI,Confirmed,4.4,0.784
+HB1510,20-11-2025,29-11-2025,Crown Plaza Residency,NORTH,Jaipur,Deluxe,Family,Mobile App,Half Board,2,4,9,5851,5,0,29434,Credit Card,Checked-out,3.7,0.649208
+HB1511,12-05-2025,24-08-2025,City Central Hotel,WEST,Pune,Deluxe,Couple,Mobile App,Room Only,2,5,104,4708,5,2500,24863,UPI,Confirmed,4.4,0.650356
+HB1512,14-11-2025,21-02-2026,City Central Hotel,EAST,Kolkata,Executive,Solo,Website,Room Only,3,7,99,6278,0,0,43946,Net Banking,Checked-out,5,0.927352
+HB1513,23-08-2025,14-11-2025,Silver Oak Resort,CENTRAL,Bhopal,Standard,Business,Website,Half Board,2,2,83,4024,0,0,11648,Debit Card,Checked-in,3.6,0.427776
+HB1514,04-02-2025,09-03-2025,Silver Oak Resort,SOUTH,Bengaluru,Executive,Leisure,Travel Agent,Room Only,2,6,33,6324,0,0,37944,Credit Card,Confirmed,4.4,0.807328
+HB1515,09-10-2025,29-01-2026,Blue Bay Resort,SOUTH,Bengaluru,Family,Solo,Booking Portal,Half Board,5,4,112,7406,20,1500,43199,Debit Card,Confirmed,3.6,0.806388
+HB1516,12-03-2025,13-06-2025,Green Valley Inn,NORTH,Delhi,Family,Couple,Mobile App,Room Only,2,1,93,5513,20,0,4410,Debit Card,Confirmed,3.3,0.31692
+HB1517,20-10-2025,29-01-2026,Royal Orchid Suites,NORTH,Jaipur,Executive,Couple,Mobile App,Breakfast,2,1,101,6768,15,1000,7653,Debit Card,Checked-in,4,0.411836
+HB1518,23-12-2025,09-02-2026,City Central Hotel,SOUTH,Bengaluru,Deluxe,Solo,Website,Breakfast,1,5,48,5002,5,0,26010,UPI,Cancelled,3.3,0.57612
+HB1519,15-05-2025,31-05-2025,The Palm Residency,WEST,Pune,Standard,Business,Travel Agent,Room Only,4,4,16,3393,20,1000,11858,Credit Card,Cancelled,2.6,0.350296
+HB1520,27-06-2025,07-08-2025,Lakeview Grand,WEST,Goa,Deluxe,Couple,Booking Portal,Full Board,2,1,41,4187,0,0,6787,UPI,Checked-out,3.1,0.329444
+HB1521,10-11-2025,28-11-2025,The Palm Residency,WEST,Ahmedabad,Executive,Couple,Travel Agent,Full Board,4,6,18,5686,0,0,65316,UPI,Confirmed,4,1.103792
+HB1522,03-03-2025,12-05-2025,Mountain View Resort,EAST,Kolkata,Standard,Family,Booking Portal,Breakfast,2,2,70,3121,0,0,8042,Net Banking,Checked-in,3.4,0.368504
+HB1523,16-02-2025,22-02-2025,Golden Sands Hotel,WEST,Pune,Standard,Business,Website,Room Only,2,1,6,2899,15,0,2464,Net Banking,Cancelled,3,0.269568
+HB1524,21-03-2025,27-03-2025,Crown Plaza Residency,SOUTH,Hyderabad,Deluxe,Business,Website,Half Board,3,3,6,4557,25,2500,20853,Credit Card,Checked-out,4.1,0.578236
+HB1525,19-05-2025,15-06-2025,Blue Bay Resort,NORTH,Delhi,Executive,Family,Travel Agent,Breakfast,2,3,27,5192,0,1000,19276,Debit Card,Confirmed,4.4,0.583312
+HB1526,16-08-2025,09-12-2025,Pearl Garden Hotel,WEST,Goa,Executive,Business,Travel Agent,Room Only,3,4,115,6913,15,4000,27504,Cash,Checked-out,4.9,0.722048
+HB1527,07-02-2025,07-04-2025,Pearl Garden Hotel,CENTRAL,Bhopal,Deluxe,Leisure,Website,Room Only,5,3,59,4272,0,0,12816,Credit Card,Checked-out,4.8,0.537792
+HB1528,20-02-2025,25-02-2025,Blue Bay Resort,NORTH,Delhi,Standard,Business,Website,Room Only,4,1,5,1852,10,0,1667,Debit Card,Checked-in,4.2,0.356004
+HB1529,10-10-2025,04-02-2026,Mountain View Resort,EAST,Patna,Standard,Leisure,Booking Portal,Breakfast,3,1,117,2242,10,0,3368,Credit Card,Cancelled,3.2,0.296416
+HB1530,10-11-2025,15-12-2025,Silver Oak Resort,SOUTH,Hyderabad,Executive,Couple,Walk-in,Full Board,2,5,35,7835,15,500,46799,UPI,Checked-out,3.8,0.865588
+HB1531,29-09-2025,11-10-2025,Urban Nest Hotel,CENTRAL,Bhopal,Deluxe,Family,Walk-in,Room Only,4,1,12,5627,5,1500,6846,Credit Card,Confirmed,3.9,0.394152
+HB1532,17-03-2025,22-04-2025,City Central Hotel,NORTH,Lucknow,Deluxe,Business,Website,Half Board,2,5,36,5031,0,4000,38155,Credit Card,Cancelled,2.4,0.64986
+HB1533,09-08-2025,07-10-2025,Grand Horizon Hotel,EAST,Guwahati,Deluxe,Leisure,Mobile App,Room Only,2,4,59,4691,20,2500,17511,Cash,Checked-out,3.9,0.522132
+HB1534,26-01-2025,12-05-2025,Blue Bay Resort,EAST,Guwahati,Deluxe,Business,Travel Agent,Half Board,2,1,106,5823,10,2500,9541,UPI,Confirmed,3.4,0.386492
+HB1535,17-03-2025,22-06-2025,Lakeview Grand,EAST,Kolkata,Deluxe,Leisure,Website,Full Board,3,3,97,4972,10,500,25624,Debit Card,Checked-out,3.7,0.603488
+HB1536,15-01-2025,01-05-2025,City Central Hotel,SOUTH,Kochi,Family,Leisure,Website,Room Only,4,3,106,8470,20,1000,21328,Cash,Cancelled,4.4,0.607936
+HB1537,12-09-2025,14-09-2025,Lakeview Grand,EAST,Guwahati,Family,Couple,Mobile App,Room Only,5,2,2,5572,0,1000,12144,Debit Card,Checked-in,3.7,0.441728
+HB1538,24-06-2025,27-06-2025,City Central Hotel,SOUTH,Kochi,Deluxe,Leisure,Booking Portal,Half Board,1,5,3,3888,20,1500,21552,UPI,Checked-out,3.8,0.562624
+HB1539,23-09-2025,04-12-2025,Grand Horizon Hotel,EAST,Kolkata,Deluxe,Family,Mobile App,Half Board,2,3,72,5121,10,2500,21727,Net Banking,Checked-out,3.9,0.572724
+HB1540,16-09-2025,09-01-2026,Green Valley Inn,CENTRAL,Raipur,Standard,Business,Website,Full Board,4,3,115,3160,0,0,25080,Credit Card,Checked-out,3.8,0.60496
+HB1541,05-12-2025,15-12-2025,Sunrise Palace,EAST,Bhubaneswar,Family,Leisure,Walk-in,Half Board,4,3,10,6679,5,500,30335,UPI,Checked-out,2.9,0.59602
+HB1542,14-08-2025,17-09-2025,Metro Heights,CENTRAL,Bhopal,Deluxe,Family,Booking Portal,Full Board,2,3,34,5222,5,4000,26683,Debit Card,Checked-out,4,0.640196
+HB1543,28-03-2025,20-04-2025,Golden Sands Hotel,CENTRAL,Nagpur,Family,Solo,Walk-in,Room Only,1,1,23,6205,5,0,5895,Credit Card,Confirmed,5,0.47074
+HB1544,02-11-2025,30-11-2025,Lakeview Grand,NORTH,Chandigarh,Family,Solo,Walk-in,Full Board,3,2,28,6721,5,0,20570,Debit Card,Checked-out,4,0.56684
+HB1545,14-12-2025,29-03-2026,Green Valley Inn,NORTH,Lucknow,Standard,Leisure,Website,Full Board,2,5,105,2203,0,500,24515,Debit Card,Checked-out,3.6,0.58218
+HB1546,02-02-2025,18-03-2025,Metro Heights,WEST,Pune,Standard,Family,Mobile App,Full Board,4,4,44,2643,0,1500,32872,Net Banking,Checked-in,4,0.714464
+HB1547,13-01-2025,14-04-2025,Metro Heights,SOUTH,Kochi,Executive,Leisure,Website,Breakfast,2,4,91,6301,25,500,23003,Debit Card,Confirmed,4.3,0.620036
+HB1548,21-11-2025,27-01-2026,Mountain View Resort,EAST,Guwahati,Deluxe,Business,Travel Agent,Breakfast,3,6,67,4819,0,1500,38514,Credit Card,Checked-out,3.6,0.750168
+HB1549,07-06-2025,07-09-2025,Blue Bay Resort,SOUTH,Hyderabad,Deluxe,Couple,Mobile App,Half Board,2,2,92,4394,0,0,12388,Credit Card,Checked-in,4.5,0.508656
+HB1550,23-06-2025,05-10-2025,Sunrise Palace,WEST,Ahmedabad,Standard,Leisure,Booking Portal,Breakfast,2,4,104,3542,0,500,18268,Credit Card,Checked-out,4,0.539216
+HB1551,07-09-2025,12-12-2025,The Palm Residency,NORTH,Jaipur,Standard,Business,Mobile App,Full Board,2,2,96,2115,5,0,9218,UPI,Checked-out,2.8,0.334616
+HB1552,27-07-2025,10-09-2025,Mountain View Resort,NORTH,Jaipur,Executive,Leisure,Website,Breakfast,1,3,45,4128,10,0,12496,Credit Card,Confirmed,4.2,0.485952
+HB1553,21-10-2025,03-01-2026,The Palm Residency,WEST,Ahmedabad,Standard,Family,Mobile App,Full Board,2,2,74,2708,15,1000,10804,UPI,Confirmed,4.4,0.481648
+HB1554,05-05-2025,30-05-2025,Lakeview Grand,SOUTH,Chennai,Suite,Couple,Mobile App,Room Only,2,1,25,8666,25,1000,7500,UPI,Confirmed,4.9,0.482
+HB1555,08-08-2025,23-09-2025,Urban Nest Hotel,EAST,Kolkata,Standard,Solo,Mobile App,Full Board,3,3,46,3189,15,1000,20832,Debit Card,Confirmed,3.6,0.537984
+HB1556,27-11-2025,25-01-2026,Pearl Garden Hotel,EAST,Kolkata,Deluxe,Solo,Website,Breakfast,4,1,59,5270,0,1500,8570,Credit Card,Cancelled,4.7,0.47884
+HB1557,17-09-2025,12-11-2025,Mountain View Resort,CENTRAL,Bhopal,Deluxe,Leisure,Website,Room Only,2,2,56,3991,0,1000,8982,Debit Card,Checked-out,2.9,0.339784
+HB1558,20-05-2025,30-06-2025,Golden Sands Hotel,NORTH,Jaipur,Standard,Leisure,Travel Agent,Half Board,2,1,41,2133,0,1500,5433,UPI,Confirmed,4.2,0.401196
+HB1559,11-11-2025,18-12-2025,Crown Plaza Residency,WEST,Mumbai,Family,Family,Booking Portal,Room Only,3,3,37,7764,10,1500,22463,Net Banking,Checked-in,3.9,0.581556
+HB1560,13-08-2025,16-09-2025,City Central Hotel,WEST,Pune,Standard,Business,Booking Portal,Room Only,5,4,34,1995,0,1500,9480,UPI,Checked-in,3.5,0.39376
+HB1561,20-12-2025,27-12-2025,City Central Hotel,SOUTH,Chennai,Family,Family,Website,Breakfast,4,4,7,5354,0,0,28616,Credit Card,Checked-out,4.3,0.687392
+HB1562,09-12-2025,27-01-2026,Crown Plaza Residency,WEST,Mumbai,Suite,Couple,Travel Agent,Room Only,3,4,49,8667,0,0,34668,Debit Card,Checked-out,3.6,0.704016
+HB1563,14-10-2025,26-10-2025,Urban Nest Hotel,WEST,Mumbai,Deluxe,Leisure,Booking Portal,Half Board,2,4,12,6487,10,0,30553,Debit Card,Checked-in,3.8,0.670636
+HB1564,20-03-2025,04-06-2025,Lakeview Grand,SOUTH,Kochi,Standard,Solo,Website,Full Board,2,4,76,2871,0,0,21884,Net Banking,Checked-out,2.8,0.486608
+HB1565,06-07-2025,12-07-2025,Grand Horizon Hotel,EAST,Guwahati,Standard,Leisure,Website,Room Only,1,5,6,2920,0,2500,17100,Credit Card,Checked-out,4.1,0.5332
+HB1566,03-09-2025,22-09-2025,Silver Oak Resort,SOUTH,Kochi,Standard,Solo,Mobile App,Breakfast,2,5,19,3023,0,1500,21115,UPI,Checked-out,2.9,0.48538
+HB1567,26-01-2025,21-04-2025,Mountain View Resort,SOUTH,Kochi,Deluxe,Solo,Website,Breakfast,5,3,85,5092,5,0,21262,Credit Card,Checked-in,4.3,0.599144
+HB1568,21-03-2025,06-04-2025,Urban Nest Hotel,CENTRAL,Indore,Standard,Business,Walk-in,Half Board,4,1,16,2805,5,2500,8765,UPI,Checked-in,4.1,0.43318
+HB1569,19-12-2025,01-01-2026,Sunrise Palace,EAST,Guwahati,Executive,Couple,Booking Portal,Breakfast,2,2,13,5158,15,0,10569,Credit Card,Confirmed,4.4,0.478828
+HB1570,26-04-2025,25-06-2025,Silver Oak Resort,SOUTH,Chennai,Deluxe,Business,Travel Agent,Half Board,4,6,60,4203,15,500,43535,UPI,Confirmed,4,0.84242
+HB1571,12-11-2025,11-03-2026,Sunrise Palace,NORTH,Chandigarh,Deluxe,Solo,Booking Portal,Breakfast,4,4,119,3445,0,1000,21980,Debit Card,Checked-out,4.9,0.65576
+HB1572,24-09-2025,04-10-2025,Royal Orchid Suites,EAST,Guwahati,Deluxe,Leisure,Booking Portal,Full Board,3,3,10,5870,5,1000,29430,Net Banking,Checked-out,3.4,0.62516
+HB1573,21-07-2025,04-11-2025,Grand Horizon Hotel,SOUTH,Kochi,Suite,Leisure,Booking Portal,Breakfast,3,7,106,11930,5,500,89284,Cash,Checked-out,5,1.471408
+HB1574,01-11-2025,08-12-2025,Blue Bay Resort,EAST,Bhubaneswar,Deluxe,Business,Website,Full Board,2,3,37,5941,0,500,26123,UPI,Checked-in,5,0.713476
+HB1575,30-09-2025,09-01-2026,Grand Horizon Hotel,EAST,Patna,Standard,Leisure,Mobile App,Room Only,3,3,101,2804,20,0,6730,UPI,Confirmed,3.7,0.37676
+HB1576,16-02-2025,20-02-2025,Royal Orchid Suites,NORTH,Lucknow,Deluxe,Solo,Website,Breakfast,5,1,4,4986,15,0,6488,Cash,Checked-out,3.8,0.381856
+HB1577,11-05-2025,01-09-2025,Mountain View Resort,CENTRAL,Nagpur,Deluxe,Solo,Mobile App,Breakfast,3,1,113,4655,15,1000,6307,Debit Card,Cancelled,3.6,0.363684
+HB1578,02-02-2025,20-04-2025,The Palm Residency,SOUTH,Kochi,Family,Couple,Website,Room Only,4,2,77,9280,20,500,15348,UPI,Checked-out,4,0.504176
+HB1579,18-12-2025,14-01-2026,Blue Bay Resort,EAST,Guwahati,Family,Leisure,Booking Portal,Breakfast,2,4,27,7282,10,1000,30815,Credit Card,Checked-out,4,0.68978
+HB1580,30-01-2025,25-05-2025,Mountain View Resort,EAST,Kolkata,Deluxe,Business,Booking Portal,Room Only,2,4,115,6033,0,1500,25632,Debit Card,Checked-out,4.5,0.667584
+HB1581,13-03-2025,21-05-2025,Grand Horizon Hotel,SOUTH,Kochi,Standard,Leisure,Mobile App,Room Only,2,4,69,2339,25,1000,8017,Debit Card,Checked-in,4.7,0.472204
+HB1582,24-04-2025,11-08-2025,Green Valley Inn,WEST,Goa,Suite,Family,Travel Agent,Breakfast,2,7,109,9655,5,1000,71506,UPI,Checked-out,4.3,1.202072
+HB1583,11-04-2025,12-06-2025,Metro Heights,NORTH,Chandigarh,Standard,Leisure,Travel Agent,Half Board,2,1,62,3044,0,500,5344,UPI,Checked-in,4.7,0.440128
+HB1584,26-05-2025,25-08-2025,Silver Oak Resort,SOUTH,Kochi,Standard,Couple,Mobile App,Breakfast,3,5,91,2529,0,2500,21895,UPI,Checked-out,3.5,0.54274
+HB1585,04-07-2025,13-10-2025,Sunrise Palace,SOUTH,Bengaluru,Suite,Family,Booking Portal,Breakfast,3,2,101,13199,5,1000,28778,UPI,Checked-out,4.5,0.705336
+HB1586,06-08-2025,18-11-2025,Golden Sands Hotel,NORTH,Chandigarh,Executive,Couple,Booking Portal,Half Board,2,5,104,5161,15,0,30934,Credit Card,Cancelled,4.3,0.715208
+HB1587,07-03-2025,21-03-2025,Urban Nest Hotel,WEST,Ahmedabad,Suite,Leisure,Website,Room Only,3,2,14,8937,10,2500,18587,UPI,Confirmed,4.2,0.559044
+HB1588,16-06-2025,20-08-2025,Mountain View Resort,EAST,Guwahati,Family,Business,Website,Room Only,1,3,65,8016,15,1000,21441,Cash,Checked-in,4.8,0.641292
+HB1589,04-01-2025,02-04-2025,Lakeview Grand,NORTH,Jaipur,Executive,Business,Booking Portal,Room Only,2,3,88,5642,0,0,16926,UPI,Confirmed,4.1,0.531112
+HB1590,17-02-2025,21-05-2025,Sunrise Palace,NORTH,Chandigarh,Standard,Family,Website,Room Only,4,3,93,2484,0,0,7452,Debit Card,Checked-out,3.7,0.385424
+HB1591,29-07-2025,27-09-2025,Mountain View Resort,SOUTH,Chennai,Standard,Solo,Travel Agent,Breakfast,3,2,60,2294,0,0,7288,Credit Card,Checked-out,3.5,0.367456
+HB1592,14-01-2025,07-03-2025,Urban Nest Hotel,NORTH,Jaipur,Family,Business,Travel Agent,Breakfast,4,4,52,5632,5,500,29102,Credit Card,Confirmed,4.3,0.693224
+HB1593,12-05-2025,19-07-2025,Lakeview Grand,WEST,Ahmedabad,Deluxe,Solo,Website,Breakfast,2,3,68,4732,10,0,15476,Debit Card,Checked-out,4.6,0.553712
+HB1594,04-12-2025,18-01-2026,Urban Nest Hotel,NORTH,Delhi,Deluxe,Family,Booking Portal,Breakfast,3,4,45,3233,0,1500,19832,Credit Card,Confirmed,3.5,0.517984
+HB1595,28-10-2025,03-11-2025,Urban Nest Hotel,NORTH,Jaipur,Deluxe,Leisure,Booking Portal,Room Only,3,5,6,4779,0,500,24395,UPI,Checked-out,4,0.61274
+HB1596,17-02-2025,10-05-2025,Urban Nest Hotel,CENTRAL,Nagpur,Standard,Business,Travel Agent,Room Only,3,4,82,2426,10,500,9234,Cash,Checked-in,4.2,0.446808
+HB1597,05-06-2025,07-06-2025,City Central Hotel,SOUTH,Kochi,Family,Family,Website,Breakfast,5,7,2,4813,20,500,43203,Net Banking,Checked-out,3.2,0.774436
+HB1598,21-06-2025,11-09-2025,Crown Plaza Residency,WEST,Ahmedabad,Standard,Family,Website,Breakfast,2,1,82,2508,5,1500,4783,Debit Card,Confirmed,2.9,0.289396
+HB1599,16-04-2025,21-04-2025,Royal Orchid Suites,WEST,Ahmedabad,Deluxe,Solo,Website,Breakfast,4,4,5,5907,0,1000,31828,Credit Card,Checked-out,4,0.701936
+HB1600,30-05-2025,13-09-2025,Golden Sands Hotel,WEST,Mumbai,Deluxe,Couple,Website,Room Only,4,4,106,2937,0,0,11748,UPI,Checked-out,3.9,0.452976
+HB1601,09-02-2025,29-05-2025,Pearl Garden Hotel,NORTH,Delhi,Family,Couple,Website,Breakfast,2,3,109,8421,0,500,28463,Debit Card,Checked-out,3.3,0.605556
+HB1602,02-11-2025,06-11-2025,Blue Bay Resort,SOUTH,Chennai,Suite,Business,Website,Breakfast,2,3,4,12560,0,2500,42880,UPI,Confirmed,3.8,0.81856
+HB1603,25-04-2025,12-06-2025,Lakeview Grand,CENTRAL,Bhopal,Executive,Solo,Booking Portal,Room Only,2,6,48,5969,15,500,30942,Debit Card,Checked-in,4.5,0.731304
+HB1604,07-10-2025,03-01-2026,Urban Nest Hotel,SOUTH,Chennai,Standard,Couple,Walk-in,Breakfast,2,3,88,2025,5,1000,9471,Net Banking,Checked-out,4.5,0.473652
+HB1605,27-04-2025,21-05-2025,Pearl Garden Hotel,EAST,Guwahati,Standard,Leisure,Website,Room Only,5,3,24,2512,15,1000,7406,Credit Card,Checked-in,4.6,0.456872
+HB1606,09-10-2025,03-01-2026,Grand Horizon Hotel,NORTH,Chandigarh,Executive,Couple,Mobile App,Breakfast,3,2,86,7318,0,500,17836,Debit Card,Checked-in,3.8,0.518032
+HB1607,24-06-2025,27-06-2025,Blue Bay Resort,EAST,Kolkata,Deluxe,Couple,Travel Agent,Breakfast,2,1,3,3095,10,0,3686,Debit Card,Checked-out,4.1,0.372232
+HB1608,22-05-2025,16-08-2025,Golden Sands Hotel,EAST,Guwahati,Deluxe,Business,Website,Breakfast,5,7,86,5136,5,0,49904,UPI,Checked-in,3.9,0.910848
+HB1609,08-10-2025,19-10-2025,Silver Oak Resort,WEST,Goa,Standard,Leisure,Website,Half Board,2,4,11,3234,0,0,20136,Credit Card,Checked-in,5,0.641632
+HB1610,21-03-2025,16-06-2025,Metro Heights,NORTH,Lucknow,Standard,Couple,Mobile App,Half Board,3,3,87,2472,15,500,14904,Debit Card,Checked-out,4.8,0.562848
+HB1611,14-06-2025,06-10-2025,City Central Hotel,EAST,Kolkata,Executive,Couple,Mobile App,Room Only,3,1,114,7321,0,0,7321,Cash,Cancelled,4.2,0.423852
+HB1612,14-05-2025,06-07-2025,Crown Plaza Residency,CENTRAL,Nagpur,Family,Solo,Booking Portal,Room Only,2,7,53,7564,0,0,52948,UPI,Checked-out,3.3,0.899376
+HB1613,10-11-2025,30-11-2025,Royal Orchid Suites,WEST,Ahmedabad,Deluxe,Solo,Mobile App,Breakfast,3,6,20,5206,0,500,39836,Debit Card,Confirmed,4.1,0.806032
+HB1614,13-06-2025,17-08-2025,Crown Plaza Residency,NORTH,Delhi,Deluxe,Family,Walk-in,Breakfast,2,4,65,3153,10,1000,15951,Debit Card,Checked-out,3.1,0.439412
+HB1615,27-01-2025,13-05-2025,Pearl Garden Hotel,WEST,Pune,Family,Leisure,Website,Half Board,4,5,106,5279,0,1000,45395,Credit Card,Checked-out,4,0.86474
+HB1616,20-03-2025,01-07-2025,Blue Bay Resort,CENTRAL,Bhopal,Family,Family,Mobile App,Breakfast,3,4,103,8166,0,0,38064,Credit Card,Checked-out,4.6,0.824768
+HB1617,22-03-2025,05-07-2025,The Palm Residency,SOUTH,Kochi,Suite,Leisure,Booking Portal,Breakfast,3,2,105,9271,10,4000,23388,UPI,Confirmed,4.8,0.664656
+HB1618,19-09-2025,13-01-2026,Royal Orchid Suites,EAST,Bhubaneswar,Deluxe,Leisure,Website,Half Board,3,7,116,4538,0,0,50666,UPI,Checked-in,4.1,0.935992
+HB1619,08-08-2025,05-10-2025,Royal Orchid Suites,WEST,Pune,Executive,Family,Website,Room Only,4,4,58,7300,10,4000,30280,Debit Card,Checked-in,3.8,0.66736
+HB1620,21-03-2025,12-05-2025,City Central Hotel,SOUTH,Hyderabad,Deluxe,Business,Website,Full Board,3,1,52,5638,0,0,9538,Net Banking,Checked-in,4.8,0.498456
+HB1621,25-03-2025,29-06-2025,Green Valley Inn,NORTH,Delhi,Family,Leisure,Booking Portal,Room Only,4,2,96,4888,10,500,9298,Credit Card,Cancelled,3.6,0.399576
+HB1622,05-06-2025,11-09-2025,Pearl Garden Hotel,NORTH,Jaipur,Suite,Family,Travel Agent,Breakfast,4,7,98,11414,15,0,80513,Credit Card,Checked-in,4.1,1.294156
+HB1623,03-12-2025,15-12-2025,Urban Nest Hotel,NORTH,Chandigarh,Standard,Leisure,Booking Portal,Half Board,1,1,12,3239,0,0,4139,UPI,Checked-in,2.4,0.241668
+HB1624,24-10-2025,15-12-2025,The Palm Residency,EAST,Bhubaneswar,Deluxe,Leisure,Website,Breakfast,4,7,52,5960,0,500,54820,UPI,Checked-out,4.3,1.00184
+HB1625,15-04-2025,22-05-2025,Pearl Garden Hotel,EAST,Bhubaneswar,Deluxe,Leisure,Travel Agent,Half Board,2,5,37,4347,10,0,28562,Cash,Checked-out,3.6,0.630744
+HB1626,16-12-2025,02-01-2026,The Palm Residency,CENTRAL,Indore,Deluxe,Leisure,Website,Half Board,4,3,17,3136,15,2500,21297,Debit Card,Cancelled,4.8,0.639564
+HB1627,08-06-2025,26-09-2025,Urban Nest Hotel,SOUTH,Kochi,Deluxe,Leisure,Website,Breakfast,3,1,110,4860,15,2500,7981,Debit Card,Checked-out,3.9,0.407772
+HB1628,16-05-2025,27-08-2025,Silver Oak Resort,EAST,Guwahati,Standard,Business,Website,Room Only,1,6,103,3051,0,2500,20806,Credit Card,Cancelled,4,0.569672
+HB1629,24-03-2025,09-07-2025,Crown Plaza Residency,WEST,Pune,Deluxe,Solo,Travel Agent,Full Board,4,2,107,5140,5,4000,24166,Cash,Confirmed,4.5,0.649992
+HB1630,28-06-2025,03-07-2025,Silver Oak Resort,EAST,Bhubaneswar,Deluxe,Business,Booking Portal,Full Board,3,3,5,3170,0,0,21210,Net Banking,Checked-out,3.2,0.51052
+HB1631,29-09-2025,24-12-2025,Crown Plaza Residency,CENTRAL,Bhopal,Executive,Business,Travel Agent,Half Board,4,5,86,8678,25,0,50542,Debit Card,Confirmed,3.8,0.910504
+HB1632,24-01-2025,08-02-2025,Golden Sands Hotel,EAST,Bhubaneswar,Deluxe,Leisure,Walk-in,Room Only,2,4,15,2846,10,0,10246,Debit Card,Confirmed,3.8,0.426952
+HB1633,30-09-2025,21-01-2026,Blue Bay Resort,WEST,Ahmedabad,Deluxe,Leisure,Walk-in,Full Board,2,2,113,5425,10,4000,18965,Debit Card,Checked-in,3.5,0.50758
+HB1634,01-05-2025,18-07-2025,The Palm Residency,SOUTH,Chennai,Deluxe,Business,Website,Room Only,3,2,78,4817,20,4000,11707,UPI,Confirmed,4.4,0.492484
+HB1635,25-02-2025,07-06-2025,Urban Nest Hotel,CENTRAL,Raipur,Executive,Business,Booking Portal,Room Only,2,3,102,4703,0,500,14609,Net Banking,Confirmed,5,0.575308
+HB1636,15-12-2025,04-01-2026,Silver Oak Resort,WEST,Pune,Standard,Leisure,Mobile App,Full Board,4,4,20,2683,15,500,30422,Net Banking,Cancelled,3.6,0.653064
+HB1637,20-07-2025,27-10-2025,Blue Bay Resort,SOUTH,Bengaluru,Deluxe,Leisure,Website,Breakfast,3,3,99,4605,20,0,15102,Debit Card,Checked-out,4,0.501224
+HB1638,16-03-2025,28-06-2025,The Palm Residency,EAST,Bhubaneswar,Standard,Leisure,Mobile App,Half Board,2,3,104,2499,5,0,12522,UPI,Cancelled,2.6,0.358264
+HB1639,06-03-2025,14-06-2025,The Palm Residency,SOUTH,Hyderabad,Standard,Business,Mobile App,Room Only,1,4,100,2584,10,4000,13302,Credit Card,Checked-out,4.5,0.519624
+HB1640,27-08-2025,23-11-2025,Blue Bay Resort,EAST,Patna,Suite,Leisure,Walk-in,Half Board,3,3,88,13264,20,2500,42434,UPI,Cancelled,3.5,0.789208
+HB1641,22-06-2025,30-06-2025,Lakeview Grand,WEST,Mumbai,Standard,Family,Mobile App,Room Only,3,1,8,3002,15,0,2552,Credit Card,Checked-in,2.9,0.262624
+HB1642,10-10-2025,17-10-2025,The Palm Residency,CENTRAL,Nagpur,Suite,Family,Booking Portal,Breakfast,2,3,7,10151,0,4000,37153,Net Banking,Confirmed,4.3,0.789836
+HB1643,12-11-2025,21-11-2025,Crown Plaza Residency,WEST,Mumbai,Standard,Family,Website,Room Only,3,1,9,3248,0,1000,4248,Debit Card,Checked-out,4.2,0.386976
+HB1644,25-10-2025,16-01-2026,Metro Heights,WEST,Ahmedabad,Deluxe,Leisure,Mobile App,Breakfast,1,7,83,5290,5,1000,39328,Debit Card,Checked-out,4.1,0.799936
+HB1645,24-11-2025,01-02-2026,Green Valley Inn,SOUTH,Kochi,Family,Leisure,Booking Portal,Breakfast,5,1,69,7171,0,1000,10421,Cash,Cancelled,2.7,0.341052
+HB1646,13-10-2025,22-12-2025,Blue Bay Resort,WEST,Ahmedabad,Deluxe,Business,Website,Half Board,3,1,70,2977,0,1000,6677,Net Banking,Checked-out,4.5,0.440124
+HB1647,02-09-2025,05-10-2025,Lakeview Grand,SOUTH,Chennai,Standard,Leisure,Walk-in,Breakfast,3,2,33,2769,0,0,8238,UPI,Checked-in,3.2,0.354856
+HB1648,08-10-2025,27-11-2025,Royal Orchid Suites,EAST,Kolkata,Executive,Family,Website,Breakfast,4,7,50,5657,10,4000,52239,Credit Card,Checked-out,4,0.946868
+HB1649,12-07-2025,05-09-2025,Royal Orchid Suites,WEST,Mumbai,Suite,Business,Website,Breakfast,4,2,55,9087,0,1000,22774,UPI,Checked-out,3.9,0.585288
+HB1650,28-01-2025,16-04-2025,Silver Oak Resort,WEST,Pune,Standard,Couple,Mobile App,Breakfast,4,2,78,2503,10,0,8105,Debit Card,Confirmed,4.3,0.44126
+HB1651,10-01-2025,02-05-2025,Mountain View Resort,EAST,Guwahati,Standard,Business,Booking Portal,Room Only,2,3,112,2227,0,0,6681,Net Banking,Checked-out,4,0.400172
+HB1652,12-08-2025,10-12-2025,Silver Oak Resort,WEST,Mumbai,Family,Couple,Mobile App,Breakfast,2,1,120,5593,25,0,5095,Debit Card,Checked-in,3.1,0.30914
+HB1653,07-10-2025,15-01-2026,Silver Oak Resort,EAST,Bhubaneswar,Standard,Couple,Booking Portal,Room Only,3,5,100,1940,5,1000,10215,Debit Card,Confirmed,5,0.52258
+HB1654,16-08-2025,30-09-2025,Mountain View Resort,SOUTH,Chennai,Suite,Leisure,Booking Portal,Room Only,3,7,45,11945,10,1500,76754,Net Banking,Checked-in,3.6,1.209048
+HB1655,16-12-2025,12-01-2026,Urban Nest Hotel,SOUTH,Kochi,Suite,Solo,Travel Agent,Breakfast,3,2,27,11698,0,0,26096,Credit Card,Checked-out,4.6,0.681152
+HB1656,22-05-2025,31-08-2025,Royal Orchid Suites,SOUTH,Bengaluru,Standard,Business,Travel Agent,Room Only,4,7,101,2075,5,500,14299,Debit Card,Checked-in,3.8,0.475588
+HB1657,12-12-2025,03-03-2026,Mountain View Resort,WEST,Pune,Deluxe,Couple,Booking Portal,Room Only,3,2,81,5388,10,1500,11198,UPI,Checked-in,3.6,0.422376
+HB1658,31-07-2025,16-08-2025,Green Valley Inn,WEST,Goa,Suite,Couple,Travel Agent,Room Only,3,1,16,7416,5,1000,8045,Credit Card,Checked-in,4.2,0.43254
+HB1659,21-08-2025,09-12-2025,Blue Bay Resort,NORTH,Delhi,Standard,Couple,Mobile App,Half Board,3,3,110,2433,10,0,14669,Debit Card,Checked-out,4,0.496028
+HB1660,22-07-2025,15-10-2025,Sunrise Palace,WEST,Goa,Executive,Family,Travel Agent,Breakfast,4,2,85,6427,20,0,13883,Net Banking,Checked-out,5,0.566596
+HB1661,12-11-2025,20-12-2025,Royal Orchid Suites,WEST,Ahmedabad,Standard,Family,Mobile App,Breakfast,1,5,38,2325,0,1000,14875,Credit Card,Checked-out,3.2,0.4345
+HB1662,17-10-2025,19-11-2025,Blue Bay Resort,SOUTH,Bengaluru,Deluxe,Business,Booking Portal,Room Only,5,2,33,3871,0,0,7742,Debit Card,Confirmed,4,0.412904
+HB1663,21-10-2025,27-01-2026,City Central Hotel,WEST,Mumbai,Deluxe,Solo,Travel Agent,Breakfast,4,2,98,5233,25,2500,13950,Net Banking,Confirmed,3.8,0.4714
+HB1664,19-08-2025,21-11-2025,Royal Orchid Suites,CENTRAL,Bhopal,Deluxe,Leisure,Mobile App,Room Only,3,4,94,4299,15,1000,15617,Net Banking,Checked-out,4.7,0.563404
+HB1665,01-02-2025,10-05-2025,Green Valley Inn,WEST,Pune,Deluxe,Business,Website,Breakfast,5,2,98,3184,10,2500,12731,Net Banking,Checked-in,4.1,0.480772
+HB1666,31-03-2025,08-04-2025,Silver Oak Resort,WEST,Mumbai,Standard,Solo,Walk-in,Breakfast,1,3,8,2749,10,0,8772,Credit Card,Checked-out,4.4,0.457264
+HB1667,04-06-2025,05-07-2025,City Central Hotel,EAST,Guwahati,Standard,Leisure,Mobile App,Full Board,2,4,31,2772,20,500,19770,Debit Card,Cancelled,3.9,0.54924
+HB1668,10-01-2025,27-01-2025,Metro Heights,SOUTH,Kochi,Deluxe,Leisure,Mobile App,Breakfast,2,5,17,4390,0,0,26450,Debit Card,Checked-in,4.6,0.6854
+HB1669,20-09-2025,21-12-2025,Urban Nest Hotel,WEST,Ahmedabad,Family,Business,Website,Room Only,3,5,92,5815,5,4000,31621,Credit Card,Checked-in,3.8,0.683452
+HB1670,13-07-2025,12-10-2025,Silver Oak Resort,SOUTH,Bengaluru,Standard,Couple,Website,Half Board,4,2,91,3950,5,1000,15705,Credit Card,Checked-in,4.9,0.58046
+HB1671,11-06-2025,18-09-2025,The Palm Residency,NORTH,Jaipur,Standard,Solo,Website,Breakfast,2,3,99,2744,0,2500,13432,UPI,Checked-out,3.5,0.441184
+HB1672,17-10-2025,17-12-2025,Royal Orchid Suites,NORTH,Lucknow,Executive,Business,Travel Agent,Full Board,2,2,61,5437,5,2500,18030,UPI,Checked-out,3.9,0.52836
+HB1673,09-07-2025,08-10-2025,Crown Plaza Residency,WEST,Mumbai,Standard,Couple,Travel Agent,Room Only,2,4,91,3073,10,2500,13563,Credit Card,Cancelled,3.6,0.450756
+HB1674,26-08-2025,14-09-2025,Green Valley Inn,SOUTH,Kochi,Deluxe,Family,Website,Breakfast,3,2,19,2929,5,1000,9265,Credit Card,Checked-in,4,0.43118
+HB1675,20-10-2025,20-11-2025,Grand Horizon Hotel,WEST,Ahmedabad,Executive,Leisure,Travel Agent,Breakfast,2,2,31,4463,10,1500,11333,Debit Card,Checked-in,4.3,0.479996
+HB1676,06-06-2025,08-08-2025,Golden Sands Hotel,CENTRAL,Nagpur,Executive,Business,Website,Room Only,2,3,63,6475,10,0,17482,UPI,Checked-out,4.6,0.577784
+HB1677,16-06-2025,13-10-2025,Mountain View Resort,SOUTH,Kochi,Executive,Family,Mobile App,Breakfast,2,1,119,6392,10,1000,7653,Cash,Checked-out,4.6,0.459836
+HB1678,02-05-2025,11-05-2025,Lakeview Grand,CENTRAL,Bhopal,Standard,Leisure,Travel Agent,Room Only,3,4,9,2277,15,500,8242,Cash,Checked-in,4.9,0.490904
+HB1679,01-08-2025,16-08-2025,Lakeview Grand,NORTH,Chandigarh,Standard,Leisure,Walk-in,Breakfast,4,3,15,2601,15,0,12033,Net Banking,Confirmed,4.1,0.472396
+HB1680,11-07-2025,09-08-2025,City Central Hotel,CENTRAL,Indore,Standard,Leisure,Mobile App,Breakfast,3,3,29,2029,15,1000,10224,UPI,Cancelled,4.3,0.466688
+HB1681,19-03-2025,14-05-2025,Silver Oak Resort,SOUTH,Chennai,Deluxe,Business,Walk-in,Room Only,1,2,56,5228,0,2500,12956,UPI,Checked-in,5,0.555472
+HB1682,21-06-2025,11-08-2025,Pearl Garden Hotel,NORTH,Lucknow,Deluxe,Business,Mobile App,Breakfast,2,1,51,5012,0,2500,8412,UPI,Confirmed,2.8,0.324944
+HB1683,09-11-2025,28-11-2025,Silver Oak Resort,WEST,Pune,Executive,Business,Website,Room Only,3,3,19,7991,10,500,22076,Credit Card,Checked-out,4.9,0.656912
+HB1684,04-12-2025,14-12-2025,Pearl Garden Hotel,SOUTH,Hyderabad,Executive,Business,Booking Portal,Half Board,3,3,10,5921,10,0,24087,Credit Card,Confirmed,4.1,0.617044
+HB1685,24-02-2025,02-05-2025,Royal Orchid Suites,WEST,Mumbai,Suite,Leisure,Travel Agent,Half Board,4,2,67,9667,20,0,22667,Net Banking,Confirmed,4.3,0.616004
+HB1686,23-08-2025,06-11-2025,Urban Nest Hotel,WEST,Ahmedabad,Deluxe,Leisure,Booking Portal,Room Only,2,2,75,4651,0,2500,11802,Cash,Cancelled,3.6,0.429624
+HB1687,16-03-2025,17-05-2025,Mountain View Resort,NORTH,Jaipur,Suite,Family,Mobile App,Half Board,2,2,62,12310,10,0,25758,Net Banking,Checked-in,3.6,0.597096
+HB1688,17-05-2025,07-06-2025,Silver Oak Resort,CENTRAL,Indore,Family,Couple,Mobile App,Half Board,2,5,21,5700,0,0,37500,Credit Card,Confirmed,3.8,0.754
+HB1689,12-08-2025,23-10-2025,Sunrise Palace,CENTRAL,Bhopal,Executive,Family,Booking Portal,Breakfast,3,6,72,5698,5,0,40579,Net Banking,Checked-out,4.1,0.814948
+HB1690,27-06-2025,14-09-2025,Urban Nest Hotel,CENTRAL,Nagpur,Suite,Family,Mobile App,Breakfast,4,3,79,9370,0,2500,36010,UPI,Confirmed,4.2,0.76812
+HB1691,20-03-2025,16-05-2025,City Central Hotel,CENTRAL,Nagpur,Executive,Business,Booking Portal,Room Only,3,1,57,6217,0,500,6717,Net Banking,Confirmed,4.1,0.408604
+HB1692,15-04-2025,19-05-2025,Blue Bay Resort,WEST,Goa,Standard,Solo,Booking Portal,Room Only,2,3,34,3173,0,1500,11019,Credit Card,Checked-out,3.8,0.436228
+HB1693,03-02-2025,27-02-2025,Royal Orchid Suites,EAST,Kolkata,Standard,Family,Mobile App,Breakfast,2,1,24,2262,10,0,2936,Credit Card,Checked-out,3.4,0.307232
+HB1694,05-12-2025,14-12-2025,Blue Bay Resort,EAST,Kolkata,Family,Solo,Mobile App,Half Board,2,4,9,5130,5,500,27194,Credit Card,Checked-in,3.6,0.614328
+HB1695,23-07-2025,06-08-2025,Silver Oak Resort,SOUTH,Chennai,Suite,Business,Booking Portal,Breakfast,2,2,14,8230,10,1500,18114,UPI,Checked-out,4.4,0.569368
+HB1696,02-12-2025,12-12-2025,The Palm Residency,SOUTH,Bengaluru,Standard,Couple,Travel Agent,Room Only,5,5,10,2733,15,500,12115,UPI,Cancelled,4,0.46538
+HB1697,02-09-2025,08-09-2025,Blue Bay Resort,CENTRAL,Raipur,Family,Leisure,Booking Portal,Room Only,4,3,6,6533,5,2500,21119,Net Banking,Checked-out,3.5,0.533428
+HB1698,19-03-2025,25-04-2025,Silver Oak Resort,SOUTH,Bengaluru,Deluxe,Couple,Website,Room Only,2,3,37,3403,15,1500,10178,Credit Card,Confirmed,2.8,0.346136
+HB1699,15-07-2025,05-11-2025,Royal Orchid Suites,WEST,Ahmedabad,Standard,Family,Website,Half Board,3,1,113,3509,5,500,6534,Credit Card,Checked-out,3.3,0.342408
+HB1700,24-05-2025,05-08-2025,Urban Nest Hotel,WEST,Ahmedabad,Deluxe,Family,Travel Agent,Breakfast,3,1,73,5245,15,1000,6808,Debit Card,Checked-out,5,0.481696
+HB1701,12-05-2025,18-06-2025,Mountain View Resort,CENTRAL,Nagpur,Family,Family,Booking Portal,Half Board,2,3,37,6776,10,1500,25195,Debit Card,Checked-in,5,0.70234
+HB1702,16-01-2025,11-03-2025,Sunrise Palace,WEST,Mumbai,Family,Business,Mobile App,Room Only,3,1,54,7145,0,1500,8645,Credit Card,Checked-in,4.1,0.43174
+HB1703,19-09-2025,17-10-2025,Royal Orchid Suites,SOUTH,Chennai,Deluxe,Leisure,Website,Breakfast,2,2,28,5817,0,500,13934,UPI,Checked-out,3.5,0.447208
+HB1704,08-03-2025,09-05-2025,The Palm Residency,WEST,Ahmedabad,Deluxe,Leisure,Booking Portal,Breakfast,2,5,62,4295,15,500,23254,Credit Card,Checked-in,4.1,0.607048
+HB1705,07-06-2025,28-06-2025,Sunrise Palace,SOUTH,Bengaluru,Deluxe,Family,Booking Portal,Full Board,2,1,21,5219,0,0,7819,Debit Card,Checked-in,3.4,0.365828
+HB1706,02-05-2025,18-05-2025,Metro Heights,WEST,Ahmedabad,Executive,Business,Walk-in,Room Only,2,3,16,4979,0,1000,15937,Credit Card,Checked-out,5,0.591244
+HB1707,04-12-2025,23-01-2026,Royal Orchid Suites,WEST,Pune,Standard,Solo,Website,Half Board,3,3,50,2799,0,1000,17497,Credit Card,Checked-out,3.4,0.481964
+HB1708,28-05-2025,25-08-2025,Royal Orchid Suites,WEST,Mumbai,Deluxe,Business,Travel Agent,Room Only,2,6,89,4713,0,0,28278,Credit Card,Checked-out,3.9,0.651336
+HB1709,22-03-2025,04-07-2025,Golden Sands Hotel,EAST,Bhubaneswar,Family,Couple,Travel Agent,Breakfast,3,3,104,5428,0,2500,22834,Debit Card,Checked-in,3.5,0.554008
+HB1710,27-06-2025,25-09-2025,Sunrise Palace,WEST,Pune,Suite,Business,Booking Portal,Half Board,2,2,90,11226,5,500,25429,Credit Card,Confirmed,4.2,0.641148
+HB1711,06-11-2025,13-12-2025,Golden Sands Hotel,SOUTH,Kochi,Deluxe,Solo,Walk-in,Room Only,1,2,37,4139,15,0,7036,Credit Card,Confirmed,4.1,0.412432
+HB1712,10-06-2025,27-08-2025,Green Valley Inn,EAST,Guwahati,Deluxe,Couple,Mobile App,Room Only,2,7,78,5289,20,0,29618,UPI,Checked-out,4.1,0.683416
+HB1713,15-09-2025,13-11-2025,Blue Bay Resort,SOUTH,Kochi,Deluxe,Couple,Mobile App,Room Only,3,4,59,5155,5,0,19589,Credit Card,Checked-out,4,0.555068
+HB1714,11-05-2025,06-08-2025,Green Valley Inn,NORTH,Lucknow,Executive,Family,Booking Portal,Room Only,3,2,87,4515,5,2500,11078,UPI,Checked-out,4.3,0.476936
+HB1715,20-11-2025,02-03-2026,Green Valley Inn,WEST,Mumbai,Standard,Family,Travel Agent,Breakfast,1,1,102,2507,0,2500,5457,Credit Card,Checked-in,4.1,0.393484
+HB1716,08-09-2025,15-11-2025,Grand Horizon Hotel,WEST,Pune,Family,Leisure,Booking Portal,Breakfast,2,2,68,7052,0,4000,19904,Credit Card,Checked-out,4.9,0.630848
+HB1717,08-02-2025,16-04-2025,Royal Orchid Suites,CENTRAL,Nagpur,Deluxe,Solo,Website,Room Only,3,3,67,5332,15,500,14097,Debit Card,Checked-out,3.5,0.449164
+HB1718,16-06-2025,14-07-2025,Silver Oak Resort,EAST,Patna,Executive,Leisure,Website,Breakfast,2,2,28,4978,20,1000,10765,UPI,Checked-in,3.7,0.42518
+HB1719,05-09-2025,23-12-2025,Golden Sands Hotel,WEST,Pune,Standard,Business,Walk-in,Breakfast,4,7,109,2981,5,0,32424,UPI,Confirmed,4.5,0.749088
+HB1720,21-01-2025,13-05-2025,Green Valley Inn,WEST,Ahmedabad,Deluxe,Solo,Booking Portal,Breakfast,2,1,112,6206,0,500,7606,Cash,Checked-out,4.1,0.419272
+HB1721,07-09-2025,21-12-2025,Metro Heights,CENTRAL,Raipur,Deluxe,Couple,Mobile App,Room Only,3,3,105,3474,5,500,10401,Cash,Confirmed,4.7,0.500812
+HB1722,29-07-2025,29-09-2025,Grand Horizon Hotel,WEST,Mumbai,Deluxe,Family,Travel Agent,Half Board,4,1,62,4300,10,4000,11470,UPI,Confirmed,3.7,0.43364
+HB1723,04-08-2025,28-09-2025,Pearl Garden Hotel,CENTRAL,Indore,Deluxe,Couple,Walk-in,Breakfast,2,5,55,4987,5,500,28688,UPI,Checked-out,4.4,0.696256
+HB1724,15-01-2025,21-02-2025,Urban Nest Hotel,EAST,Kolkata,Standard,Family,Booking Portal,Breakfast,4,5,37,2008,15,500,18034,UPI,Checked-in,4,0.536408
+HB1725,26-03-2025,11-05-2025,Sunrise Palace,CENTRAL,Indore,Suite,Leisure,Website,Breakfast,2,2,46,7728,15,0,14938,Credit Card,Checked-out,4.4,0.531256
+HB1726,21-02-2025,07-03-2025,Green Valley Inn,WEST,Goa,Standard,Couple,Booking Portal,Breakfast,4,1,14,2954,5,2500,7106,UPI,Checked-in,4.3,0.429272
+HB1727,21-04-2025,03-08-2025,Blue Bay Resort,SOUTH,Kochi,Standard,Business,Booking Portal,Room Only,1,2,104,2996,20,1000,5794,Cash,Cancelled,3.9,0.381528
+HB1728,28-03-2025,07-05-2025,Crown Plaza Residency,WEST,Pune,Deluxe,Business,Walk-in,Breakfast,1,5,40,5777,10,500,28746,Debit Card,Checked-in,4.1,0.672952
+HB1729,21-10-2025,21-01-2026,Royal Orchid Suites,EAST,Patna,Standard,Business,Website,Breakfast,2,3,92,3477,15,500,12066,Credit Card,Checked-out,3.7,0.440792
+HB1730,03-04-2025,10-06-2025,Crown Plaza Residency,SOUTH,Kochi,Standard,Couple,Mobile App,Breakfast,1,2,68,2086,5,1500,6363,Credit Card,Checked-in,3.8,0.380356
+HB1731,28-07-2025,17-09-2025,Golden Sands Hotel,EAST,Patna,Family,Business,Website,Breakfast,1,1,51,8037,10,4000,11683,UPI,Checked-in,3.3,0.404196
+HB1732,21-01-2025,24-04-2025,Royal Orchid Suites,NORTH,Chandigarh,Deluxe,Business,Booking Portal,Room Only,2,5,93,5178,5,1500,26096,UPI,Confirmed,3.8,0.617152
+HB1733,10-10-2025,12-01-2026,Green Valley Inn,SOUTH,Kochi,Family,Business,Website,Room Only,2,3,94,8438,10,1000,23783,Credit Card,Checked-in,4.8,0.669396
+HB1734,24-07-2025,29-10-2025,Royal Orchid Suites,NORTH,Delhi,Standard,Business,Travel Agent,Breakfast,2,3,97,3228,0,1500,13884,Debit Card,Checked-out,3.1,0.414608
+HB1735,11-01-2025,14-02-2025,Royal Orchid Suites,NORTH,Lucknow,Family,Business,Booking Portal,Breakfast,2,3,34,7296,20,1500,21710,Credit Card,Checked-in,4,0.58052
+HB1736,31-10-2025,11-02-2026,Grand Horizon Hotel,WEST,Mumbai,Deluxe,Solo,Website,Room Only,3,1,103,5117,10,0,4605,Net Banking,Checked-in,4.4,0.40726
+HB1737,25-08-2025,07-10-2025,Sunrise Palace,EAST,Bhubaneswar,Suite,Solo,Travel Agent,Breakfast,2,2,43,11000,0,0,23800,Credit Card,Confirmed,3.8,0.5896
+HB1738,29-08-2025,18-09-2025,Mountain View Resort,CENTRAL,Indore,Standard,Leisure,Booking Portal,Breakfast,3,4,20,1961,10,1500,13960,Debit Card,Checked-out,3.6,0.45552
+HB1739,11-01-2025,27-04-2025,Pearl Garden Hotel,SOUTH,Chennai,Suite,Family,Booking Portal,Breakfast,5,4,106,11958,0,1000,57832,Debit Card,Cancelled,4.5,1.053984
+HB1740,29-06-2025,07-07-2025,Blue Bay Resort,NORTH,Lucknow,Executive,Solo,Mobile App,Half Board,2,5,8,5200,15,1000,32100,Debit Card,Confirmed,5,0.7852
+HB1741,26-08-2025,07-12-2025,Blue Bay Resort,SOUTH,Hyderabad,Family,Business,Booking Portal,Room Only,2,5,103,8737,25,1500,34264,Credit Card,Checked-out,4.2,0.747168
+HB1742,04-03-2025,13-04-2025,Crown Plaza Residency,WEST,Mumbai,Standard,Family,Mobile App,Breakfast,1,3,40,4259,20,500,12072,UPI,Checked-out,4.5,0.504864
+HB1743,30-03-2025,30-05-2025,City Central Hotel,CENTRAL,Raipur,Suite,Leisure,Travel Agent,Half Board,3,5,61,10662,25,1000,54482,Credit Card,Checked-out,4.8,1.037784
+HB1744,19-12-2025,03-01-2026,The Palm Residency,WEST,Goa,Deluxe,Leisure,Website,Room Only,2,2,15,3123,10,0,5621,Credit Card,Checked-out,4.6,0.435452
+HB1745,29-03-2025,16-06-2025,Urban Nest Hotel,NORTH,Delhi,Family,Solo,Mobile App,Breakfast,1,3,79,7683,0,500,24899,UPI,Checked-out,4.7,0.674788
+HB1746,04-11-2025,29-01-2026,Green Valley Inn,WEST,Ahmedabad,Deluxe,Business,Mobile App,Full Board,2,2,86,3920,15,1000,12864,Cash,Cancelled,3.9,0.466368
+HB1747,24-12-2025,21-03-2026,Metro Heights,WEST,Pune,Standard,Business,Travel Agent,Room Only,2,2,87,1974,10,500,4053,UPI,Checked-in,4.2,0.384636
+HB1748,31-03-2025,12-05-2025,Grand Horizon Hotel,EAST,Kolkata,Suite,Family,Mobile App,Breakfast,4,4,42,12755,0,0,58220,UPI,Checked-out,4.8,1.08264
+HB1749,24-05-2025,11-09-2025,Silver Oak Resort,SOUTH,Chennai,Standard,Leisure,Website,Room Only,4,4,110,3239,10,4000,15660,UPI,Checked-out,3.7,0.48392
+HB1750,24-04-2025,29-06-2025,Lakeview Grand,NORTH,Lucknow,Deluxe,Couple,Website,Room Only,2,5,66,5072,5,500,24592,UPI,Confirmed,4.5,0.655104
+HB1751,02-03-2025,30-03-2025,Crown Plaza Residency,WEST,Mumbai,Executive,Business,Website,Breakfast,3,7,28,5441,0,0,47537,Debit Card,Checked-out,4.5,0.930444
+HB1752,06-12-2025,14-01-2026,Silver Oak Resort,SOUTH,Hyderabad,Family,Solo,Travel Agent,Room Only,3,4,39,4840,0,0,19360,UPI,Cancelled,4.2,0.56832
+HB1753,01-01-2025,18-04-2025,The Palm Residency,EAST,Guwahati,Standard,Solo,Booking Portal,Room Only,2,2,107,4127,0,1000,9254,Net Banking,Checked-out,3.7,0.407048
+HB1754,15-01-2025,21-02-2025,Metro Heights,EAST,Bhubaneswar,Standard,Leisure,Booking Portal,Room Only,3,5,37,2205,15,1000,10371,Cash,Checked-in,4.5,0.484452
+HB1755,16-09-2025,29-11-2025,Urban Nest Hotel,WEST,Mumbai,Suite,Leisure,Booking Portal,Room Only,2,1,74,9811,15,1500,9839,Debit Card,Checked-out,4.1,0.446068
+HB1756,20-06-2025,02-07-2025,Sunrise Palace,NORTH,Jaipur,Family,Couple,Travel Agent,Breakfast,3,2,12,7048,25,0,13272,Cash,Checked-out,4.7,0.535264
+HB1757,01-07-2025,15-10-2025,The Palm Residency,SOUTH,Chennai,Family,Family,Booking Portal,Breakfast,3,3,106,6419,15,0,20418,UPI,Confirmed,3.1,0.493016
+HB1758,21-07-2025,07-08-2025,Sunrise Palace,WEST,Pune,Suite,Leisure,Booking Portal,Half Board,3,4,17,8738,0,4000,49752,Debit Card,Checked-out,4,0.917024
+HB1759,24-06-2025,02-10-2025,Royal Orchid Suites,SOUTH,Kochi,Executive,Leisure,Mobile App,Room Only,4,2,100,7974,5,1500,16651,Credit Card,Checked-out,3.9,0.511812
+HB1760,30-06-2025,24-07-2025,Grand Horizon Hotel,EAST,Bhubaneswar,Family,Leisure,Walk-in,Room Only,3,3,24,5590,0,0,16770,Cash,Confirmed,4.7,0.57724
+HB1761,23-03-2025,20-05-2025,Metro Heights,SOUTH,Bengaluru,Executive,Business,Booking Portal,Breakfast,2,1,58,6619,0,0,7519,Cash,Checked-in,4,0.410228
+HB1762,30-08-2025,09-09-2025,Sunrise Palace,NORTH,Chandigarh,Executive,Leisure,Website,Room Only,3,2,10,5915,0,0,11830,Debit Card,Checked-out,2.7,0.35796
+HB1763,17-02-2025,02-06-2025,Blue Bay Resort,CENTRAL,Bhopal,Deluxe,Leisure,Mobile App,Half Board,3,3,105,2903,10,500,16438,Credit Card,Confirmed,4.3,0.541256
+HB1764,31-05-2025,05-06-2025,Lakeview Grand,EAST,Bhubaneswar,Standard,Family,Booking Portal,Breakfast,2,3,5,3400,10,0,11880,UPI,Checked-out,3.8,0.44656
+HB1765,05-06-2025,30-09-2025,Lakeview Grand,WEST,Ahmedabad,Standard,Family,Mobile App,Half Board,1,1,117,3327,10,500,4394,Credit Card,Checked-in,4.1,0.380728
+HB1766,07-02-2025,10-04-2025,Silver Oak Resort,CENTRAL,Nagpur,Executive,Leisure,Travel Agent,Breakfast,2,1,62,4861,5,500,6018,Credit Card,Checked-out,5,0.472216
+HB1767,19-05-2025,18-07-2025,Mountain View Resort,SOUTH,Chennai,Deluxe,Business,Website,Breakfast,3,3,60,4230,15,0,14836,Credit Card,Cancelled,3.9,0.490032
+HB1768,14-07-2025,17-09-2025,City Central Hotel,NORTH,Delhi,Deluxe,Business,Travel Agent,Room Only,2,2,65,2821,10,0,5078,UPI,Checked-out,3.6,0.348936
+HB1769,03-04-2025,18-06-2025,Metro Heights,CENTRAL,Nagpur,Family,Family,Website,Breakfast,2,1,76,7665,10,1000,8798,UPI,Confirmed,4,0.425576
+HB1770,24-08-2025,28-08-2025,Urban Nest Hotel,WEST,Goa,Executive,Business,Booking Portal,Breakfast,4,3,4,5186,5,2500,22680,Cash,Checked-out,4.3,0.61616
+HB1771,28-11-2025,24-02-2026,Green Valley Inn,WEST,Goa,Standard,Solo,Booking Portal,Breakfast,2,2,88,2323,0,500,6946,Debit Card,Cancelled,3.6,0.371352
+HB1772,20-03-2025,25-03-2025,Lakeview Grand,SOUTH,Chennai,Standard,Couple,Booking Portal,Half Board,2,2,5,1814,25,500,6821,Debit Card,Cancelled,4.2,0.417852
+HB1773,09-08-2025,04-11-2025,Urban Nest Hotel,NORTH,Lucknow,Standard,Couple,Booking Portal,Room Only,2,1,87,2122,10,1500,3410,Net Banking,Checked-out,3.5,0.32092
+HB1774,08-08-2025,17-11-2025,Lakeview Grand,CENTRAL,Raipur,Suite,Solo,Booking Portal,Room Only,2,1,101,12343,0,0,12343,UPI,Checked-out,4.6,0.516116
+HB1775,07-05-2025,16-05-2025,Sunrise Palace,SOUTH,Hyderabad,Suite,Business,Mobile App,Half Board,2,3,9,12408,0,1500,44124,Debit Card,Confirmed,3.3,0.793488
+HB1776,08-02-2025,14-03-2025,Crown Plaza Residency,SOUTH,Kochi,Executive,Business,Booking Portal,Breakfast,3,3,34,5713,5,0,20332,Net Banking,Checked-out,3.5,0.523984
+HB1777,11-07-2025,10-09-2025,Silver Oak Resort,EAST,Patna,Deluxe,Solo,Website,Half Board,4,3,61,2810,0,500,19730,Credit Card,Checked-out,3.2,0.49276
+HB1778,05-12-2025,21-01-2026,Metro Heights,EAST,Guwahati,Standard,Family,Booking Portal,Room Only,2,2,47,2481,0,0,4962,Credit Card,Cancelled,4.3,0.403544
+HB1779,21-10-2025,23-11-2025,Pearl Garden Hotel,WEST,Pune,Deluxe,Family,Walk-in,Breakfast,3,3,33,5129,10,0,17898,Credit Card,Confirmed,3.8,0.518776
+HB1780,06-10-2025,19-10-2025,City Central Hotel,SOUTH,Hyderabad,Deluxe,Solo,Mobile App,Room Only,2,2,13,3243,25,1000,5864,Credit Card,Checked-in,4,0.390368
+HB1781,23-05-2025,24-07-2025,Sunrise Palace,CENTRAL,Nagpur,Standard,Couple,Mobile App,Room Only,2,2,62,2093,15,4000,7558,Credit Card,Checked-out,3.4,0.362696
+HB1782,01-10-2025,11-11-2025,Urban Nest Hotel,SOUTH,Hyderabad,Deluxe,Family,Booking Portal,Breakfast,2,4,41,3795,0,0,18780,Debit Card,Checked-out,3.6,0.51336
+HB1783,10-09-2025,18-11-2025,Royal Orchid Suites,CENTRAL,Raipur,Standard,Couple,Website,Breakfast,3,2,69,3196,10,2500,10953,Credit Card,Checked-in,4.6,0.499436
+HB1784,16-12-2025,06-04-2026,Golden Sands Hotel,EAST,Guwahati,Deluxe,Leisure,Booking Portal,Half Board,2,3,111,3410,5,0,15118,Cash,Checked-in,4.2,0.517416
+HB1785,13-11-2025,04-03-2026,Mountain View Resort,SOUTH,Hyderabad,Suite,Business,Booking Portal,Breakfast,4,3,111,7999,20,1500,26098,Net Banking,Cancelled,3.4,0.585176
+HB1786,26-12-2025,09-02-2026,Crown Plaza Residency,SOUTH,Chennai,Deluxe,Family,Mobile App,Breakfast,1,2,45,3012,5,2500,9123,Credit Card,Checked-in,3.6,0.397476
+HB1787,20-07-2025,10-08-2025,Pearl Garden Hotel,SOUTH,Chennai,Executive,Family,Booking Portal,Half Board,3,2,21,6146,5,1000,18077,Debit Card,Checked-out,4.4,0.568924
+HB1788,23-05-2025,30-06-2025,Urban Nest Hotel,WEST,Mumbai,Executive,Solo,Mobile App,Half Board,5,1,38,6840,0,0,11340,UPI,Checked-out,4.8,0.52008
+HB1789,12-08-2025,03-10-2025,Pearl Garden Hotel,SOUTH,Chennai,Deluxe,Leisure,Website,Half Board,1,6,52,5356,5,1000,36929,Net Banking,Checked-in,2.7,0.659148
+HB1790,02-02-2025,02-06-2025,Green Valley Inn,NORTH,Jaipur,Deluxe,Leisure,Mobile App,Half Board,3,3,120,3840,0,500,20120,Net Banking,Checked-out,3.9,0.55344
+HB1791,18-05-2025,08-09-2025,Mountain View Resort,EAST,Patna,Suite,Business,Website,Room Only,1,3,113,7245,0,1000,22735,UPI,Checked-out,3.9,0.58482
+HB1792,25-03-2025,03-07-2025,Sunrise Palace,SOUTH,Chennai,Family,Family,Booking Portal,Breakfast,2,1,100,5196,15,0,5317,Credit Card,Checked-out,3.5,0.343804
+HB1793,16-11-2025,28-02-2026,Royal Orchid Suites,EAST,Bhubaneswar,Standard,Business,Website,Room Only,1,3,104,1881,0,2500,8143,UPI,Checked-out,3.1,0.345716
+HB1794,12-02-2025,02-04-2025,Mountain View Resort,SOUTH,Hyderabad,Suite,Leisure,Travel Agent,Full Board,3,1,49,9015,10,500,12514,Credit Card,Cancelled,4,0.470168
+HB1795,12-03-2025,27-03-2025,Sunrise Palace,WEST,Ahmedabad,Standard,Couple,Website,Room Only,3,2,15,3366,10,0,6059,Credit Card,Checked-out,5,0.472708
+HB1796,27-02-2025,30-05-2025,Metro Heights,WEST,Pune,Suite,Family,Travel Agent,Room Only,3,1,92,9516,10,0,8564,Net Banking,Cancelled,3.2,0.358768
+HB1797,09-08-2025,23-11-2025,Golden Sands Hotel,NORTH,Lucknow,Deluxe,Leisure,Website,Room Only,4,6,106,3410,0,1500,21960,UPI,Checked-out,4,0.58352
+HB1798,15-04-2025,04-05-2025,Royal Orchid Suites,WEST,Pune,Standard,Leisure,Website,Breakfast,3,6,19,3780,0,0,30780,UPI,Confirmed,3.7,0.66536
+HB1799,01-12-2025,06-03-2026,Green Valley Inn,EAST,Kolkata,Deluxe,Leisure,Travel Agent,Room Only,4,5,95,4965,10,1500,23842,Debit Card,Checked-out,4.7,0.662104
+HB1800,05-12-2025,17-12-2025,Pearl Garden Hotel,EAST,Kolkata,Executive,Leisure,Travel Agent,Breakfast,2,2,12,5546,10,1000,12783,Credit Card,Checked-out,4.9,0.545396
+HB1801,03-09-2025,20-10-2025,Royal Orchid Suites,SOUTH,Chennai,Standard,Couple,Travel Agent,Room Only,1,3,47,2065,10,1000,6576,Credit Card,Checked-out,4.1,0.406912
+HB1802,27-01-2025,08-04-2025,Lakeview Grand,CENTRAL,Indore,Executive,Leisure,Website,Half Board,2,2,71,6304,10,1500,16447,Credit Card,Confirmed,5,0.597364
+HB1803,13-06-2025,02-09-2025,Sunrise Palace,EAST,Kolkata,Standard,Leisure,Booking Portal,Breakfast,5,3,81,2104,25,500,11984,Credit Card,Checked-in,5,0.543808
+HB1804,15-07-2025,16-09-2025,Blue Bay Resort,SOUTH,Bengaluru,Suite,Solo,Mobile App,Room Only,5,1,63,6929,10,500,6736,UPI,Checked-out,3.5,0.360832
+HB1805,15-07-2025,30-07-2025,Royal Orchid Suites,SOUTH,Bengaluru,Family,Leisure,Travel Agent,Room Only,3,4,15,8327,0,500,33808,Net Banking,Checked-out,4.8,0.789696
+HB1806,03-12-2025,01-04-2026,The Palm Residency,WEST,Mumbai,Deluxe,Leisure,Travel Agent,Room Only,5,5,119,6545,0,2500,35225,Credit Card,Checked-in,4,0.7427
+HB1807,27-10-2025,09-12-2025,The Palm Residency,WEST,Mumbai,Suite,Leisure,Website,Breakfast,3,3,43,11784,0,1500,40902,Credit Card,Checked-out,3.9,0.802824
+HB1808,07-11-2025,05-12-2025,City Central Hotel,NORTH,Jaipur,Deluxe,Leisure,Walk-in,Half Board,2,7,28,3549,20,2500,34974,UPI,Confirmed,5,0.819688
+HB1809,01-05-2025,30-07-2025,Mountain View Resort,CENTRAL,Nagpur,Standard,Couple,Booking Portal,Breakfast,4,4,90,2740,25,4000,19420,UPI,Confirmed,4,0.55304
+HB1810,03-03-2025,26-03-2025,Golden Sands Hotel,SOUTH,Hyderabad,Standard,Leisure,Booking Portal,Room Only,2,3,23,1820,0,0,5460,Debit Card,Checked-out,4.7,0.44152
+HB1811,08-08-2025,04-10-2025,City Central Hotel,CENTRAL,Nagpur,Deluxe,Business,Mobile App,Breakfast,1,4,57,5339,0,500,23656,UPI,Checked-in,4.6,0.651872
+HB1812,27-12-2025,16-03-2026,Grand Horizon Hotel,WEST,Goa,Deluxe,Family,Walk-in,Full Board,1,1,79,5024,0,0,6324,Debit Card,Checked-in,3.9,0.387888
+HB1813,08-08-2025,01-11-2025,Mountain View Resort,SOUTH,Hyderabad,Executive,Business,Travel Agent,Full Board,3,7,85,4460,0,1000,59520,Net Banking,Confirmed,3.8,1.01824
+HB1814,21-07-2025,04-08-2025,City Central Hotel,CENTRAL,Bhopal,Family,Solo,Website,Breakfast,1,3,14,4941,5,2500,17932,Credit Card,Checked-out,4,0.535184
+HB1815,07-09-2025,08-11-2025,Green Valley Inn,CENTRAL,Bhopal,Standard,Solo,Website,Full Board,5,4,62,3725,0,1000,41900,Debit Card,Checked-out,3.6,0.7908
+HB1816,26-11-2025,14-12-2025,Mountain View Resort,CENTRAL,Bhopal,Suite,Leisure,Mobile App,Full Board,3,6,18,10002,0,0,83412,UPI,Confirmed,4.6,1.368944
+HB1817,22-04-2025,01-08-2025,Lakeview Grand,SOUTH,Bengaluru,Deluxe,Leisure,Website,Room Only,3,3,101,5035,5,1000,15350,UPI,Cancelled,3.6,0.4722
+HB1818,08-03-2025,01-05-2025,Crown Plaza Residency,WEST,Ahmedabad,Deluxe,Solo,Travel Agent,Full Board,2,1,54,5301,0,1000,8901,Debit Card,Checked-out,4.6,0.474812
+HB1819,28-01-2025,05-02-2025,Blue Bay Resort,NORTH,Delhi,Executive,Solo,Website,Half Board,2,4,8,7018,0,500,35772,Credit Card,Cancelled,4.6,0.797264
+HB1820,25-06-2025,09-07-2025,Silver Oak Resort,WEST,Pune,Family,Leisure,Website,Breakfast,5,2,14,7280,5,0,18332,UPI,Checked-in,4.3,0.563984
+HB1821,31-12-2025,09-03-2026,The Palm Residency,NORTH,Lucknow,Family,Solo,Website,Room Only,4,2,68,7565,5,1000,15374,Debit Card,Checked-out,3.9,0.496488
+HB1822,15-11-2025,25-01-2026,Green Valley Inn,NORTH,Delhi,Deluxe,Leisure,Travel Agent,Full Board,1,1,71,4290,0,0,5590,Credit Card,Confirmed,3.8,0.37108
+HB1823,13-08-2025,09-12-2025,Metro Heights,EAST,Guwahati,Standard,Family,Website,Breakfast,2,4,118,3484,5,500,17339,Debit Card,Checked-in,4,0.528068
+HB1824,23-12-2025,09-01-2026,Green Valley Inn,EAST,Bhubaneswar,Executive,Family,Booking Portal,Room Only,2,2,17,4218,0,0,8436,Credit Card,Cancelled,4.1,0.429232
+HB1825,05-07-2025,05-08-2025,Sunrise Palace,NORTH,Lucknow,Executive,Leisure,Website,Breakfast,3,1,31,5966,10,1500,8219,Credit Card,Checked-out,3.9,0.410628
+HB1826,03-06-2025,20-09-2025,The Palm Residency,SOUTH,Hyderabad,Deluxe,Solo,Website,Breakfast,4,3,109,3436,20,4000,17646,UPI,Cancelled,4.3,0.555752
+HB1827,14-08-2025,03-11-2025,Sunrise Palace,WEST,Mumbai,Standard,Family,Travel Agent,Half Board,2,2,81,2082,10,1500,8848,Cash,Checked-out,4.1,0.434176
+HB1828,06-01-2025,30-04-2025,Mountain View Resort,WEST,Ahmedabad,Suite,Family,Website,Room Only,2,3,114,12372,5,500,35760,Cash,Cancelled,4.4,0.78112
+HB1829,31-05-2025,23-08-2025,Crown Plaza Residency,WEST,Pune,Deluxe,Business,Mobile App,Half Board,2,1,84,5034,0,1000,7834,Credit Card,Cancelled,4.2,0.430008
+HB1830,03-05-2025,14-08-2025,Grand Horizon Hotel,CENTRAL,Nagpur,Standard,Business,Website,Half Board,2,2,103,2787,5,1000,9895,UPI,Checked-out,3.4,0.39074
+HB1831,22-09-2025,30-09-2025,Royal Orchid Suites,SOUTH,Hyderabad,Standard,Leisure,Website,Breakfast,2,2,8,2113,0,0,6026,Credit Card,Checked-out,4.1,0.400312
+HB1832,15-03-2025,04-05-2025,Metro Heights,CENTRAL,Indore,Executive,Solo,Website,Breakfast,2,4,50,8417,0,1000,38268,Net Banking,Checked-in,3.5,0.739216
+HB1833,20-08-2025,23-08-2025,Silver Oak Resort,EAST,Bhubaneswar,Suite,Leisure,Mobile App,Room Only,1,3,3,8281,0,4000,28843,UPI,Checked-out,3.9,0.658116
+HB1834,09-08-2025,21-09-2025,Sunrise Palace,EAST,Patna,Deluxe,Couple,Travel Agent,Breakfast,2,1,43,4633,10,0,5070,UPI,Checked-in,3.9,0.37284
+HB1835,30-03-2025,28-06-2025,Royal Orchid Suites,NORTH,Chandigarh,Standard,Leisure,Booking Portal,Breakfast,3,3,90,1886,5,0,9425,Debit Card,Checked-in,4.1,0.4411
+HB1836,25-11-2025,07-03-2026,Pearl Garden Hotel,CENTRAL,Bhopal,Executive,Couple,Mobile App,Breakfast,4,1,102,7445,15,1000,9128,Debit Card,Checked-in,3.2,0.365536
+HB1837,28-09-2025,18-10-2025,Royal Orchid Suites,NORTH,Lucknow,Executive,Leisure,Walk-in,Half Board,4,2,20,6653,5,500,20341,Credit Card,Cancelled,4.7,0.620092
+HB1838,05-07-2025,20-07-2025,Pearl Garden Hotel,NORTH,Lucknow,Executive,Leisure,Booking Portal,Breakfast,2,4,15,6846,20,0,25507,Net Banking,Checked-out,4.7,0.682084
+HB1839,16-11-2025,13-03-2026,Sunrise Palace,WEST,Pune,Deluxe,Leisure,Booking Portal,Half Board,2,4,117,3892,10,2500,23711,UPI,Checked-out,4.8,0.668532
+HB1840,08-04-2025,25-05-2025,Green Valley Inn,SOUTH,Chennai,Deluxe,Leisure,Travel Agent,Breakfast,4,4,47,4660,10,1500,25476,Debit Card,Checked-out,4.2,0.641712
+HB1841,26-09-2025,11-12-2025,Royal Orchid Suites,SOUTH,Chennai,Executive,Leisure,Booking Portal,Breakfast,2,4,76,7325,15,0,28505,Debit Card,Checked-in,4.6,0.71006
+HB1842,09-07-2025,20-09-2025,Pearl Garden Hotel,SOUTH,Hyderabad,Standard,Leisure,Website,Breakfast,3,2,73,2152,5,0,6789,Debit Card,Checked-out,5,0.481468
+HB1843,09-06-2025,25-08-2025,Mountain View Resort,WEST,Pune,Deluxe,Couple,Booking Portal,Room Only,4,2,77,2852,0,4000,9704,Credit Card,Checked-in,4.7,0.492448
+HB1844,24-07-2025,24-08-2025,Royal Orchid Suites,WEST,Mumbai,Deluxe,Couple,Website,Breakfast,2,2,31,4072,0,0,9944,Credit Card,Checked-out,3.6,0.407328
+HB1845,21-06-2025,23-09-2025,Mountain View Resort,SOUTH,Hyderabad,Executive,Business,Travel Agent,Room Only,3,3,94,4831,5,2500,16268,UPI,Confirmed,4,0.515216
+HB1846,04-09-2025,18-12-2025,Grand Horizon Hotel,WEST,Mumbai,Family,Business,Mobile App,Half Board,1,1,105,6160,10,1500,7944,Credit Card,Checked-in,3.1,0.343328
+HB1847,08-04-2025,19-06-2025,Blue Bay Resort,EAST,Bhubaneswar,Family,Couple,Booking Portal,Room Only,2,6,72,5579,5,0,31800,UPI,Confirmed,4.1,0.7096
+HB1848,02-04-2025,14-05-2025,Blue Bay Resort,CENTRAL,Indore,Standard,Leisure,Website,Full Board,2,7,42,3689,5,0,42732,Debit Card,Confirmed,4.6,0.880784
+HB1849,19-01-2025,06-03-2025,Royal Orchid Suites,SOUTH,Kochi,Family,Family,Booking Portal,Half Board,2,1,46,6653,15,0,7455,Credit Card,Checked-out,3.3,0.35346
+HB1850,27-11-2025,26-03-2026,Metro Heights,WEST,Goa,Deluxe,Business,Mobile App,Breakfast,2,2,119,4031,25,2500,10346,UPI,Confirmed,3.8,0.428152
+HB1851,09-09-2025,20-12-2025,The Palm Residency,NORTH,Chandigarh,Deluxe,Leisure,Booking Portal,Breakfast,2,4,102,3447,15,0,15320,Debit Card,Confirmed,3.8,0.48784
+HB1852,20-02-2025,24-05-2025,Grand Horizon Hotel,CENTRAL,Nagpur,Deluxe,Leisure,Travel Agent,Room Only,2,2,93,4681,0,0,9362,Credit Card,Checked-in,3.2,0.368344
+HB1853,10-09-2025,22-09-2025,The Palm Residency,WEST,Pune,Deluxe,Family,Booking Portal,Breakfast,5,5,12,3812,0,0,30310,Credit Card,Confirmed,4.2,0.69972
+HB1854,22-09-2025,25-09-2025,Silver Oak Resort,CENTRAL,Nagpur,Executive,Family,Website,Half Board,5,1,3,7160,5,1000,12302,Debit Card,Checked-out,4.8,0.531624
+HB1855,01-03-2025,02-05-2025,Lakeview Grand,SOUTH,Chennai,Executive,Business,Mobile App,Breakfast,3,4,62,6903,5,0,31631,Debit Card,Confirmed,5,0.779572
+HB1856,19-04-2025,26-06-2025,Metro Heights,CENTRAL,Bhopal,Deluxe,Business,Website,Half Board,2,4,68,5166,5,0,26831,Credit Card,Cancelled,4.5,0.681972
+HB1857,05-07-2025,02-08-2025,Urban Nest Hotel,CENTRAL,Indore,Standard,Business,Mobile App,Full Board,2,5,28,2336,20,1500,23844,UPI,Checked-out,4.8,0.670128
+HB1858,14-11-2025,31-12-2025,Silver Oak Resort,NORTH,Lucknow,Family,Leisure,Booking Portal,Breakfast,3,1,47,6002,0,0,7352,Credit Card,Confirmed,4,0.408224
+HB1859,09-12-2025,05-03-2026,Metro Heights,CENTRAL,Bhopal,Executive,Leisure,Mobile App,Room Only,4,7,86,5445,0,1500,39615,UPI,Confirmed,3.9,0.78738
+HB1860,22-12-2025,01-04-2026,Blue Bay Resort,EAST,Guwahati,Deluxe,Business,Mobile App,Half Board,2,3,100,4051,10,0,16338,Credit Card,Cancelled,3.4,0.468056
+HB1861,13-07-2025,25-08-2025,The Palm Residency,EAST,Bhubaneswar,Standard,Business,Mobile App,Room Only,1,2,43,2917,10,0,5251,Debit Card,Checked-in,3.5,0.343012
+HB1862,03-11-2025,19-11-2025,Royal Orchid Suites,NORTH,Lucknow,Standard,Business,Website,Breakfast,4,3,16,3857,0,500,17471,Debit Card,Checked-in,4.4,0.561652
+HB1863,16-09-2025,28-09-2025,Silver Oak Resort,CENTRAL,Raipur,Standard,Family,Mobile App,Breakfast,2,2,12,2375,0,1000,7550,Net Banking,Checked-in,3.5,0.3706
+HB1864,11-08-2025,27-11-2025,Grand Horizon Hotel,WEST,Ahmedabad,Suite,Couple,Walk-in,Half Board,5,6,108,8430,0,0,77580,Credit Card,Checked-out,3.7,1.22696
+HB1865,14-10-2025,31-12-2025,The Palm Residency,CENTRAL,Indore,Suite,Business,Website,Breakfast,2,2,78,10388,20,500,18921,Debit Card,Checked-out,4,0.547052
+HB1866,24-05-2025,24-08-2025,Green Valley Inn,WEST,Goa,Standard,Solo,Booking Portal,Breakfast,1,2,92,2714,0,0,6328,UPI,Cancelled,4.2,0.411936
+HB1867,10-10-2025,07-01-2026,Grand Horizon Hotel,NORTH,Chandigarh,Deluxe,Family,Booking Portal,Breakfast,2,4,89,2876,25,4000,16228,Credit Card,Checked-in,4.1,0.522736
+HB1868,17-06-2025,24-09-2025,Urban Nest Hotel,CENTRAL,Bhopal,Standard,Leisure,Travel Agent,Room Only,3,3,99,3184,15,2500,10619,Credit Card,Checked-out,3.9,0.439428
+HB1869,14-04-2025,29-04-2025,Pearl Garden Hotel,SOUTH,Kochi,Deluxe,Business,Walk-in,Room Only,3,3,15,4629,0,2500,16387,Debit Card,Checked-in,3.6,0.484644
+HB1870,22-09-2025,05-12-2025,Metro Heights,NORTH,Jaipur,Executive,Couple,Booking Portal,Room Only,2,1,74,5797,10,2500,7717,Debit Card,Checked-out,3.4,0.364604
+HB1871,09-08-2025,07-11-2025,Green Valley Inn,NORTH,Chandigarh,Family,Business,Website,Half Board,4,2,90,5673,0,1500,20046,UPI,Confirmed,4.5,0.600552
+HB1872,19-05-2025,22-06-2025,Sunrise Palace,EAST,Kolkata,Suite,Couple,Walk-in,Breakfast,2,2,34,9569,0,0,20938,Credit Card,Confirmed,4.4,0.603256
+HB1873,09-02-2025,27-05-2025,Mountain View Resort,WEST,Pune,Deluxe,Couple,Website,Full Board,2,3,107,6364,0,2500,29392,UPI,Checked-in,4.7,0.728704
+HB1874,02-02-2025,27-03-2025,Silver Oak Resort,NORTH,Chandigarh,Deluxe,Business,Booking Portal,Half Board,1,4,53,5276,10,0,22594,Credit Card,Checked-in,4.4,0.623128
+HB1875,03-11-2025,09-11-2025,Grand Horizon Hotel,EAST,Guwahati,Suite,Solo,Travel Agent,Breakfast,3,4,6,8835,15,2500,37939,Credit Card,Checked-out,4.5,0.815268
+HB1876,17-10-2025,12-01-2026,Mountain View Resort,SOUTH,Hyderabad,Standard,Business,Booking Portal,Room Only,1,2,87,2283,0,0,4566,Debit Card,Confirmed,3.3,0.318792
+HB1877,10-01-2025,18-01-2025,City Central Hotel,EAST,Guwahati,Deluxe,Couple,Mobile App,Full Board,1,4,8,3042,10,500,16651,Debit Card,Checked-out,3.9,0.511812
+HB1878,17-05-2025,09-06-2025,Metro Heights,EAST,Kolkata,Family,Couple,Walk-in,Room Only,1,6,23,8362,0,1500,51672,UPI,Checked-in,4.4,0.972064
+HB1879,10-06-2025,24-09-2025,Sunrise Palace,SOUTH,Hyderabad,Executive,Leisure,Booking Portal,Room Only,4,2,106,7109,0,1000,15218,Credit Card,Checked-out,3.9,0.494616
+HB1880,04-01-2025,23-04-2025,Grand Horizon Hotel,EAST,Kolkata,Standard,Business,Travel Agent,Room Only,3,1,109,3490,0,0,3490,Credit Card,Checked-out,3.1,0.28988
+HB1881,02-11-2025,01-01-2026,Lakeview Grand,NORTH,Jaipur,Deluxe,Leisure,Booking Portal,Room Only,2,3,60,4840,20,4000,15616,Net Banking,Checked-in,3.7,0.483392
+HB1882,21-12-2025,10-01-2026,City Central Hotel,EAST,Patna,Deluxe,Solo,Website,Breakfast,3,2,20,3305,15,4000,12318,UPI,Checked-in,4.3,0.491816
+HB1883,29-03-2025,18-06-2025,Sunrise Palace,NORTH,Lucknow,Executive,Leisure,Website,Breakfast,5,2,81,6431,10,1000,17076,Cash,Cancelled,4.4,0.556912
+HB1884,20-06-2025,09-07-2025,Royal Orchid Suites,WEST,Goa,Standard,Leisure,Booking Portal,Room Only,4,1,19,2825,0,500,3325,UPI,Checked-in,4.2,0.3759
+HB1885,06-02-2025,25-03-2025,Green Valley Inn,SOUTH,Bengaluru,Standard,Solo,Website,Breakfast,3,2,47,3040,10,0,8172,Debit Card,Checked-out,3.2,0.354064
+HB1886,14-05-2025,21-07-2025,Pearl Garden Hotel,EAST,Bhubaneswar,Deluxe,Leisure,Website,Breakfast,3,4,68,4067,5,1000,21855,UPI,Checked-out,2.9,0.49426
+HB1887,23-09-2025,25-11-2025,Silver Oak Resort,SOUTH,Bengaluru,Standard,Family,Booking Portal,Breakfast,4,5,63,3473,10,1000,25628,Credit Card,Checked-in,4.4,0.659536
+HB1888,24-02-2025,03-04-2025,Golden Sands Hotel,SOUTH,Chennai,Standard,Leisure,Website,Room Only,5,5,38,3665,10,0,16492,Net Banking,Checked-in,4.2,0.533904
+HB1889,31-12-2025,20-01-2026,Silver Oak Resort,NORTH,Chandigarh,Suite,Leisure,Travel Agent,Breakfast,2,3,20,6836,5,1500,23683,Debit Card,Confirmed,4.7,0.660196
+HB1890,09-03-2025,27-06-2025,City Central Hotel,EAST,Guwahati,Family,Couple,Booking Portal,Half Board,3,2,110,4655,25,0,12382,UPI,Cancelled,4.3,0.492584
+HB1891,02-03-2025,23-06-2025,Golden Sands Hotel,CENTRAL,Nagpur,Standard,Family,Travel Agent,Half Board,3,7,113,3286,10,1000,40602,UPI,Checked-out,3.4,0.759224
+HB1892,06-07-2025,15-08-2025,Golden Sands Hotel,EAST,Guwahati,Deluxe,Leisure,Booking Portal,Breakfast,2,5,40,3364,20,2500,20456,Credit Card,Checked-in,4.6,0.613472
+HB1893,27-02-2025,24-03-2025,Green Valley Inn,NORTH,Lucknow,Executive,Business,Travel Agent,Breakfast,5,3,25,5049,0,1500,23397,Net Banking,Checked-in,5,0.680764
+HB1894,25-09-2025,05-12-2025,Golden Sands Hotel,SOUTH,Hyderabad,Suite,Leisure,Mobile App,Room Only,3,4,71,10748,10,0,38693,Debit Card,Checked-in,4.4,0.816316
+HB1895,21-05-2025,31-07-2025,Grand Horizon Hotel,CENTRAL,Nagpur,Standard,Family,Booking Portal,Breakfast,4,4,71,1868,0,500,15172,Debit Card,Confirmed,5,0.582064
+HB1896,21-03-2025,01-06-2025,Golden Sands Hotel,WEST,Mumbai,Deluxe,Business,Mobile App,Breakfast,3,4,72,5191,10,1500,25588,Debit Card,Checked-out,4.2,0.643056
+HB1897,26-09-2025,20-01-2026,Silver Oak Resort,EAST,Patna,Standard,Family,Walk-in,Half Board,3,1,116,2790,25,2500,7292,Credit Card,Checked-out,3.2,0.343504
+HB1898,02-07-2025,09-08-2025,Royal Orchid Suites,NORTH,Chandigarh,Standard,Business,Website,Breakfast,2,7,38,2578,0,0,24346,Cash,Confirmed,3.5,0.572152
+HB1899,01-12-2025,19-12-2025,Blue Bay Resort,CENTRAL,Bhopal,Standard,Business,Mobile App,Room Only,2,3,18,2563,5,4000,11305,Debit Card,Checked-in,4.5,0.49566
+HB1900,06-04-2025,22-07-2025,The Palm Residency,NORTH,Delhi,Family,Couple,Walk-in,Half Board,3,4,107,8197,15,1500,40170,Net Banking,Checked-out,4.2,0.81804
+HB1901,11-01-2025,25-03-2025,Sunrise Palace,SOUTH,Chennai,Family,Family,Mobile App,Room Only,2,3,73,5716,0,1500,18648,Net Banking,Confirmed,4,0.543776
+HB1902,15-09-2025,21-09-2025,Silver Oak Resort,EAST,Patna,Standard,Couple,Website,Room Only,2,2,6,2535,0,0,5070,Debit Card,Checked-out,5,0.46084
+HB1903,28-10-2025,26-01-2026,Metro Heights,SOUTH,Hyderabad,Standard,Family,Mobile App,Room Only,3,5,90,2747,0,0,13735,UPI,Checked-out,3.4,0.43682
+HB1904,25-07-2025,24-08-2025,The Palm Residency,NORTH,Delhi,Deluxe,Business,Travel Agent,Breakfast,2,1,30,3968,5,500,5170,Debit Card,Checked-out,4.3,0.40604
+HB1905,03-07-2025,14-10-2025,City Central Hotel,CENTRAL,Raipur,Suite,Leisure,Website,Full Board,2,1,103,10916,0,2500,16016,Net Banking,Checked-out,5,0.592192
+HB1906,29-09-2025,23-12-2025,Pearl Garden Hotel,WEST,Pune,Family,Leisure,Website,Half Board,3,5,85,8657,15,1000,51292,Cash,Confirmed,3.2,0.871504
+HB1907,07-12-2025,09-02-2026,Green Valley Inn,EAST,Patna,Executive,Business,Booking Portal,Room Only,2,3,64,4169,10,4000,15256,Debit Card,Cancelled,3.7,0.479072
+HB1908,07-06-2025,15-09-2025,Mountain View Resort,SOUTH,Chennai,Deluxe,Business,Website,Breakfast,2,2,100,4821,20,0,9514,Debit Card,Checked-out,4.2,0.450168
+HB1909,11-01-2025,23-04-2025,Grand Horizon Hotel,NORTH,Lucknow,Family,Leisure,Walk-in,Breakfast,2,1,102,6588,5,500,7659,Cash,Cancelled,4.5,0.451908
+HB1910,03-09-2025,14-09-2025,Metro Heights,CENTRAL,Nagpur,Standard,Leisure,Mobile App,Breakfast,3,3,11,3470,0,500,14960,Debit Card,Checked-out,3.8,0.48352
+HB1911,22-05-2025,09-07-2025,Crown Plaza Residency,NORTH,Jaipur,Standard,Couple,Mobile App,Breakfast,2,5,48,2693,10,1500,18118,UPI,Confirmed,4.5,0.577416
+HB1912,04-08-2025,28-08-2025,City Central Hotel,CENTRAL,Bhopal,Family,Family,Mobile App,Breakfast,1,4,24,6373,15,500,23968,Credit Card,Confirmed,4.1,0.615616
+HB1913,27-08-2025,27-11-2025,Crown Plaza Residency,CENTRAL,Nagpur,Suite,Leisure,Website,Full Board,2,3,92,8040,0,0,31920,UPI,Checked-in,4.4,0.73504
+HB1914,19-05-2025,05-09-2025,Grand Horizon Hotel,CENTRAL,Raipur,Standard,Leisure,Booking Portal,Room Only,4,6,109,2951,10,0,15935,Net Banking,Confirmed,3.5,0.47122
+HB1915,14-10-2025,17-12-2025,Mountain View Resort,SOUTH,Kochi,Standard,Leisure,Booking Portal,Room Only,2,3,64,4009,5,0,11426,Debit Card,Checked-out,3.7,0.433112
+HB1916,31-01-2025,18-04-2025,Golden Sands Hotel,SOUTH,Hyderabad,Family,Business,Booking Portal,Breakfast,2,5,77,7329,0,1000,42145,UPI,Confirmed,4.3,0.84974
+HB1917,30-08-2025,18-12-2025,City Central Hotel,CENTRAL,Raipur,Standard,Family,Travel Agent,Room Only,3,4,110,3256,15,1000,12070,Credit Card,Checked-out,4.4,0.49684
+HB1918,23-10-2025,09-02-2026,Mountain View Resort,WEST,Goa,Deluxe,Business,Travel Agent,Breakfast,3,5,109,4648,0,4000,33990,UPI,Checked-out,3.8,0.71188
+HB1919,19-09-2025,11-12-2025,Blue Bay Resort,WEST,Goa,Deluxe,Business,Travel Agent,Room Only,3,2,83,5534,15,0,9408,UPI,Confirmed,4.3,0.456896
+HB1920,18-07-2025,10-08-2025,Urban Nest Hotel,SOUTH,Hyderabad,Deluxe,Business,Booking Portal,Room Only,4,2,23,5376,5,1500,11714,UPI,Confirmed,3.6,0.428568
+HB1921,12-08-2025,23-10-2025,City Central Hotel,WEST,Ahmedabad,Standard,Leisure,Website,Breakfast,1,7,72,3168,20,500,21391,Credit Card,Checked-out,3,0.496692
+HB1922,22-04-2025,12-07-2025,Golden Sands Hotel,NORTH,Jaipur,Standard,Family,Mobile App,Breakfast,2,5,81,2384,10,0,15228,Credit Card,Checked-in,3.9,0.494736
+HB1923,02-09-2025,06-10-2025,Silver Oak Resort,SOUTH,Chennai,Suite,Family,Travel Agent,Full Board,2,1,34,11840,0,0,14440,Cash,Cancelled,3.8,0.47728
+HB1924,02-10-2025,21-01-2026,Lakeview Grand,CENTRAL,Bhopal,Family,Business,Booking Portal,Full Board,3,5,111,6139,5,2500,51160,Net Banking,Checked-in,4.5,0.97392
+HB1925,06-05-2025,29-06-2025,Mountain View Resort,NORTH,Lucknow,Suite,Couple,Travel Agent,Room Only,2,3,54,11878,5,1000,34852,UPI,Checked-out,3.4,0.690224
+HB1926,17-01-2025,17-03-2025,Green Valley Inn,EAST,Kolkata,Deluxe,Family,Walk-in,Half Board,5,6,59,5416,10,500,56746,UPI,Confirmed,4,1.000952
+HB1927,07-07-2025,08-09-2025,Sunrise Palace,SOUTH,Kochi,Family,Leisure,Travel Agent,Breakfast,2,2,63,6663,0,4000,19126,Debit Card,Checked-in,3.9,0.541512
+HB1928,27-03-2025,12-04-2025,Grand Horizon Hotel,NORTH,Chandigarh,Suite,Family,Website,Room Only,1,4,16,7649,25,500,23447,UPI,Cancelled,4.1,0.609364
+HB1929,18-02-2025,26-03-2025,The Palm Residency,SOUTH,Bengaluru,Standard,Leisure,Booking Portal,Half Board,3,2,36,2624,20,0,9598,UPI,Cancelled,4.8,0.499176
+HB1930,03-01-2025,28-02-2025,Pearl Garden Hotel,SOUTH,Kochi,Executive,Leisure,Walk-in,Half Board,3,3,56,4862,5,1000,22957,UPI,Cancelled,3.7,0.571484
+HB1931,22-01-2025,17-05-2025,Golden Sands Hotel,SOUTH,Hyderabad,Executive,Business,Booking Portal,Half Board,3,5,115,7463,15,0,45218,Debit Card,Checked-out,4.5,0.902616
+HB1932,09-10-2025,06-11-2025,Royal Orchid Suites,WEST,Goa,Executive,Leisure,Booking Portal,Room Only,4,4,28,6459,20,1000,21669,UPI,Confirmed,3.8,0.564028
+HB1933,09-06-2025,24-08-2025,Lakeview Grand,WEST,Mumbai,Deluxe,Leisure,Mobile App,Full Board,4,6,76,4648,5,0,57694,Debit Card,Checked-out,3.3,0.956328
+HB1934,03-02-2025,09-03-2025,Metro Heights,NORTH,Jaipur,Standard,Business,Website,Room Only,3,3,34,1856,0,0,5568,UPI,Checked-out,4.1,0.394816
+HB1935,24-07-2025,09-11-2025,Urban Nest Hotel,WEST,Mumbai,Deluxe,Business,Booking Portal,Breakfast,4,4,108,6117,5,0,30445,UPI,Cancelled,3.2,0.62134
+HB1936,23-02-2025,03-06-2025,Pearl Garden Hotel,SOUTH,Bengaluru,Deluxe,Family,Mobile App,Room Only,2,5,100,4854,5,0,23056,Cash,Confirmed,3.9,0.588672
+HB1937,13-06-2025,15-09-2025,Blue Bay Resort,SOUTH,Bengaluru,Family,Business,Mobile App,Breakfast,4,1,94,5830,10,1000,8047,Debit Card,Cancelled,3.9,0.408564
+HB1938,03-08-2025,09-10-2025,Metro Heights,SOUTH,Kochi,Suite,Couple,Website,Breakfast,2,2,67,12270,5,0,25113,UPI,Confirmed,4.9,0.693356
+HB1939,21-01-2025,16-03-2025,Green Valley Inn,NORTH,Jaipur,Deluxe,Business,Booking Portal,Half Board,2,7,54,4854,5,1500,46379,Credit Card,Checked-out,4.5,0.916548
+HB1940,23-07-2025,05-10-2025,Metro Heights,CENTRAL,Raipur,Standard,Leisure,Booking Portal,Breakfast,2,4,74,3177,10,0,15037,Credit Card,Confirmed,4.2,0.516444
+HB1941,17-07-2025,01-08-2025,Golden Sands Hotel,SOUTH,Hyderabad,Deluxe,Leisure,Website,Room Only,4,5,15,4181,10,0,18814,Credit Card,Checked-out,4.4,0.577768
+HB1942,23-08-2025,31-10-2025,Royal Orchid Suites,NORTH,Jaipur,Standard,Couple,Mobile App,Breakfast,5,3,69,2307,10,1500,14479,Debit Card,Checked-in,3.7,0.469748
+HB1943,27-03-2025,01-05-2025,Crown Plaza Residency,EAST,Kolkata,Deluxe,Leisure,Website,Room Only,2,3,35,4487,5,2500,15288,UPI,Checked-out,4.9,0.575456
+HB1944,02-04-2025,20-04-2025,Urban Nest Hotel,NORTH,Chandigarh,Standard,Leisure,Website,Room Only,4,4,18,3423,5,500,13507,Credit Card,Checked-out,3.9,0.474084
+HB1945,10-02-2025,07-03-2025,Mountain View Resort,NORTH,Lucknow,Family,Leisure,Website,Breakfast,2,3,25,4977,0,0,17631,Credit Card,Checked-out,4.1,0.539572
+HB1946,01-02-2025,13-02-2025,Urban Nest Hotel,SOUTH,Kochi,Executive,Leisure,Mobile App,Breakfast,3,3,12,4093,5,0,15715,Debit Card,Confirmed,3.7,0.48458
+HB1947,28-07-2025,03-10-2025,Green Valley Inn,EAST,Kolkata,Family,Business,Mobile App,Breakfast,2,3,67,9279,15,0,26361,Credit Card,Checked-in,3.8,0.620332
+HB1948,10-06-2025,21-08-2025,Mountain View Resort,NORTH,Jaipur,Deluxe,Business,Booking Portal,Full Board,3,4,72,5224,25,500,31772,Credit Card,Checked-out,3.3,0.645264
+HB1949,31-10-2025,30-01-2026,Golden Sands Hotel,WEST,Ahmedabad,Standard,Couple,Booking Portal,Full Board,2,4,91,1860,0,500,18340,UPI,Confirmed,4.9,0.61208
+HB1950,31-12-2025,31-01-2026,Metro Heights,SOUTH,Hyderabad,Deluxe,Leisure,Mobile App,Breakfast,4,2,31,3692,0,500,11484,Cash,Checked-out,4.6,0.505808
+HB1951,08-05-2025,15-05-2025,Royal Orchid Suites,SOUTH,Hyderabad,Deluxe,Leisure,Walk-in,Breakfast,1,6,7,4251,10,1000,26655,Net Banking,Confirmed,4.1,0.64786
+HB1952,04-10-2025,03-11-2025,Royal Orchid Suites,SOUTH,Chennai,Standard,Business,Booking Portal,Half Board,4,2,30,3850,10,500,14630,Credit Card,Checked-out,3,0.41556
+HB1953,29-04-2025,23-07-2025,Blue Bay Resort,NORTH,Jaipur,Standard,Leisure,Website,Room Only,3,1,85,2004,20,0,1603,UPI,Cancelled,4.2,0.355236
+HB1954,09-01-2025,21-03-2025,City Central Hotel,SOUTH,Bengaluru,Standard,Leisure,Booking Portal,Breakfast,5,3,71,2134,20,0,11872,Debit Card,Checked-out,3.7,0.438464
+HB1955,21-08-2025,30-10-2025,Urban Nest Hotel,SOUTH,Hyderabad,Family,Leisure,Website,Breakfast,1,3,70,9821,5,4000,33340,Debit Card,Confirmed,4.3,0.74408
+HB1956,30-06-2025,15-08-2025,Golden Sands Hotel,SOUTH,Chennai,Standard,Business,Travel Agent,Room Only,4,6,46,2107,15,1000,11746,UPI,Checked-out,3.7,0.436952
+HB1957,05-06-2025,07-09-2025,Lakeview Grand,WEST,Goa,Deluxe,Family,Mobile App,Room Only,1,1,94,4442,5,1500,5720,UPI,Checked-in,2.6,0.27664
+HB1958,05-07-2025,20-08-2025,Crown Plaza Residency,WEST,Ahmedabad,Family,Solo,Booking Portal,Full Board,3,4,46,8063,10,4000,48627,Debit Card,Checked-in,3.8,0.887524
+HB1959,21-04-2025,07-06-2025,Grand Horizon Hotel,WEST,Goa,Executive,Leisure,Booking Portal,Full Board,2,5,47,6215,25,2500,38806,Credit Card,Confirmed,3.1,0.713672
+HB1960,12-05-2025,02-09-2025,Royal Orchid Suites,SOUTH,Bengaluru,Deluxe,Leisure,Website,Breakfast,1,4,113,3829,5,500,16850,Credit Card,Checked-out,4.4,0.5542
+HB1961,10-07-2025,16-10-2025,City Central Hotel,SOUTH,Kochi,Family,Solo,Website,Breakfast,2,3,98,9318,0,1500,32154,Debit Card,Confirmed,2.9,0.617848
+HB1962,18-07-2025,28-09-2025,Sunrise Palace,SOUTH,Bengaluru,Standard,Business,Website,Full Board,3,7,72,2566,0,1000,46262,Credit Card,Confirmed,3.5,0.835144
+HB1963,19-10-2025,15-12-2025,Sunrise Palace,WEST,Pune,Deluxe,Business,Travel Agent,Breakfast,5,3,57,5548,10,0,21730,UPI,Checked-out,4,0.58076
+HB1964,13-06-2025,17-06-2025,City Central Hotel,WEST,Pune,Suite,Family,Mobile App,Breakfast,3,4,4,11573,10,1000,48063,Cash,Cancelled,3.4,0.848756
+HB1965,23-10-2025,05-01-2026,Metro Heights,WEST,Mumbai,Standard,Leisure,Booking Portal,Breakfast,2,3,74,2196,5,1500,10459,Debit Card,Checked-out,3.8,0.429508
+HB1966,15-06-2025,12-07-2025,Green Valley Inn,EAST,Bhubaneswar,Executive,Business,Mobile App,Half Board,2,2,27,4175,10,0,11115,Credit Card,Confirmed,4.1,0.46138
+HB1967,30-01-2025,17-04-2025,Blue Bay Resort,SOUTH,Hyderabad,Deluxe,Business,Mobile App,Half Board,3,1,77,3454,10,2500,8309,UPI,Checked-out,3.1,0.347708
+HB1968,17-02-2025,30-03-2025,Silver Oak Resort,EAST,Guwahati,Family,Leisure,Booking Portal,Breakfast,5,2,41,8297,0,0,21094,UPI,Cancelled,3,0.493128
+HB1969,04-01-2025,24-01-2025,Sunrise Palace,EAST,Bhubaneswar,Standard,Couple,Website,Room Only,4,1,20,2427,0,1500,3927,Credit Card,Checked-out,4.1,0.375124
+HB1970,14-08-2025,04-10-2025,Lakeview Grand,WEST,Ahmedabad,Standard,Couple,Travel Agent,Room Only,3,4,51,3717,10,0,13381,UPI,Checked-out,4.4,0.512572
+HB1971,26-09-2025,05-10-2025,Silver Oak Resort,WEST,Pune,Suite,Couple,Website,Breakfast,4,2,9,11320,0,0,26240,UPI,Checked-out,4.8,0.69888
+HB1972,23-01-2025,26-03-2025,The Palm Residency,SOUTH,Bengaluru,Executive,Couple,Mobile App,Breakfast,4,4,62,4368,5,1000,24798,Credit Card,Confirmed,4.2,0.633576
+HB1973,19-11-2025,11-01-2026,Silver Oak Resort,WEST,Goa,Standard,Couple,Mobile App,Full Board,3,5,53,2022,15,1000,29094,Net Banking,Checked-out,3.5,0.629128
+HB1974,30-04-2025,22-05-2025,Blue Bay Resort,WEST,Mumbai,Standard,Leisure,Walk-in,Room Only,3,2,22,3231,10,500,6316,UPI,Cancelled,3.8,0.379792
+HB1975,21-07-2025,24-09-2025,Royal Orchid Suites,WEST,Ahmedabad,Standard,Business,Mobile App,Half Board,2,4,65,2302,10,1500,16987,Cash,Checked-in,4,0.523844
+HB1976,15-06-2025,17-07-2025,Sunrise Palace,NORTH,Delhi,Executive,Business,Website,Full Board,4,1,32,5553,10,4000,14198,UPI,Confirmed,3.2,0.426376
+HB1977,29-11-2025,22-01-2026,Mountain View Resort,EAST,Patna,Deluxe,Leisure,Walk-in,Breakfast,3,7,54,4031,0,0,37667,UPI,Checked-out,3.9,0.764004
+HB1978,07-09-2025,10-12-2025,Royal Orchid Suites,NORTH,Delhi,Deluxe,Business,Mobile App,Breakfast,2,4,94,3206,5,1000,16783,UPI,Confirmed,3.7,0.497396
+HB1979,04-12-2025,22-01-2026,Urban Nest Hotel,WEST,Ahmedabad,Family,Family,Booking Portal,Breakfast,2,3,49,6348,5,500,21292,Cash,Checked-in,4,0.575504
+HB1980,04-07-2025,27-08-2025,Blue Bay Resort,WEST,Goa,Executive,Leisure,Travel Agent,Breakfast,3,7,54,5425,0,1000,48425,Debit Card,Confirmed,4.7,0.9571
+HB1981,16-02-2025,11-06-2025,Urban Nest Hotel,WEST,Ahmedabad,Deluxe,Leisure,Booking Portal,Room Only,4,4,115,3327,0,0,13308,Credit Card,Checked-in,3.6,0.447696
+HB1982,03-01-2025,25-01-2025,Crown Plaza Residency,WEST,Ahmedabad,Deluxe,Solo,Website,Breakfast,2,3,22,4676,15,500,15124,Debit Card,Confirmed,4.4,0.533488
+HB1983,22-10-2025,05-01-2026,Green Valley Inn,WEST,Ahmedabad,Executive,Family,Website,Half Board,2,2,75,7025,0,0,17650,Net Banking,Checked-out,5,0.6118
+HB1984,22-08-2025,02-09-2025,Crown Plaza Residency,NORTH,Lucknow,Executive,Leisure,Booking Portal,Room Only,3,3,11,4426,5,0,12614,UPI,Checked-out,3.8,0.455368
+HB1985,08-12-2025,02-04-2026,Grand Horizon Hotel,WEST,Goa,Family,Leisure,Walk-in,Room Only,5,3,115,5740,15,1000,15637,Cash,Checked-out,4,0.507644
+HB1986,17-04-2025,31-07-2025,Royal Orchid Suites,NORTH,Jaipur,Executive,Family,Website,Full Board,4,2,105,6011,0,500,22922,UPI,Confirmed,4.1,0.603064
+HB1987,15-09-2025,30-10-2025,Golden Sands Hotel,SOUTH,Hyderabad,Deluxe,Family,Travel Agent,Room Only,2,2,45,5071,10,1000,10128,UPI,Confirmed,3.9,0.433536
+HB1988,07-07-2025,12-08-2025,Crown Plaza Residency,SOUTH,Chennai,Deluxe,Family,Booking Portal,Full Board,4,3,36,4675,0,2500,32125,Credit Card,Checked-out,4.7,0.7615
+HB1989,20-03-2025,18-06-2025,Urban Nest Hotel,WEST,Pune,Deluxe,Family,Booking Portal,Breakfast,4,2,90,5445,10,2500,15901,Credit Card,Checked-out,4.2,0.526812
+HB1990,22-03-2025,17-06-2025,Golden Sands Hotel,SOUTH,Chennai,Executive,Leisure,Website,Breakfast,2,4,87,4699,15,0,19577,Debit Card,Checked-in,3.9,0.546924
+HB1991,03-03-2025,18-06-2025,Mountain View Resort,SOUTH,Hyderabad,Standard,Business,Travel Agent,Room Only,2,3,107,2040,15,2500,7702,UPI,Checked-in,4.8,0.476424
+HB1992,10-12-2025,22-03-2026,City Central Hotel,SOUTH,Bengaluru,Executive,Solo,Website,Room Only,2,5,102,6848,15,1000,30104,Credit Card,Checked-out,4.7,0.737248
+HB1993,07-08-2025,27-10-2025,Pearl Garden Hotel,NORTH,Lucknow,Suite,Leisure,Website,Breakfast,5,3,81,13290,20,0,38646,Net Banking,Checked-in,4.3,0.807752
+HB1994,14-10-2025,21-12-2025,Grand Horizon Hotel,WEST,Pune,Standard,Leisure,Website,Breakfast,2,1,68,2885,0,2500,6285,Credit Card,Checked-in,3.7,0.37142
+HB1995,19-09-2025,03-10-2025,Grand Horizon Hotel,SOUTH,Kochi,Deluxe,Business,Booking Portal,Full Board,2,5,14,3941,0,500,33205,Net Banking,Checked-out,4.7,0.77446
+HB1996,07-08-2025,09-10-2025,Grand Horizon Hotel,CENTRAL,Nagpur,Deluxe,Leisure,Mobile App,Breakfast,5,3,63,3336,15,1000,16257,Debit Card,Checked-in,3.2,0.451084
+HB1997,13-06-2025,21-06-2025,City Central Hotel,SOUTH,Bengaluru,Family,Business,Website,Breakfast,2,2,8,5022,20,0,9835,Credit Card,Checked-in,4.4,0.47002
+HB1998,24-01-2025,02-03-2025,Metro Heights,NORTH,Jaipur,Deluxe,Leisure,Travel Agent,Half Board,2,6,37,3944,0,2500,36964,UPI,Confirmed,4.4,0.795568
+HB1999,06-03-2025,27-05-2025,Crown Plaza Residency,CENTRAL,Nagpur,Deluxe,Business,Mobile App,Full Board,2,2,82,4266,5,0,13305,Credit Card,Checked-out,3.8,0.46366
+HB2000,05-11-2025,08-12-2025,Sunrise Palace,EAST,Bhubaneswar,Executive,Leisure,Booking Portal,Full Board,5,2,33,4692,0,4000,26384,Credit Card,Cancelled,3.6,0.604608
